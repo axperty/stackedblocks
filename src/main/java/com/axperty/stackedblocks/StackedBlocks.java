@@ -1,18 +1,25 @@
 package com.axperty.stackedblocks;
 
-import com.axperty.stackedblocks.registry.CreativeTabRegistry;
 import com.axperty.stackedblocks.registry.BlockRegistry;
-import net.fabricmc.api.ModInitializer;
+import com.axperty.stackedblocks.registry.CreativeTabRegistry;
+import com.axperty.stackedblocks.registry.ItemRegistry;
+import com.mojang.logging.LogUtils;
+import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
-public class StackedBlocks implements ModInitializer {
-    public static final String MODID = "stackedblocks";
-    public static final Logger LOGGER = LoggerFactory.getLogger(MODID);
+@Mod(StackedBlocks.MOD_ID)
+public class StackedBlocks {
+    public static final String MOD_ID = "stackedblocks";
+    public static final Logger LOGGER = LogUtils.getLogger();
 
-    @Override
-    public void onInitialize() {
-        CreativeTabRegistry.registerItemGroups();
-        BlockRegistry.registerModBlocks();
+    public StackedBlocks() {
+        IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+        BlockRegistry.register(modEventBus);
+        ItemRegistry.register(modEventBus);
+        CreativeTabRegistry.register(modEventBus);
+        MinecraftForge.EVENT_BUS.register(this);
     }
 }
