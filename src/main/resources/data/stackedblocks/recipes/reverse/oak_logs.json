@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "stackedblocks:stacked_oak_logs"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:oak_log"
+  }
+}
