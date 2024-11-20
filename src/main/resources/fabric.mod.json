@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "stackedblocks",
+  "version": "24.11.20-1.19-fabric",
+  "name": "Stacked Blocks",
+  "description": "A mod that adds stacked blocks to the game.",
+  "authors": [
+    "Axperty"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/members/axperty/projects"
+  },
+  "license": "MIT License",
+  "icon": "assets/stackedblocks/logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.axperty.stackedblocks.StackedBlocks"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": ">=1.19",
+    "java": ">=17"
+  }
+}
