@@ -29,5 +29,5 @@
   "block.stackedblocks.stacked_warped_stems": "積み重ねられた歪んだ茎",
   "block.stackedblocks.stacked_stripped_warped_stems": "積み重ねられた剥かれた歪んだ茎",
 
-  "itemGroup.stackedblocks": "Stacked Blocks"
+  "itemGroup.stackedblocks.creative_tab": "Stacked Blocks"
 }

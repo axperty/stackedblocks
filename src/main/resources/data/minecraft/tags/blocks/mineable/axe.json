@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "stackedblocks:stacked_melons",
+    "stackedblocks:stacked_pumpkins",
+    "stackedblocks:stacked_oak_logs",
+    "stackedblocks:stacked_stripped_oak_logs",
+    "stackedblocks:stacked_spruce_logs",
+    "stackedblocks:stacked_stripped_spruce_logs",
+    "stackedblocks:stacked_birch_logs",
+    "stackedblocks:stacked_stripped_birch_logs",
+    "stackedblocks:stacked_jungle_logs",
+    "stackedblocks:stacked_stripped_jungle_logs",
+    "stackedblocks:stacked_acacia_logs",
+    "stackedblocks:stacked_stripped_acacia_logs",
+    "stackedblocks:stacked_dark_oak_logs",
+    "stackedblocks:stacked_stripped_dark_oak_logs",
+    "stackedblocks:stacked_mangrove_logs",
+    "stackedblocks:stacked_stripped_mangrove_logs",
+    "stackedblocks:stacked_crimson_stems",
+    "stackedblocks:stacked_stripped_crimson_stems",
+    "stackedblocks:stacked_warped_stems",
+    "stackedblocks:stacked_stripped_warped_stems"
+  ]
+}
