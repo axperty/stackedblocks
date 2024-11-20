@@ -30,11 +30,6 @@ public class BlockRegistry {
         BlockList.STACKED_BRICKS = block("stacked_bricks",
                 new Block(AbstractBlock.Settings.copy(Blocks.BRICKS)));
 
-        if (FabricLoader.getInstance().isModLoaded("farmersdelight")) {
-            BlockList.STACKED_ORGANIC_COMPOST = block("stacked_organic_compost",
-                    new Block(AbstractBlock.Settings.copy(Blocks.DIRT)));
-        }
-
         BlockList.STACKED_MELONS = block("stacked_melons",
                 new Block(AbstractBlock.Settings.copy(Blocks.OAK_PLANKS)));
 

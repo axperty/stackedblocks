@@ -15,9 +15,6 @@ public class BlockList {
     // Stacked Bricks
     public static Block STACKED_BRICKS;
 
-    // Stacked Organic Compost (Farmer's Delight)
-    public static Block STACKED_ORGANIC_COMPOST;
-
     // Stacked Melons
     public static Block STACKED_MELONS;
 
