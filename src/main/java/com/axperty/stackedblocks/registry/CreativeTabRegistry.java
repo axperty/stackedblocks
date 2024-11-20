@@ -23,11 +23,6 @@ public class CreativeTabRegistry {
                         pOutput.accept(BlockRegistry.STACKED_COBBLESTONE_BLOCKS.get());
                         pOutput.accept(BlockRegistry.STACKED_NETHERRACK_BLOCKS.get());
                         pOutput.accept(BlockRegistry.STACKED_BRICKS.get());
-
-                        if (ModList.get().isLoaded("farmersdelight")) {
-                            pOutput.accept(BlockRegistry.STACKED_ORGANIC_COMPOST.get());
-                        }
-
                         pOutput.accept(BlockRegistry.STACKED_MELONS.get());
                         pOutput.accept(BlockRegistry.STACKED_PUMPKINS.get());
                         pOutput.accept(BlockRegistry.STACKED_OAK_LOGS.get());

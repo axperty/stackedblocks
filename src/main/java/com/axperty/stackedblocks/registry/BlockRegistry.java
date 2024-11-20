@@ -34,10 +34,6 @@ public class BlockRegistry {
     public static final RegistryObject<Block> STACKED_BRICKS = registerBlock("stacked_bricks",
             () -> new Block(Block.Properties.copy(Blocks.BRICKS)));
 
-    // Stacked Organic Compost (Farmer's Delight)
-    public static final RegistryObject<Block> STACKED_ORGANIC_COMPOST = registerBlock("stacked_organic_compost",
-            () -> new Block(Block.Properties.copy(Blocks.DIRT)));
-
     // Stacked Melons
     public static final RegistryObject<Block> STACKED_MELONS = registerBlock("stacked_melons",
             () -> new Block(Block.Properties.copy(Blocks.MELON)));
