@@ -22,11 +22,6 @@ public class CreativeTabRegistry {
                         entries.add(BlockRegistry.STACKED_COBBLESTONE_BLOCKS);
                         entries.add(BlockRegistry.STACKED_NETHERRACK_BLOCKS);
                         entries.add(BlockRegistry.STACKED_BRICKS);
-
-                        if (FabricLoader.getInstance().isModLoaded("farmersdelight")) {
-                            entries.add(BlockRegistry.STACKED_ORGANIC_COMPOST);
-                        }
-
                         entries.add(BlockRegistry.STACKED_MELONS);
                         entries.add(BlockRegistry.STACKED_PUMPKINS);
                         entries.add(BlockRegistry.STACKED_OAK_LOGS);

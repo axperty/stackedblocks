@@ -26,10 +26,6 @@ public class BlockRegistry {
     public static final Block STACKED_BRICKS = registerBlock("stacked_bricks",
             new Block(AbstractBlock.Settings.copy(Blocks.BRICKS)));
 
-    // Stacked Organic Compost (Farmer's Delight)
-    public static final Block STACKED_ORGANIC_COMPOST = registerBlock("stacked_organic_compost",
-            new Block(AbstractBlock.Settings.copy(Blocks.DIRT)));
-
     // Stacked Melons
     public static final Block STACKED_MELONS = registerBlock("stacked_melons",
             new Block(AbstractBlock.Settings.copy(Blocks.OAK_PLANKS)));
