@@ -7,12 +7,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:jungle_log"
-    },
-    "R": {
-      "item": "minecraft:lead"
-    }
+    "#": "minecraft:jungle_log",
+    "R": "minecraft:lead"
   },
   "result": {
     "count": 1,

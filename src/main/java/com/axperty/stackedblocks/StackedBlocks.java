@@ -15,8 +15,8 @@ public class StackedBlocks {
     public static final String MOD_ID = "stackedblocks";
     public static final Logger LOGGER = LogUtils.getLogger();
 
-    public StackedBlocks() {
-        IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+    public StackedBlocks(FMLJavaModLoadingContext context) {
+        IEventBus modEventBus = context.getModEventBus();
         BlockRegistry.register(modEventBus);
         ItemRegistry.register(modEventBus);
         CreativeTabRegistry.register(modEventBus);

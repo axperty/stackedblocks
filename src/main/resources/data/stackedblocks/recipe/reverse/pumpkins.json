@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "stackedblocks:stacked_pumpkins"
-    }
+    "stackedblocks:stacked_pumpkins"
   ],
   "result": {
     "count": 8,

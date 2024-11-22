@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "stackedblocks:stacked_cobblestone_blocks"
-    }
+    "stackedblocks:stacked_cobblestone_blocks"
   ],
   "result": {
     "count": 8,
