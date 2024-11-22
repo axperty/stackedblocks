@@ -13,12 +13,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:mangrove_log"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:mangrove_log",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,

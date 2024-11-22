@@ -13,12 +13,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:cobblestone"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:cobblestone",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,

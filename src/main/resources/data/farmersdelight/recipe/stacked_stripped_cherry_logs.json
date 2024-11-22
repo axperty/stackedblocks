@@ -13,12 +13,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:stripped_cherry_log"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:stripped_cherry_log",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,

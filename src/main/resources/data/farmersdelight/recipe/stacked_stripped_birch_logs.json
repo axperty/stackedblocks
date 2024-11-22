@@ -13,12 +13,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:stripped_birch_log"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:stripped_birch_log",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,

@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "stackedblocks:stacked_bricks"
-    }
+    "stackedblocks:stacked_bricks"
   ],
   "result": {
     "count": 8,

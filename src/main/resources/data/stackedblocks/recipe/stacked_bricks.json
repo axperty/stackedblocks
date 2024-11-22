@@ -7,12 +7,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:bricks"
-    },
-    "R": {
-      "item": "minecraft:lead"
-    }
+    "#": "minecraft:bricks",
+    "R": "minecraft:lead"
   },
   "result": {
     "count": 1,

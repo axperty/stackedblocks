@@ -13,12 +13,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:netherrack"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:netherrack",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,

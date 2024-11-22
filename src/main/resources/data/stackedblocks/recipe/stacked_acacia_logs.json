@@ -7,12 +7,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:acacia_log"
-    },
-    "R": {
-      "item": "minecraft:lead"
-    }
+    "#": "minecraft:acacia_log",
+    "R": "minecraft:lead"
   },
   "result": {
     "count": 1,

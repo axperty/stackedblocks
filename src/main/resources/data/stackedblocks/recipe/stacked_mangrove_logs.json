@@ -7,12 +7,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:mangrove_log"
-    },
-    "R": {
-      "item": "minecraft:lead"
-    }
+    "#": "minecraft:mangrove_log",
+    "R": "minecraft:lead"
   },
   "result": {
     "count": 1,

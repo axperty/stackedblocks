@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:stripped_oak_log",
+    "R": "minecraft:lead"
+  },
+  "result": {
+    "count": 1,
+    "id": "stackedblocks:stacked_stripped_oak_logs"
+  }
+}

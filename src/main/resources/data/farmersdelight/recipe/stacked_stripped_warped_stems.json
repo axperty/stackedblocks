@@ -13,12 +13,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:stripped_warped_stem"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:stripped_warped_stem",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,

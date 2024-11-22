@@ -13,12 +13,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:stripped_jungle_log"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:stripped_jungle_log",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,

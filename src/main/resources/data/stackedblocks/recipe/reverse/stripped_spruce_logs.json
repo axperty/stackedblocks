@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "stackedblocks:stacked_stripped_spruce_logs"
-    }
+    "stackedblocks:stacked_stripped_spruce_logs"
   ],
   "result": {
     "count": 8,
