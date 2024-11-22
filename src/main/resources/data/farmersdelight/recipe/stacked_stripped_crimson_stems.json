@@ -15,12 +15,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:stripped_crimson_stem"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:stripped_crimson_stem",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,

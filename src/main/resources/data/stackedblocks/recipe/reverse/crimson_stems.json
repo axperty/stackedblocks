@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "stackedblocks:stacked_crimson_stems"
-    }
+    "stackedblocks:stacked_crimson_stems"
   ],
   "result": {
     "count": 8,

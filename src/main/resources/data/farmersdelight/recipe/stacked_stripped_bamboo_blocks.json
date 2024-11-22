@@ -15,12 +15,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:stripped_bamboo_block"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:stripped_bamboo_block",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,

@@ -7,12 +7,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:cherry_log"
-    },
-    "R": {
-      "item": "minecraft:lead"
-    }
+    "#": "minecraft:cherry_log",
+    "R": "minecraft:lead"
   },
   "result": {
     "count": 1,

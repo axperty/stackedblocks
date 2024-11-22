@@ -15,12 +15,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:stripped_mangrove_log"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:stripped_mangrove_log",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,

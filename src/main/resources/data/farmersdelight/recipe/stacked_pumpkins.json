@@ -15,12 +15,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:pumpkin"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:pumpkin",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,

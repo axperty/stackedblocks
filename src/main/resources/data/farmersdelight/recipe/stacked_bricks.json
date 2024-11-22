@@ -15,12 +15,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:bricks"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:bricks",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,

@@ -15,12 +15,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:acacia_log"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:acacia_log",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,

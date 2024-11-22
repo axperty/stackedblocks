@@ -15,12 +15,8 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:spruce_log"
-    },
-    "R": {
-      "item": "farmersdelight:rope"
-    }
+    "#": "minecraft:spruce_log",
+    "R": "farmersdelight:rope"
   },
   "result": {
     "count": 1,
