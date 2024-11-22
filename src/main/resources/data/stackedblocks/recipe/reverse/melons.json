@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "stackedblocks:stacked_melons"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:melon"
+  }
+}
