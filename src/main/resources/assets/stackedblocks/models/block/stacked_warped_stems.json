@@ -2,7 +2,7 @@
   "parent": "minecraft:block/cube_bottom_top",
   "textures": {
     "side": "stackedblocks:block/stacked_warped_stems_side",
-    "bottom": "stackedblocks:block/stacked_warped_stems_top",
+    "bottom": "stackedblocks:block/stacked_warped_stems_bottom",
     "top": "stackedblocks:block/stacked_warped_stems_top"
   }
 }
