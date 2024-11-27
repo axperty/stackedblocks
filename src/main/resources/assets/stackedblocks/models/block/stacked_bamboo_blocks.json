@@ -2,7 +2,7 @@
   "parent": "minecraft:block/cube_bottom_top",
   "textures": {
     "side": "stackedblocks:block/stacked_bamboo_blocks_side",
-    "bottom": "stackedblocks:block/stacked_bamboo_blocks_top",
+    "bottom": "stackedblocks:block/stacked_bamboo_blocks_bottom",
     "top": "stackedblocks:block/stacked_bamboo_blocks_top"
   }
 }
