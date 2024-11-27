@@ -1,10 +1,10 @@
 # Stacked Blocks
 
-[![CurseForge Downloads](https://img.shields.io/curseforge/dt/958291?style=flat&logo=curseforge&logoColor=%23F16436&label=CurseForge&labelColor=%232D2C2C&color=%23F16436)](https://www.curseforge.com/minecraft/mc-mods/crate-delight-forge)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1144737?style=flat&logo=curseforge&logoColor=%23F16436&label=CurseForge&labelColor=%232D2C2C&color=%23F16436)](https://www.curseforge.com/minecraft/mc-mods/stacked-blocks)
 [![Discord](https://img.shields.io/discord/1194733791818821663?style=flat&logo=discord&logoColor=%23FFFFFF&label=Discord&labelColor=2D2C2C&color=%234e992e)](https://discord.gg/e2BQx4bbsU)
 [![PayPal](https://img.shields.io/badge/Donate%20on%20PayPal-0079C1?style=flat&logo=paypal)](https://paypal.me/kevgelhorn)
 
-![Stacked Blocks](https://cdn.modrinth.com/data/UYrNpKJN/images/77fc81f6bd2210b79114a851218de5f4a7d50276.png)
+![Stacked Blocks](https://cdn.modrinth.com/data/UYrNpKJN/images/28fbdff482a08cd94d0873f5bc26922efe5e5e11.png)
 
 ***
 
