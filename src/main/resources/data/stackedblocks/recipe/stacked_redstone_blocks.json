@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:redstone_block",
+    "R": "minecraft:lead"
+  },
+  "result": {
+    "count": 1,
+    "id": "stackedblocks:stacked_redstone_blocks"
+  }
+}

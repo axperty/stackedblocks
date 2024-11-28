@@ -26,6 +26,33 @@ public class ItemRegistry {
     // Stacked Pumpkins Item
     public static final DeferredItem<BlockItem> STACKED_PUMPKINS_ITEM = ITEMS.registerSimpleBlockItem("stacked_pumpkins", BlockRegistry.STACKED_PUMPKINS);
 
+    // Stacked Lapis Blocks Item
+    public static final DeferredItem<BlockItem> STACKED_LAPIS_BLOCKS_ITEM = ITEMS.registerSimpleBlockItem("stacked_lapis_blocks", BlockRegistry.STACKED_LAPIS_BLOCKS);
+
+    // Stacked Redstone Blocks Item
+    public static final DeferredItem<BlockItem> STACKED_REDSTONE_BLOCKS_ITEM = ITEMS.registerSimpleBlockItem("stacked_redstone_blocks", BlockRegistry.STACKED_REDSTONE_BLOCKS);
+
+    // Stacked Coal Blocks Item
+    public static final DeferredItem<BlockItem> STACKED_COAL_BLOCKS_ITEM = ITEMS.registerSimpleBlockItem("stacked_coal_blocks", BlockRegistry.STACKED_COAL_BLOCKS);
+
+    // Stacked Iron Blocks Item
+    public static final DeferredItem<BlockItem> STACKED_IRON_BLOCKS_ITEM = ITEMS.registerSimpleBlockItem("stacked_iron_blocks", BlockRegistry.STACKED_IRON_BLOCKS);
+
+    // Stacked Gold Blocks Item
+    public static final DeferredItem<BlockItem> STACKED_GOLD_BLOCKS_ITEM = ITEMS.registerSimpleBlockItem("stacked_gold_blocks", BlockRegistry.STACKED_GOLD_BLOCKS);
+
+    // Stacked Emerald Blocks Item
+    public static final DeferredItem<BlockItem> STACKED_EMERALD_BLOCKS_ITEM = ITEMS.registerSimpleBlockItem("stacked_emerald_blocks", BlockRegistry.STACKED_EMERALD_BLOCKS);
+
+    // Stacked Diamond Blocks Item
+    public static final DeferredItem<BlockItem> STACKED_DIAMOND_BLOCKS_ITEM = ITEMS.registerSimpleBlockItem("stacked_diamond_blocks", BlockRegistry.STACKED_DIAMOND_BLOCKS);
+
+    // Stacked Netherite Blocks Item
+    public static final DeferredItem<BlockItem> STACKED_NETHERITE_BLOCKS_ITEM = ITEMS.registerSimpleBlockItem("stacked_netherite_blocks", BlockRegistry.STACKED_NETHERITE_BLOCKS);
+
+    // Stacked Quartz Blocks Item
+    public static final DeferredItem<BlockItem> STACKED_QUARTZ_BLOCKS_ITEM = ITEMS.registerSimpleBlockItem("stacked_quartz_blocks", BlockRegistry.STACKED_QUARTZ_BLOCKS);
+
     // Stacked Oak Logs Item
     public static final DeferredItem<BlockItem> STACKED_OAK_LOGS_ITEM = ITEMS.registerSimpleBlockItem("stacked_oak_logs", BlockRegistry.STACKED_OAK_LOGS);
 

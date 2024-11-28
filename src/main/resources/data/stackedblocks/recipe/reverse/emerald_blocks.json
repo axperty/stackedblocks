@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "stackedblocks:stacked_emerald_blocks"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:emerald_block"
+  }
+}

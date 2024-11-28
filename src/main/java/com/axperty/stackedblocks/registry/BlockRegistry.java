@@ -35,6 +35,42 @@ public class BlockRegistry {
     public static final DeferredBlock<Block> STACKED_PUMPKINS = BLOCKS.registerSimpleBlock("stacked_pumpkins",
             BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).mapColor(MapColor.WOOD));
 
+    // Stacked Lapis Blocks
+    public static final DeferredBlock<Block> STACKED_LAPIS_BLOCKS = BLOCKS.registerSimpleBlock("stacked_lapis_blocks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.LAPIS_BLOCK).mapColor(MapColor.WOOD));
+
+    // Stacked Redstone Blocks
+    public static final DeferredBlock<Block> STACKED_REDSTONE_BLOCKS = BLOCKS.registerSimpleBlock("stacked_redstone_blocks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.REDSTONE_BLOCK).mapColor(MapColor.WOOD));
+
+    // Stacked Coal Blocks
+    public static final DeferredBlock<Block> STACKED_COAL_BLOCKS = BLOCKS.registerSimpleBlock("stacked_coal_blocks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.COAL_BLOCK).mapColor(MapColor.WOOD));
+
+    // Stacked Iron Blocks
+    public static final DeferredBlock<Block> STACKED_IRON_BLOCKS = BLOCKS.registerSimpleBlock("stacked_iron_blocks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.IRON_BLOCK).mapColor(MapColor.WOOD));
+
+    // Stacked Gold Blocks
+    public static final DeferredBlock<Block> STACKED_GOLD_BLOCKS = BLOCKS.registerSimpleBlock("stacked_gold_blocks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.GOLD_BLOCK).mapColor(MapColor.WOOD));
+
+    // Stacked Emerald Blocks
+    public static final DeferredBlock<Block> STACKED_EMERALD_BLOCKS = BLOCKS.registerSimpleBlock("stacked_emerald_blocks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.EMERALD_BLOCK).mapColor(MapColor.WOOD));
+
+    // Stacked Diamond Blocks
+    public static final DeferredBlock<Block> STACKED_DIAMOND_BLOCKS = BLOCKS.registerSimpleBlock("stacked_diamond_blocks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.DIAMOND_BLOCK).mapColor(MapColor.WOOD));
+
+    // Stacked Netherite Blocks
+    public static final DeferredBlock<Block> STACKED_NETHERITE_BLOCKS = BLOCKS.registerSimpleBlock("stacked_netherite_blocks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.NETHERITE_BLOCK).mapColor(MapColor.WOOD));
+
+    // Stacked Quartz Blocks
+    public static final DeferredBlock<Block> STACKED_QUARTZ_BLOCKS = BLOCKS.registerSimpleBlock("stacked_quartz_blocks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.QUARTZ_BLOCK).mapColor(MapColor.WOOD));
+
     // Stacked Oak Logs
     public static final DeferredBlock<Block> STACKED_OAK_LOGS = BLOCKS.registerSimpleBlock("stacked_oak_logs",
             BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).mapColor(MapColor.WOOD));

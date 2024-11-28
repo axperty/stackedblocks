@@ -29,5 +29,15 @@
   "block.stackedblocks.stacked_warped_stems": "Stacked Warped Stems",
   "block.stackedblocks.stacked_stripped_warped_stems": "Stacked Stripped Warped Stems",
 
+  "block.stackedblocks.stacked_lapis_blocks": "Stacked Lapis Blocks",
+  "block.stackedblocks.stacked_redstone_blocks": "Stacked Redstone Blocks",
+  "block.stackedblocks.stacked_coal_blocks": "Stacked Coal Blocks",
+  "block.stackedblocks.stacked_iron_blocks": "Stacked Iron Blocks",
+  "block.stackedblocks.stacked_gold_blocks": "Stacked Gold Blocks",
+  "block.stackedblocks.stacked_emerald_blocks": "Stacked Emerald Blocks",
+  "block.stackedblocks.stacked_diamond_blocks": "Stacked Diamond Blocks",
+  "block.stackedblocks.stacked_netherite_blocks": "Stacked Netherite Blocks",
+  "block.stackedblocks.stacked_quartz_blocks": "Stacked Quartz Blocks",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

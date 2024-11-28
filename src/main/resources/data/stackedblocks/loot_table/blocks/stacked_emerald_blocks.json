@@ -1,0 +1,75 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "stackedblocks:stacked_emerald_blocks",
+              "conditions": [
+                {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "predicates": {
+                      "minecraft:enchantments": [
+                        {
+                          "enchantments": "minecraft:silk_touch",
+                          "levels": {
+                            "min": 1
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:loot_table",
+              "value": {
+                "type": "minecraft:block",
+                "pools": [
+                  {
+                    "rolls": 1,
+                    "entries": [
+                      {
+                        "type": "minecraft:item",
+                        "name": "minecraft:emerald",
+                        "functions": [
+                          {
+                            "function": "minecraft:set_count",
+                            "count": 8
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "rolls": 1,
+                    "entries": [
+                      {
+                        "type": "minecraft:item",
+                        "name": "minecraft:lead",
+                        "functions": [
+                          {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
