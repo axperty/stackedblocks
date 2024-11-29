@@ -39,7 +39,7 @@
                     "entries": [
                       {
                         "type": "minecraft:item",
-                        "name": "minecraft:netherite",
+                        "name": "minecraft:netherite_block",
                         "functions": [
                           {
                             "function": "minecraft:set_count",

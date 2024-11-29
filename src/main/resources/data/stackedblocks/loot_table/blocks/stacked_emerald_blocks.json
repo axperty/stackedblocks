@@ -39,7 +39,7 @@
                     "entries": [
                       {
                         "type": "minecraft:item",
-                        "name": "minecraft:emerald",
+                        "name": "minecraft:emerald_block",
                         "functions": [
                           {
                             "function": "minecraft:set_count",

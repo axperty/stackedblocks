@@ -39,7 +39,7 @@
                     "entries": [
                       {
                         "type": "minecraft:item",
-                        "name": "minecraft:lapis",
+                        "name": "minecraft:lapis_block",
                         "functions": [
                           {
                             "function": "minecraft:set_count",

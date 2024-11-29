@@ -39,7 +39,7 @@
                     "entries": [
                       {
                         "type": "minecraft:item",
-                        "name": "minecraft:redstone",
+                        "name": "minecraft:redstone_block",
                         "functions": [
                           {
                             "function": "minecraft:set_count",

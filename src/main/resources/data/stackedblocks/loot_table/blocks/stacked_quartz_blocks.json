@@ -39,7 +39,7 @@
                     "entries": [
                       {
                         "type": "minecraft:item",
-                        "name": "minecraft:quartz",
+                        "name": "minecraft:quartz_block",
                         "functions": [
                           {
                             "function": "minecraft:set_count",
