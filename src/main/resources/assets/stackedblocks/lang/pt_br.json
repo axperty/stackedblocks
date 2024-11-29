@@ -29,5 +29,15 @@
   "block.stackedblocks.stacked_warped_stems": "Caules Deformados Empilhados",
   "block.stackedblocks.stacked_stripped_warped_stems": "Caules Deformados Descascados Empilhados",
 
+  "block.stackedblocks.stacked_lapis_blocks": "Blocos de Lapis Lazuli Empilhados",
+  "block.stackedblocks.stacked_redstone_blocks": "Blocos de Redstone Empilhados",
+  "block.stackedblocks.stacked_coal_blocks": "Blocos de Carvão Empilhados",
+  "block.stackedblocks.stacked_iron_blocks": "Blocos de Ferro Empilhados",
+  "block.stackedblocks.stacked_gold_blocks": "Blocos de Ouro Empilhados",
+  "block.stackedblocks.stacked_emerald_blocks": "Blocos de Esmeralda Empilhados",
+  "block.stackedblocks.stacked_diamond_blocks": "Blocos de Diamante Empilhados",
+  "block.stackedblocks.stacked_netherite_blocks": "Blocos de Netherita Empilhados",
+  "block.stackedblocks.stacked_quartz_blocks": "Blocos de Quartzo Empilhados",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }
