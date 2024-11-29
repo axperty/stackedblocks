@@ -29,5 +29,15 @@
   "item.stackedblocks.stacked_warped_stems": "Stakitaj deformeĝintaj stangoj",
   "item.stackedblocks.stacked_stripped_warped_stems": "Stakitaj forĵetitaj deformeĝintaj stangoj",
 
+  "item.stackedblocks.stacked_lapis_blocks": "Staplitaj Lapis Lazura Blokoj",
+  "item.stackedblocks.stacked_redstone_blocks": "Staplitaj Redstona Blokoj",
+  "item.stackedblocks.stacked_coal_blocks": "Staplitaj Karbo Blokoj",
+  "item.stackedblocks.stacked_iron_blocks": "Staplitaj Fera Blokoj",
+  "item.stackedblocks.stacked_gold_blocks": "Staplitaj Ora Blokoj",
+  "item.stackedblocks.stacked_emerald_blocks": "Staplitaj Smeraldo Blokoj",
+  "item.stackedblocks.stacked_diamond_blocks": "Staplitaj Diamanto Blokoj",
+  "item.stackedblocks.stacked_netherite_blocks": "Staplitaj Netherita Blokoj",
+  "item.stackedblocks.stacked_quartz_blocks": "Staplitaj Kvarco Blokoj",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

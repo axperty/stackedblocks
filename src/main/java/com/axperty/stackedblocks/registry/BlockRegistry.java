@@ -33,6 +33,42 @@ public class BlockRegistry {
     public static final RegistryObject<Block> STACKED_BRICKS = BLOCKS.register("stacked_bricks",
             () -> new Block(Block.Properties.ofFullCopy(Blocks.BRICKS).setId(BLOCKS.key("stacked_bricks"))));
 
+    // Stacked Lapis Blocks
+    public static final RegistryObject<Block> STACKED_LAPIS_BLOCKS = BLOCKS.register("stacked_lapis_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.LAPIS_BLOCK).setId(BLOCKS.key("stacked_lapis_blocks"))));
+
+    // Stacked Redstone Blocks
+    public static final RegistryObject<Block> STACKED_REDSTONE_BLOCKS = BLOCKS.register("stacked_redstone_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.REDSTONE_BLOCK).setId(BLOCKS.key("stacked_redstone_blocks"))));
+
+    // Stacked Coal Blocks
+    public static final RegistryObject<Block> STACKED_COAL_BLOCKS = BLOCKS.register("stacked_coal_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.COAL_BLOCK).setId(BLOCKS.key("stacked_coal_blocks"))));
+
+    // Stacked Iron Blocks
+    public static final RegistryObject<Block> STACKED_IRON_BLOCKS = BLOCKS.register("stacked_iron_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.IRON_BLOCK).setId(BLOCKS.key("stacked_iron_blocks"))));
+
+    // Stacked Gold Blocks
+    public static final RegistryObject<Block> STACKED_GOLD_BLOCKS = BLOCKS.register("stacked_gold_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.GOLD_BLOCK).setId(BLOCKS.key("stacked_gold_blocks"))));
+
+    // Stacked Emerald Blocks
+    public static final RegistryObject<Block> STACKED_EMERALD_BLOCKS = BLOCKS.register("stacked_emerald_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.EMERALD_BLOCK).setId(BLOCKS.key("stacked_emerald_blocks"))));
+
+    // Stacked Diamond Blocks
+    public static final RegistryObject<Block> STACKED_DIAMOND_BLOCKS = BLOCKS.register("stacked_diamond_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.DIAMOND_BLOCK).setId(BLOCKS.key("stacked_diamond_blocks"))));
+
+    // Stacked Netherite Blocks
+    public static final RegistryObject<Block> STACKED_NETHERITE_BLOCKS = BLOCKS.register("stacked_netherite_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.NETHERITE_BLOCK).setId(BLOCKS.key("stacked_netherite_blocks"))));
+
+    // Stacked Quartz Blocks
+    public static final RegistryObject<Block> STACKED_QUARTZ_BLOCKS = BLOCKS.register("stacked_quartz_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.QUARTZ_BLOCK).setId(BLOCKS.key("stacked_quartz_blocks"))));
+
     // Stacked Melons
     public static final RegistryObject<Block> STACKED_MELONS = BLOCKS.register("stacked_melons",
             () -> new Block(Block.Properties.ofFullCopy(Blocks.OAK_PLANKS).setId(BLOCKS.key("stacked_melons"))));

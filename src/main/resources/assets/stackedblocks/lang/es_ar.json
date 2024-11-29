@@ -29,5 +29,15 @@
   "item.stackedblocks.stacked_warped_stems": "Tallos retorcidos apilados",
   "item.stackedblocks.stacked_stripped_warped_stems": "Tallos retorcidos pelados apilados",
 
+  "item.stackedblocks.stacked_lapis_blocks": "Bloques de lapislázuli apilados",
+  "item.stackedblocks.stacked_redstone_blocks": "Bloques de redstone apilados",
+  "item.stackedblocks.stacked_coal_blocks": "Bloques de carbón apilados",
+  "item.stackedblocks.stacked_iron_blocks": "Bloques de hierro apilados",
+  "item.stackedblocks.stacked_gold_blocks": "Bloques de oro apilados",
+  "item.stackedblocks.stacked_emerald_blocks": "Bloques de esmeralda apilados",
+  "item.stackedblocks.stacked_diamond_blocks": "Bloques de diamante apilados",
+  "item.stackedblocks.stacked_netherite_blocks": "Bloques de netherita apilados",
+  "item.stackedblocks.stacked_quartz_blocks": "Bloques de cuarzo apilados",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

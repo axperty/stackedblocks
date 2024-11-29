@@ -29,5 +29,15 @@
   "item.stackedblocks.stacked_warped_stems": "Stablede Warpede-stengler",
   "item.stackedblocks.stacked_stripped_warped_stems": "Stablede Stripede Warpede-stengler",
 
+  "item.stackedblocks.stacked_lapis_blocks": "Stablede Lapis Lazuli-blokker",
+  "item.stackedblocks.stacked_redstone_blocks": "Stablede Redstone-blokker",
+  "item.stackedblocks.stacked_coal_blocks": "Stablede Kullblokker",
+  "item.stackedblocks.stacked_iron_blocks": "Stablede Jernblokker",
+  "item.stackedblocks.stacked_gold_blocks": "Stablede Gullblokker",
+  "item.stackedblocks.stacked_emerald_blocks": "Stablede Smaragd-blokker",
+  "item.stackedblocks.stacked_diamond_blocks": "Stablede Diamantblokker",
+  "item.stackedblocks.stacked_netherite_blocks": "Stablede Netheritt-blokker",
+  "item.stackedblocks.stacked_quartz_blocks": "Stablede Kvartsblokker",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

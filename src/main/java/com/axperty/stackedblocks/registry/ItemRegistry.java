@@ -42,6 +42,51 @@ public class ItemRegistry {
             () -> new BlockItem(BlockRegistry.STACKED_PUMPKINS.get(), new Item.Properties().setId(ITEMS.key("stacked_pumpkins")))
     );
 
+    // Stacked Lapis Blocks Item
+    public static final RegistryObject<Item> STACKED_LAPIS_BLOCKS_ITEM = ITEMS.register("stacked_lapis_blocks",
+            () -> new BlockItem(BlockRegistry.STACKED_LAPIS_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_lapis_blocks")))
+    );
+
+    // Stacked Redstone Blocks Item
+    public static final RegistryObject<Item> STACKED_REDSTONE_BLOCKS_ITEM = ITEMS.register("stacked_redstone_blocks",
+            () -> new BlockItem(BlockRegistry.STACKED_REDSTONE_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_redstone_blocks")))
+    );
+
+    // Stacked Coal Blocks Item
+    public static final RegistryObject<Item> STACKED_COAL_BLOCKS_ITEM = ITEMS.register("stacked_coal_blocks",
+            () -> new BlockItem(BlockRegistry.STACKED_COAL_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_coal_blocks")))
+    );
+
+    // Stacked Iron Blocks Item
+    public static final RegistryObject<Item> STACKED_IRON_BLOCKS_ITEM = ITEMS.register("stacked_iron_blocks",
+            () -> new BlockItem(BlockRegistry.STACKED_IRON_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_iron_blocks")))
+    );
+
+    // Stacked Gold Blocks Item
+    public static final RegistryObject<Item> STACKED_GOLD_BLOCKS_ITEM = ITEMS.register("stacked_gold_blocks",
+            () -> new BlockItem(BlockRegistry.STACKED_GOLD_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_gold_blocks")))
+    );
+
+    // Stacked Emerald Blocks Item
+    public static final RegistryObject<Item> STACKED_EMERALD_BLOCKS_ITEM = ITEMS.register("stacked_emerald_blocks",
+            () -> new BlockItem(BlockRegistry.STACKED_EMERALD_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_emerald_blocks")))
+    );
+
+    // Stacked Diamond Blocks Item
+    public static final RegistryObject<Item> STACKED_DIAMOND_BLOCKS_ITEM = ITEMS.register("stacked_diamond_blocks",
+            () -> new BlockItem(BlockRegistry.STACKED_DIAMOND_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_diamond_blocks")))
+    );
+
+    // Stacked Netherite Blocks Item
+    public static final RegistryObject<Item> STACKED_NETHERITE_BLOCKS_ITEM = ITEMS.register("stacked_netherite_blocks",
+            () -> new BlockItem(BlockRegistry.STACKED_NETHERITE_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_netherite_blocks")))
+    );
+
+    // Stacked Quartz Blocks Item
+    public static final RegistryObject<Item> STACKED_QUARTZ_BLOCKS_ITEM = ITEMS.register("stacked_quartz_blocks",
+            () -> new BlockItem(BlockRegistry.STACKED_QUARTZ_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_quartz_blocks")))
+    );
+
     // Stacked Oak Logs Item
     public static final RegistryObject<Item> STACKED_OAK_LOGS_ITEM = ITEMS.register("stacked_oak_logs",
             () -> new BlockItem(BlockRegistry.STACKED_OAK_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_oak_logs")))

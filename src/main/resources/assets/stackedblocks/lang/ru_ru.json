@@ -29,5 +29,15 @@
   "item.stackedblocks.stacked_warped_stems": "Сложенные искажённые стебли",
   "item.stackedblocks.stacked_stripped_warped_stems": "Сложенные обтёсанные искажённые стебли",
 
+  "item.stackedblocks.stacked_lapis_blocks": "Сложенные блоки лазурита",
+  "item.stackedblocks.stacked_redstone_blocks": "Сложенные блоки редстоуна",
+  "item.stackedblocks.stacked_coal_blocks": "Сложенные блоки угля",
+  "item.stackedblocks.stacked_iron_blocks": "Сложенные блоки железа",
+  "item.stackedblocks.stacked_gold_blocks": "Сложенные блоки золота",
+  "item.stackedblocks.stacked_emerald_blocks": "Сложенные блоки изумрудов",
+  "item.stackedblocks.stacked_diamond_blocks": "Сложенные блоки алмазов",
+  "item.stackedblocks.stacked_netherite_blocks": "Сложенные блоки незерита",
+  "item.stackedblocks.stacked_quartz_blocks": "Сложенные блоки кварца",
+
   "itemGroup.stackedblocks": "Сложенные Блоки"
 }

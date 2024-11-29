@@ -29,5 +29,15 @@
   "item.stackedblocks.stacked_warped_stems": "Steli contorti impilati",
   "item.stackedblocks.stacked_stripped_warped_stems": "Steli contorti spogliati impilati",
 
+  "item.stackedblocks.stacked_lapis_blocks": "Blocchi di lapislazzuli impilati",
+  "item.stackedblocks.stacked_redstone_blocks": "Blocchi di redstone impilati",
+  "item.stackedblocks.stacked_coal_blocks": "Blocchi di carbone impilati",
+  "item.stackedblocks.stacked_iron_blocks": "Blocchi di ferro impilati",
+  "item.stackedblocks.stacked_gold_blocks": "Blocchi d'oro impilati",
+  "item.stackedblocks.stacked_emerald_blocks": "Blocchi di smeraldo impilati",
+  "item.stackedblocks.stacked_diamond_blocks": "Blocchi di diamante impilati",
+  "item.stackedblocks.stacked_netherite_blocks": "Blocchi di netherite impilati",
+  "item.stackedblocks.stacked_quartz_blocks": "Blocchi di quarzo impilati",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }
