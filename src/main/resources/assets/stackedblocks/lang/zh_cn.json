@@ -29,5 +29,15 @@
   "block.stackedblocks.stacked_warped_stems": "堆叠的扭曲茎",
   "block.stackedblocks.stacked_stripped_warped_stems": "堆叠的去皮扭曲茎",
 
+  "block.stackedblocks.stacked_lapis_blocks": "堆叠的青金石方块",
+  "block.stackedblocks.stacked_redstone_blocks": "堆叠的红石方块",
+  "block.stackedblocks.stacked_coal_blocks": "堆叠的煤炭方块",
+  "block.stackedblocks.stacked_iron_blocks": "堆叠的铁方块",
+  "block.stackedblocks.stacked_gold_blocks": "堆叠的金块",
+  "block.stackedblocks.stacked_emerald_blocks": "堆叠的绿宝石方块",
+  "block.stackedblocks.stacked_diamond_blocks": "堆叠的钻石方块",
+  "block.stackedblocks.stacked_netherite_blocks": "堆叠的下界合金方块",
+  "block.stackedblocks.stacked_quartz_blocks": "堆叠的石英方块",
+
   "itemGroup.stackedblocks": "堆叠的方块"
 }
