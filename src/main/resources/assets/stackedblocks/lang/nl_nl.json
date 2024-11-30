@@ -29,5 +29,15 @@
   "item.stackedblocks.stacked_warped_stems": "Gestapelde Verwrongen Stelen",
   "item.stackedblocks.stacked_stripped_warped_stems": "Gestapelde Afgeschilde Verwrongen Stelen",
 
+  "item.stackedblocks.stacked_lapis_blocks": "Gestackte Lapislazuli Blokken",
+  "item.stackedblocks.stacked_redstone_blocks": "Gestackte Redstone Blokken",
+  "item.stackedblocks.stacked_coal_blocks": "Gestackte Kolen Blokken",
+  "item.stackedblocks.stacked_iron_blocks": "Gestackte IJzer Blokken",
+  "item.stackedblocks.stacked_gold_blocks": "Gestackte Goud Blokken",
+  "item.stackedblocks.stacked_emerald_blocks": "Gestackte Smaragd Blokken",
+  "item.stackedblocks.stacked_diamond_blocks": "Gestackte Diamant Blokken",
+  "item.stackedblocks.stacked_netherite_blocks": "Gestackte Netheriet Blokken",
+  "item.stackedblocks.stacked_quartz_blocks": "Gestackte Kwarts Blokken",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

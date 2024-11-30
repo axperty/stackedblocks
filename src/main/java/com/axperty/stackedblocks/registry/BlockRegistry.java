@@ -39,6 +39,42 @@ public class BlockRegistry {
     public static final Block STACKED_PUMPKINS = registerBlock("stacked_pumpkins",
             Block::new, Block.Settings.copy(Blocks.OAK_PLANKS));
 
+    // Stacked Lapis Blocks
+    public static final Block STACKED_LAPIS_BLOCKS = registerBlock("stacked_lapis_blocks",
+            Block::new, Block.Settings.copy(Blocks.LAPIS_BLOCK));
+
+    // Stacked Redstone Blocks
+    public static final Block STACKED_REDSTONE_BLOCKS = registerBlock("stacked_redstone_blocks",
+            Block::new, Block.Settings.copy(Blocks.REDSTONE_BLOCK));
+
+    // Stacked Coal Blocks
+    public static final Block STACKED_COAL_BLOCKS = registerBlock("stacked_coal_blocks",
+            Block::new, Block.Settings.copy(Blocks.COAL_BLOCK));
+
+    // Stacked Iron Blocks
+    public static final Block STACKED_IRON_BLOCKS = registerBlock("stacked_iron_blocks",
+            Block::new, Block.Settings.copy(Blocks.IRON_BLOCK));
+
+    // Stacked Gold Blocks
+    public static final Block STACKED_GOLD_BLOCKS = registerBlock("stacked_gold_blocks",
+            Block::new, Block.Settings.copy(Blocks.GOLD_BLOCK));
+
+    // Stacked Emerald Blocks
+    public static final Block STACKED_EMERALD_BLOCKS = registerBlock("stacked_emerald_blocks",
+            Block::new, Block.Settings.copy(Blocks.EMERALD_BLOCK));
+
+    // Stacked Diamond Blocks
+    public static final Block STACKED_DIAMOND_BLOCKS = registerBlock("stacked_diamond_blocks",
+            Block::new, Block.Settings.copy(Blocks.DIAMOND_BLOCK));
+
+    // Stacked Netherite Blocks
+    public static final Block STACKED_NETHERITE_BLOCKS = registerBlock("stacked_netherite_blocks",
+            Block::new, Block.Settings.copy(Blocks.NETHERITE_BLOCK));
+
+    // Stacked Quartz Blocks
+    public static final Block STACKED_QUARTZ_BLOCKS = registerBlock("stacked_quartz_blocks",
+            Block::new, Block.Settings.copy(Blocks.QUARTZ_BLOCK));
+
     // Stacked Oak Logs
     public static final Block STACKED_OAK_LOGS = registerBlock("stacked_oak_logs",
             Block::new, Block.Settings.copy(Blocks.OAK_PLANKS));

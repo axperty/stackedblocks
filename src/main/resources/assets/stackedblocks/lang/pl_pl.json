@@ -29,5 +29,15 @@
   "item.stackedblocks.stacked_warped_stems": "Stosowane Stengle Zniekształcone",
   "item.stackedblocks.stacked_stripped_warped_stems": "Stosowane Obkute Stengle Zniekształcone",
 
+  "item.stackedblocks.stacked_lapis_blocks": "Stos bloków lazurytu",
+  "item.stackedblocks.stacked_redstone_blocks": "Stos bloków redstone'a",
+  "item.stackedblocks.stacked_coal_blocks": "Stos bloków węgla",
+  "item.stackedblocks.stacked_iron_blocks": "Stos bloków żelaza",
+  "item.stackedblocks.stacked_gold_blocks": "Stos bloków złota",
+  "item.stackedblocks.stacked_emerald_blocks": "Stos bloków szmaragdów",
+  "item.stackedblocks.stacked_diamond_blocks": "Stos bloków diamentów",
+  "item.stackedblocks.stacked_netherite_blocks": "Stos bloków netherytu",
+  "item.stackedblocks.stacked_quartz_blocks": "Stos bloków kwarcu",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

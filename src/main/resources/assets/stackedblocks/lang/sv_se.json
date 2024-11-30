@@ -29,5 +29,15 @@
   "item.stackedblocks.stacked_warped_stems": "Staplade förvridna stammar",
   "item.stackedblocks.stacked_stripped_warped_stems": "Staplade avbarkade förvridna stammar",
 
+  "item.stackedblocks.stacked_lapis_blocks": "Staplade Lapislazuli-blockar",
+  "item.stackedblocks.stacked_redstone_blocks": "Staplade Redstone-blockar",
+  "item.stackedblocks.stacked_coal_blocks": "Staplade Kolblockar",
+  "item.stackedblocks.stacked_iron_blocks": "Staplade Järnblockar",
+  "item.stackedblocks.stacked_gold_blocks": "Staplade Guldblokar",
+  "item.stackedblocks.stacked_emerald_blocks": "Staplade Smaragdblockar",
+  "item.stackedblocks.stacked_diamond_blocks": "Staplade Diamanblockar",
+  "item.stackedblocks.stacked_netherite_blocks": "Staplade Netheritblockar",
+  "item.stackedblocks.stacked_quartz_blocks": "Staplade Kvartsblockar",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

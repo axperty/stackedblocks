@@ -24,6 +24,15 @@ public class CreativeTabRegistry {
                         entries.add(BlockRegistry.STACKED_BRICKS);
                         entries.add(BlockRegistry.STACKED_MELONS);
                         entries.add(BlockRegistry.STACKED_PUMPKINS);
+                        entries.add(BlockRegistry.STACKED_LAPIS_BLOCKS);
+                        entries.add(BlockRegistry.STACKED_REDSTONE_BLOCKS);
+                        entries.add(BlockRegistry.STACKED_COAL_BLOCKS);
+                        entries.add(BlockRegistry.STACKED_IRON_BLOCKS);
+                        entries.add(BlockRegistry.STACKED_GOLD_BLOCKS);
+                        entries.add(BlockRegistry.STACKED_EMERALD_BLOCKS);
+                        entries.add(BlockRegistry.STACKED_DIAMOND_BLOCKS);
+                        entries.add(BlockRegistry.STACKED_NETHERITE_BLOCKS);
+                        entries.add(BlockRegistry.STACKED_QUARTZ_BLOCKS);
                         entries.add(BlockRegistry.STACKED_OAK_LOGS);
                         entries.add(BlockRegistry.STACKED_STRIPPED_OAK_LOGS);
                         entries.add(BlockRegistry.STACKED_SPRUCE_LOGS);
