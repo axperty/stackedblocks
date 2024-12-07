@@ -38,6 +38,10 @@
   "item.stackedblocks.stacked_diamond_blocks": "Složené bloky diamantů",
   "item.stackedblocks.stacked_netherite_blocks": "Složené bloky netheritu",
   "item.stackedblocks.stacked_quartz_blocks": "Složené bloky křemene",
+  "item.stackedblocks.stacked_resin_blocks": "Skládané bloky pryskyřice",
+  "item.stackedblocks.stacked_resin_bricks": "Skládané cihly pryskyřice",
+  "item.stackedblocks.stacked_pale_oak_logs": "Skládané klády světleho dubu",
+  "item.stackedblocks.stacked_stripped_pale_oak_logs": "Skládané oloupané klády světleho dubu",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

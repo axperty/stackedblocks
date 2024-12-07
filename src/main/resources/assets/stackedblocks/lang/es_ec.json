@@ -38,6 +38,10 @@
   "item.stackedblocks.stacked_diamond_blocks": "Bloques de diamante apilados",
   "item.stackedblocks.stacked_netherite_blocks": "Bloques de netherita apilados",
   "item.stackedblocks.stacked_quartz_blocks": "Bloques de cuarzo apilados",
+  "item.stackedblocks.stacked_resin_blocks": "Bloques de Resina Apilados",
+  "item.stackedblocks.stacked_resin_bricks": "Ladrillos de Resina Apilados",
+  "item.stackedblocks.stacked_pale_oak_logs": "Troncos de Roble Claro Apilados",
+  "item.stackedblocks.stacked_stripped_pale_oak_logs": "Troncos de Roble Claro Descortezados Apilados",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

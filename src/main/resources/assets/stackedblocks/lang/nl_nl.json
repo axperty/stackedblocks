@@ -38,6 +38,10 @@
   "item.stackedblocks.stacked_diamond_blocks": "Gestackte Diamant Blokken",
   "item.stackedblocks.stacked_netherite_blocks": "Gestackte Netheriet Blokken",
   "item.stackedblocks.stacked_quartz_blocks": "Gestackte Kwarts Blokken",
+  "item.stackedblocks.stacked_resin_blocks": "Gestackte Harsblokken",
+  "item.stackedblocks.stacked_resin_bricks": "Gestackte Harsstenen",
+  "item.stackedblocks.stacked_pale_oak_logs": "Gestackte Licht Eikenhouten Balken",
+  "item.stackedblocks.stacked_stripped_pale_oak_logs": "Gestackte Geschilde Licht Eikenhouten Balken",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }
