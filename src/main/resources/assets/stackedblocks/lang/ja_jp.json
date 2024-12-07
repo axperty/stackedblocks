@@ -38,6 +38,10 @@
   "item.stackedblocks.stacked_diamond_blocks": "積み重ねられたダイヤモンドブロック",
   "item.stackedblocks.stacked_netherite_blocks": "積み重ねられたネザライトブロック",
   "item.stackedblocks.stacked_quartz_blocks": "積み重ねられたクォーツブロック",
+  "item.stackedblocks.stacked_resin_blocks": "積み重ねられた樹脂ブロック",
+  "item.stackedblocks.stacked_resin_bricks": "積み重ねられた樹脂レンガ",
+  "item.stackedblocks.stacked_pale_oak_logs": "積み重ねられた淡いオークの丸太",
+  "item.stackedblocks.stacked_stripped_pale_oak_logs": "積み重ねられた剥いだ淡いオークの丸太",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

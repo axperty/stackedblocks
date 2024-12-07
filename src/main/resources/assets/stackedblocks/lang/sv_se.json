@@ -38,6 +38,10 @@
   "item.stackedblocks.stacked_diamond_blocks": "Staplade Diamanblockar",
   "item.stackedblocks.stacked_netherite_blocks": "Staplade Netheritblockar",
   "item.stackedblocks.stacked_quartz_blocks": "Staplade Kvartsblockar",
+  "item.stackedblocks.stacked_resin_blocks": "Staplade Hartsblock",
+  "item.stackedblocks.stacked_resin_bricks": "Staplade Hartsstenar",
+  "item.stackedblocks.stacked_pale_oak_logs": "Staplade Ljusa ekstockar",
+  "item.stackedblocks.stacked_stripped_pale_oak_logs": "Staplade Barkfria Ljusa Ekstockar",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

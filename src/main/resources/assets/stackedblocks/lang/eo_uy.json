@@ -38,6 +38,10 @@
   "item.stackedblocks.stacked_diamond_blocks": "Staplitaj Diamanto Blokoj",
   "item.stackedblocks.stacked_netherite_blocks": "Staplitaj Netherita Blokoj",
   "item.stackedblocks.stacked_quartz_blocks": "Staplitaj Kvarco Blokoj",
+  "item.stackedblocks.stacked_resin_blocks": "Stakitaj Rezinblokoj",
+  "item.stackedblocks.stacked_resin_bricks": "Stakitaj Rezinbrikoj",
+  "item.stackedblocks.stacked_pale_oak_logs": "Stakitaj Helklaraj Kverkaj Traboj",
+  "item.stackedblocks.stacked_stripped_pale_oak_logs": "Stakitaj Senŝelaj Helklaraj Kverkaj Traboj",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }
