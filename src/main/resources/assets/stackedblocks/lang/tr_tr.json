@@ -29,5 +29,19 @@
   "block.stackedblocks.stacked_warped_stems": "Yığılmış Bükülmüş Gövdeler",
   "block.stackedblocks.stacked_stripped_warped_stems": "Yığılmış Soyulmuş Bükülmüş Gövdeler",
 
+  "block.stackedblocks.stacked_lapis_blocks": "Yığılmış Lapis Lazuli Bloklar",
+  "block.stackedblocks.stacked_redstone_blocks": "Yığılmış Redstone Bloklar",
+  "block.stackedblocks.stacked_coal_blocks": "Yığılmış Kömür Bloklar",
+  "block.stackedblocks.stacked_iron_blocks": "Yığılmış Demir Bloklar",
+  "block.stackedblocks.stacked_gold_blocks": "Yığılmış Altın Bloklar",
+  "block.stackedblocks.stacked_emerald_blocks": "Yığılmış Zümrüt Bloklar",
+  "block.stackedblocks.stacked_diamond_blocks": "Yığılmış Elmas Bloklar",
+  "block.stackedblocks.stacked_netherite_blocks": "Yığılmış Netherit Bloklar",
+  "block.stackedblocks.stacked_quartz_blocks": "Yığılmış Kuvars Bloklar",
+  "block.stackedblocks.stacked_resin_blocks": "Yığılmış Reçine Bloklar",
+  "block.stackedblocks.stacked_resin_bricks": "Yığılmış Reçine Tuğlalar",
+  "block.stackedblocks.stacked_pale_oak_logs": "Yığılmış Açık Meşe Kütükleri",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "Yığılmış Soyulmuş Açık Meşe Kütükleri",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

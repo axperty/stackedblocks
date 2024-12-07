@@ -29,5 +29,19 @@
   "block.stackedblocks.stacked_warped_stems": "積み重ねられた歪んだ茎",
   "block.stackedblocks.stacked_stripped_warped_stems": "積み重ねられた剥かれた歪んだ茎",
 
+  "block.stackedblocks.stacked_lapis_blocks": "積み重ねられたラピスラズリブロック",
+  "block.stackedblocks.stacked_redstone_blocks": "積み重ねられたレッドストーンブロック",
+  "block.stackedblocks.stacked_coal_blocks": "積み重ねられた石炭ブロック",
+  "block.stackedblocks.stacked_iron_blocks": "積み重ねられた鉄ブロック",
+  "block.stackedblocks.stacked_gold_blocks": "積み重ねられた金ブロック",
+  "block.stackedblocks.stacked_emerald_blocks": "積み重ねられたエメラルドブロック",
+  "block.stackedblocks.stacked_diamond_blocks": "積み重ねられたダイヤモンドブロック",
+  "block.stackedblocks.stacked_netherite_blocks": "積み重ねられたネザライトブロック",
+  "block.stackedblocks.stacked_quartz_blocks": "積み重ねられたクォーツブロック",
+  "block.stackedblocks.stacked_resin_blocks": "積み重ねられた樹脂ブロック",
+  "block.stackedblocks.stacked_resin_bricks": "積み重ねられた樹脂レンガ",
+  "block.stackedblocks.stacked_pale_oak_logs": "積み重ねられた淡いオークの丸太",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "積み重ねられた剥いだ淡いオークの丸太",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

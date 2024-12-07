@@ -37,6 +37,42 @@ public class BlockRegistry {
     public static final RegistryObject<Block> STACKED_MELONS = registerBlock("stacked_melons",
             () -> new Block(Block.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
 
+    // Stacked Lapis Blocks
+    public static final RegistryObject<Block> STACKED_LAPIS_BLOCKS = registerBlock("stacked_lapis_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.LAPIS_BLOCK)));
+
+    // Stacked Redstone Blocks
+    public static final RegistryObject<Block> STACKED_REDSTONE_BLOCKS = registerBlock("stacked_redstone_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.REDSTONE_BLOCK)));
+
+    // Stacked Coal Blocks
+    public static final RegistryObject<Block> STACKED_COAL_BLOCKS = registerBlock("stacked_coal_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.COAL_BLOCK)));
+
+    // Stacked Iron Blocks
+    public static final RegistryObject<Block> STACKED_IRON_BLOCKS = registerBlock("stacked_iron_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.IRON_BLOCK)));
+
+    // Stacked Gold Blocks
+    public static final RegistryObject<Block> STACKED_GOLD_BLOCKS = registerBlock("stacked_gold_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.GOLD_BLOCK)));
+
+    // Stacked Emerald Blocks
+    public static final RegistryObject<Block> STACKED_EMERALD_BLOCKS = registerBlock("stacked_emerald_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.EMERALD_BLOCK)));
+
+    // Stacked Diamond Blocks
+    public static final RegistryObject<Block> STACKED_DIAMOND_BLOCKS = registerBlock("stacked_diamond_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.DIAMOND_BLOCK)));
+
+    // Stacked Netherite Blocks
+    public static final RegistryObject<Block> STACKED_NETHERITE_BLOCKS = registerBlock("stacked_netherite_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.NETHERITE_BLOCK)));
+
+    // Stacked Quartz Blocks
+    public static final RegistryObject<Block> STACKED_QUARTZ_BLOCKS = registerBlock("stacked_quartz_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.QUARTZ_BLOCK)));
+
     // Stacked Pumpkins
     public static final RegistryObject<Block> STACKED_PUMPKINS = registerBlock("stacked_pumpkins",
             () -> new Block(Block.Properties.ofFullCopy(Blocks.PUMPKIN)));
