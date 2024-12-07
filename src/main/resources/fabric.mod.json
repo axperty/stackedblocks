@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "stackedblocks",
-  "version": "24.12.01-1.21.3-fabric",
+  "version": "24.12.07-1.21.4-fabric",
   "name": "Stacked Blocks",
   "description": "A mod that adds stacked blocks to the game.",
   "authors": [
@@ -19,8 +19,8 @@
     ]
   },
   "depends": {
-    "fabricloader": ">=0.14.21",
-    "minecraft": ">=1.21.2",
+    "fabricloader": ">=0.16.9",
+    "minecraft": "~1.21.4",
     "java": ">=21",
     "fabric-api": "*"
   }

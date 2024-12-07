@@ -1,0 +1,6 @@
+{
+  "parent": "stackedblocks:block/stacked_pale_oak_logs",
+  "textures": {
+    "layer0": "stackedblocks:item/stacked_pale_oak_logs"
+  }
+}

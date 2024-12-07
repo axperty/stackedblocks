@@ -1,0 +1,6 @@
+{
+  "parent": "stackedblocks:block/stacked_resin_blocks",
+  "textures": {
+    "layer0": "stackedblocks:item/stacked_resin_blocks"
+  }
+}

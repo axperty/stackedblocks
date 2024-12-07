@@ -13,6 +13,8 @@
     "stackedblocks:stacked_emerald_blocks",
     "stackedblocks:stacked_diamond_blocks",
     "stackedblocks:stacked_netherite_blocks",
-    "stackedblocks:stacked_quartz_blocks"
+    "stackedblocks:stacked_quartz_blocks",
+    "stackedblocks:stacked_resin_blocks",
+    "stackedblocks:stacked_resin_bricks"
   ]
 }

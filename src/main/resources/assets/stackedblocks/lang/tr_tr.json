@@ -38,6 +38,10 @@
   "item.stackedblocks.stacked_diamond_blocks": "Yığılmış Elmas Bloklar",
   "item.stackedblocks.stacked_netherite_blocks": "Yığılmış Netherit Bloklar",
   "item.stackedblocks.stacked_quartz_blocks": "Yığılmış Kuvars Bloklar",
+  "item.stackedblocks.stacked_resin_blocks": "Yığılmış Reçine Bloklar",
+  "item.stackedblocks.stacked_resin_bricks": "Yığılmış Reçine Tuğlalar",
+  "item.stackedblocks.stacked_pale_oak_logs": "Yığılmış Açık Meşe Kütükleri",
+  "item.stackedblocks.stacked_stripped_pale_oak_logs": "Yığılmış Soyulmuş Açık Meşe Kütükleri",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

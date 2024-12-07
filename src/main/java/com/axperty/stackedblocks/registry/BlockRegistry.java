@@ -31,6 +31,14 @@ public class BlockRegistry {
     public static final Block STACKED_BRICKS = registerBlock("stacked_bricks",
             Block::new, Block.Settings.copy(Blocks.BRICKS));
 
+    // Stacked Resin Blocks
+    public static final Block STACKED_RESIN_BLOCKS = registerBlock("stacked_resin_blocks",
+            Block::new, Block.Settings.copy(Blocks.RESIN_BLOCK));
+
+    // Stacked Resin Bricks
+    public static final Block STACKED_RESIN_BRICKS = registerBlock("stacked_resin_bricks",
+            Block::new, Block.Settings.copy(Blocks.RESIN_BRICKS));
+
     // Stacked Melons
     public static final Block STACKED_MELONS = registerBlock("stacked_melons",
             Block::new, Block.Settings.copy(Blocks.OAK_PLANKS));
@@ -138,6 +146,14 @@ public class BlockRegistry {
     // Stacked Stripped Cherry Logs
     public static final Block STACKED_STRIPPED_CHERRY_LOGS = registerBlock("stacked_stripped_cherry_logs",
             Block::new, Block.Settings.copy(Blocks.CHERRY_PLANKS));
+
+    // Stacked Pale Oak Logs
+    public static final Block STACKED_PALE_OAK_LOGS = registerBlock("stacked_pale_oak_logs",
+            Block::new, Block.Settings.copy(Blocks.PALE_OAK_PLANKS));
+
+    // Stacked Stripped Pale Oak Logs
+    public static final Block STACKED_STRIPPED_PALE_OAK_LOGS = registerBlock("stacked_stripped_pale_oak_logs",
+            Block::new, Block.Settings.copy(Blocks.PALE_OAK_PLANKS));
 
     // Stacked Bamboo Blocks
     public static final Block STACKED_BAMBOO_BLOCKS = registerBlock("stacked_bamboo_blocks",

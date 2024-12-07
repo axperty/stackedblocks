@@ -1,3 +1,6 @@
 {
-  "parent": "stackedblocks:block/stacked_stripped_bamboo_blocks"
+  "parent": "stackedblocks:block/stacked_stripped_bamboo_blocks",
+  "textures": {
+    "layer0": "stackedblocks:item/stacked_stripped_bamboo_blocks"
+  }
 }

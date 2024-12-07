@@ -38,6 +38,10 @@
   "item.stackedblocks.stacked_diamond_blocks": "쌓인 다이아몬드 블록",
   "item.stackedblocks.stacked_netherite_blocks": "쌓인 네더라이트 블록",
   "item.stackedblocks.stacked_quartz_blocks": "쌓인 수정 블록",
+  "item.stackedblocks.stacked_resin_blocks": "쌓인 수지 블록",
+  "item.stackedblocks.stacked_resin_bricks": "쌓인 수지 벽돌",
+  "item.stackedblocks.stacked_pale_oak_logs": "쌓인 밝은 오크 통나무",
+  "item.stackedblocks.stacked_stripped_pale_oak_logs": "쌓인 껍질 벗긴 밝은 오크 통나무",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }
