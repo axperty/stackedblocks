@@ -1,3 +1,6 @@
 {
-  "parent": "stackedblocks:block/stacked_crimson_stems"
+  "parent": "stackedblocks:block/stacked_crimson_stems",
+  "textures": {
+    "layer0": "stackedblocks:item/stacked_crimson_stems"
+  }
 }

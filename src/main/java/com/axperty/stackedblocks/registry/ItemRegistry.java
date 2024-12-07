@@ -32,6 +32,16 @@ public class ItemRegistry {
             () -> new BlockItem(BlockRegistry.STACKED_BRICKS.get(), new Item.Properties().setId(ITEMS.key("stacked_bricks")))
     );
 
+    // Stacked Resin Blocks Item
+    public static final RegistryObject<Item> STACKED_RESIN_BLOCKS_ITEM = ITEMS.register("stacked_resin_blocks",
+            () -> new BlockItem(BlockRegistry.STACKED_RESIN_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_resin_blocks")))
+    );
+
+    // Stacked Resin Bricks Item
+    public static final RegistryObject<Item> STACKED_RESIN_BRICKS_ITEM = ITEMS.register("stacked_resin_bricks",
+            () -> new BlockItem(BlockRegistry.STACKED_RESIN_BRICKS.get(), new Item.Properties().setId(ITEMS.key("stacked_resin_bricks")))
+    );
+
     // Stacked Melons Item
     public static final RegistryObject<Item> STACKED_MELONS_ITEM = ITEMS.register("stacked_melons",
             () -> new BlockItem(BlockRegistry.STACKED_MELONS.get(), new Item.Properties().setId(ITEMS.key("stacked_melons")))
@@ -165,6 +175,16 @@ public class ItemRegistry {
     // Stacked Stripped Cherry Logs Item
     public static final RegistryObject<Item> STACKED_STRIPPED_CHERRY_LOGS_ITEM = ITEMS.register("stacked_stripped_cherry_logs",
             () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_CHERRY_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_cherry_logs")))
+    );
+
+    // Stacked Pale Oak Logs Item
+    public static final RegistryObject<Item> STACKED_PALE_OAK_LOGS_ITEM = ITEMS.register("stacked_pale_oak_logs",
+            () -> new BlockItem(BlockRegistry.STACKED_PALE_OAK_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_pale_oak_logs")))
+    );
+
+    // Stacked Stripped Pale Oak Logs Item
+    public static final RegistryObject<Item> STACKED_STRIPPED_PALE_OAK_LOGS_ITEM = ITEMS.register("stacked_stripped_pale_oak_logs",
+            () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_PALE_OAK_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_pale_oak_logs")))
     );
 
     // Stacked Bamboo Logs Item

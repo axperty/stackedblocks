@@ -33,6 +33,14 @@ public class BlockRegistry {
     public static final RegistryObject<Block> STACKED_BRICKS = BLOCKS.register("stacked_bricks",
             () -> new Block(Block.Properties.ofFullCopy(Blocks.BRICKS).setId(BLOCKS.key("stacked_bricks"))));
 
+    // Stacked Resin Blocks
+    public static final RegistryObject<Block> STACKED_RESIN_BLOCKS = BLOCKS.register("stacked_resin_blocks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.RESIN_BLOCK).setId(BLOCKS.key("stacked_resin_blocks"))));
+
+    // Stacked Resin Bricks
+    public static final RegistryObject<Block> STACKED_RESIN_BRICKS = BLOCKS.register("stacked_resin_bricks",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.RESIN_BRICKS).setId(BLOCKS.key("stacked_resin_bricks"))));
+
     // Stacked Lapis Blocks
     public static final RegistryObject<Block> STACKED_LAPIS_BLOCKS = BLOCKS.register("stacked_lapis_blocks",
             () -> new Block(Block.Properties.ofFullCopy(Blocks.LAPIS_BLOCK).setId(BLOCKS.key("stacked_lapis_blocks"))));
@@ -140,6 +148,14 @@ public class BlockRegistry {
     // Stacked Stripped Cherry Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_CHERRY_LOGS = BLOCKS.register("stacked_stripped_cherry_logs",
             () -> new Block(Block.Properties.ofFullCopy(Blocks.CHERRY_PLANKS).setId(BLOCKS.key("stacked_stripped_cherry_logs"))));
+
+    // Stacked Pale Oak Logs
+    public static final RegistryObject<Block> STACKED_PALE_OAK_LOGS = BLOCKS.register("stacked_pale_oak_logs",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.PALE_OAK_PLANKS).setId(BLOCKS.key("stacked_pale_oak_logs"))));
+
+    // Stacked Stripped Pale Oak Logs
+    public static final RegistryObject<Block> STACKED_STRIPPED_PALE_OAK_LOGS = BLOCKS.register("stacked_stripped_pale_oak_logs",
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.PALE_OAK_PLANKS).setId(BLOCKS.key("stacked_stripped_pale_oak_logs"))));
 
     // Stacked Bamboo Blocks
     public static final RegistryObject<Block> STACKED_BAMBOO_BLOCKS = BLOCKS.register("stacked_bamboo_blocks",
