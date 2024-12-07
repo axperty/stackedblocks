@@ -21,6 +21,8 @@ public class CreativeTabRegistry {
                 output.accept(BlockRegistry.STACKED_COBBLESTONE_BLOCKS.get());
                 output.accept(BlockRegistry.STACKED_NETHERRACK_BLOCKS.get());
                 output.accept(BlockRegistry.STACKED_BRICKS.get());
+                output.accept(BlockRegistry.STACKED_RESIN_BLOCKS.get());
+                output.accept(BlockRegistry.STACKED_RESIN_BRICKS.get());
                 output.accept(BlockRegistry.STACKED_MELONS.get());
                 output.accept(BlockRegistry.STACKED_PUMPKINS.get());
                 output.accept(BlockRegistry.STACKED_LAPIS_BLOCKS.get());
@@ -48,6 +50,8 @@ public class CreativeTabRegistry {
                 output.accept(BlockRegistry.STACKED_STRIPPED_MANGROVE_LOGS.get());
                 output.accept(BlockRegistry.STACKED_CHERRY_LOGS.get());
                 output.accept(BlockRegistry.STACKED_STRIPPED_CHERRY_LOGS.get());
+                output.accept(BlockRegistry.STACKED_PALE_OAK_LOGS.get());
+                output.accept(BlockRegistry.STACKED_STRIPPED_PALE_OAK_LOGS.get());
                 output.accept(BlockRegistry.STACKED_BAMBOO_BLOCKS.get());
                 output.accept(BlockRegistry.STACKED_STRIPPED_BAMBOO_BLOCKS.get());
                 output.accept(BlockRegistry.STACKED_CRIMSON_STEMS.get());

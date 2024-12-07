@@ -1,3 +1,6 @@
 {
-  "parent": "stackedblocks:block/stacked_melons"
+  "parent": "stackedblocks:block/stacked_melons",
+  "textures": {
+    "layer0": "stackedblocks:item/stacked_melons"
+  }
 }

@@ -1,3 +1,6 @@
 {
-  "parent": "stackedblocks:block/stacked_stripped_warped_stems"
+  "parent": "stackedblocks:block/stacked_stripped_warped_stems",
+  "textures": {
+    "layer0": "stackedblocks:item/stacked_stripped_warped_stems"
+  }
 }

@@ -20,6 +20,12 @@ public class ItemRegistry {
     // Stacked Bricks Item
     public static final DeferredItem<BlockItem> STACKED_BRICKS_ITEM = ITEMS.registerSimpleBlockItem("stacked_bricks", BlockRegistry.STACKED_BRICKS);
 
+    // Stacked Resin Blocks Item
+    public static final DeferredItem<BlockItem> STACKED_RESIN_BLOCKS_ITEM = ITEMS.registerSimpleBlockItem("stacked_resin_blocks", BlockRegistry.STACKED_RESIN_BLOCKS);
+
+    // Stacked Resin Bricks Item
+    public static final DeferredItem<BlockItem> STACKED_RESIN_BRICKS_ITEM = ITEMS.registerSimpleBlockItem("stacked_resin_bricks", BlockRegistry.STACKED_RESIN_BRICKS);
+
     // Stacked Melons Item
     public static final DeferredItem<BlockItem> STACKED_MELONS_ITEM = ITEMS.registerSimpleBlockItem("stacked_melons", BlockRegistry.STACKED_MELONS);
 
@@ -100,6 +106,12 @@ public class ItemRegistry {
 
     // Stacked Stripped Cherry Logs Item
     public static final DeferredItem<BlockItem> STACKED_STRIPPED_CHERRY_LOGS_ITEM = ITEMS.registerSimpleBlockItem("stacked_stripped_cherry_logs", BlockRegistry.STACKED_STRIPPED_CHERRY_LOGS);
+
+    // Stacked Pale Oak Logs Item
+    public static final DeferredItem<BlockItem> STACKED_PALE_OAK_LOGS_ITEM = ITEMS.registerSimpleBlockItem("stacked_pale_oak_logs", BlockRegistry.STACKED_PALE_OAK_LOGS);
+
+    // Stacked Stripped Pale Oak Logs Item
+    public static final DeferredItem<BlockItem> STACKED_STRIPPED_PALE_OAK_LOGS_ITEM = ITEMS.registerSimpleBlockItem("stacked_stripped_pale_oak_logs", BlockRegistry.STACKED_STRIPPED_PALE_OAK_LOGS);
 
     // Stacked Bamboo Logs Item
     public static final DeferredItem<BlockItem> STACKED_BAMBOO_BLOCKS_ITEM = ITEMS.registerSimpleBlockItem("stacked_bamboo_blocks", BlockRegistry.STACKED_BAMBOO_BLOCKS);

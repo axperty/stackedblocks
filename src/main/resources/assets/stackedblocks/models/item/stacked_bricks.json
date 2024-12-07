@@ -1,3 +1,6 @@
 {
-  "parent": "stackedblocks:block/stacked_bricks"
+  "parent": "stackedblocks:block/stacked_bricks",
+  "textures": {
+    "layer0": "stackedblocks:item/stacked_bricks"
+  }
 }

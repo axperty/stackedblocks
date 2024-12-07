@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "stackedblocks:stacked_resin_bricks"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:resin_bricks"
+  }
+}

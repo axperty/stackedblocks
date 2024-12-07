@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:stripped_pale_oak_log",
+    "R": "farmersdelight:rope"
+  },
+  "result": {
+    "count": 1,
+    "id": "stackedblocks:stacked_stripped_pale_oak_logs"
+  }
+}

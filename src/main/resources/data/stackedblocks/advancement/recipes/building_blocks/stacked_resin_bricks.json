@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_resin_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:resin_bricks"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "stackedblocks:stacked_resin_bricks"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_resin_bricks",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "stackedblocks:stacked_resin_bricks"
+    ]
+  },
+  "sends_telemetry_event": false
+}
