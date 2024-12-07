@@ -21,6 +21,33 @@ public class BlockList {
     // Stacked Pumpkins
     public static Block STACKED_PUMPKINS;
 
+    // Stacked Lapis Blocks
+    public static Block STACKED_LAPIS_BLOCKS;
+
+    // Stacked Redstone Blocks
+    public static Block STACKED_REDSTONE_BLOCKS;
+
+    // Stacked Coal Blocks
+    public static Block STACKED_COAL_BLOCKS;
+
+    // Stacked Iron Blocks
+    public static Block STACKED_IRON_BLOCKS;
+
+    // Stacked Gold Blocks
+    public static Block STACKED_GOLD_BLOCKS;
+
+    // Stacked Emerald Blocks
+    public static Block STACKED_EMERALD_BLOCKS;
+
+    // Stacked Diamond Blocks
+    public static Block STACKED_DIAMOND_BLOCKS;
+
+    // Stacked Netherite Blocks
+    public static Block STACKED_NETHERITE_BLOCKS;
+
+    // Stacked Quartz Blocks
+    public static Block STACKED_QUARTZ_BLOCKS;
+
     // Stacked Oak Logs
     public static Block STACKED_OAK_LOGS;
 

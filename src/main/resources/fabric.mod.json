@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "stackedblocks",
-  "version": "24.11.27-1.20-fabric",
+  "version": "24.12.07-1.20-fabric",
   "name": "Stacked Blocks",
   "description": "A mod that adds stacked blocks to the game.",
   "authors": [

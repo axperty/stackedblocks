@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "stackedblocks:stacked_iron_blocks"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:iron_block"
+  }
+}

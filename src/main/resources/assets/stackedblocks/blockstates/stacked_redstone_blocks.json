@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "stackedblocks:block/stacked_redstone_blocks"}
+  }
+}

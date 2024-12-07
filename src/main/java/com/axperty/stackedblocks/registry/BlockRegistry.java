@@ -36,6 +36,33 @@ public class BlockRegistry {
         BlockList.STACKED_PUMPKINS = block("stacked_pumpkins",
                 new Block(AbstractBlock.Settings.copy(Blocks.OAK_PLANKS)));
 
+        BlockList.STACKED_LAPIS_BLOCKS = block("stacked_lapis_blocks",
+                new Block(AbstractBlock.Settings.copy(Blocks.LAPIS_BLOCK)));
+
+        BlockList.STACKED_REDSTONE_BLOCKS = block("stacked_redstone_blocks",
+                new Block(AbstractBlock.Settings.copy(Blocks.REDSTONE_BLOCK)));
+
+        BlockList.STACKED_COAL_BLOCKS = block("stacked_coal_blocks",
+                new Block(AbstractBlock.Settings.copy(Blocks.COAL_BLOCK)));
+
+        BlockList.STACKED_IRON_BLOCKS = block("stacked_iron_blocks",
+                new Block(AbstractBlock.Settings.copy(Blocks.IRON_BLOCK)));
+
+        BlockList.STACKED_GOLD_BLOCKS = block("stacked_gold_blocks",
+                new Block(AbstractBlock.Settings.copy(Blocks.GOLD_BLOCK)));
+
+        BlockList.STACKED_EMERALD_BLOCKS = block("stacked_emerald_blocks",
+                new Block(AbstractBlock.Settings.copy(Blocks.EMERALD_BLOCK)));
+
+        BlockList.STACKED_DIAMOND_BLOCKS = block("stacked_diamond_blocks",
+                new Block(AbstractBlock.Settings.copy(Blocks.DIAMOND_BLOCK)));
+
+        BlockList.STACKED_NETHERITE_BLOCKS = block("stacked_netherite_blocks",
+                new Block(AbstractBlock.Settings.copy(Blocks.NETHERITE_BLOCK)));
+
+        BlockList.STACKED_QUARTZ_BLOCKS = block("stacked_quartz_blocks",
+                new Block(AbstractBlock.Settings.copy(Blocks.QUARTZ_BLOCK)));
+
         BlockList.STACKED_OAK_LOGS = block("stacked_oak_logs",
                 new Block(AbstractBlock.Settings.copy(Blocks.OAK_PLANKS)));
 
