@@ -4,6 +4,15 @@
     "stackedblocks:stacked_stone_blocks",
     "stackedblocks:stacked_cobblestone_blocks",
     "stackedblocks:stacked_netherrack_blocks",
-    "stackedblocks:stacked_bricks"
+    "stackedblocks:stacked_bricks",
+    "stackedblocks:stacked_lapis_blocks",
+    "stackedblocks:stacked_redstone_blocks",
+    "stackedblocks:stacked_coal_blocks",
+    "stackedblocks:stacked_iron_blocks",
+    "stackedblocks:stacked_gold_blocks",
+    "stackedblocks:stacked_emerald_blocks",
+    "stackedblocks:stacked_diamond_blocks",
+    "stackedblocks:stacked_netherite_blocks",
+    "stackedblocks:stacked_quartz_blocks"
   ]
 }
