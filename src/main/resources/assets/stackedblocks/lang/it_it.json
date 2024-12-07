@@ -38,6 +38,10 @@
   "block.stackedblocks.stacked_diamond_blocks": "Blocchi di diamante impilati",
   "block.stackedblocks.stacked_netherite_blocks": "Blocchi di netherite impilati",
   "block.stackedblocks.stacked_quartz_blocks": "Blocchi di quarzo impilati",
+  "block.stackedblocks.stacked_resin_blocks": "Blocchi di resina impilati",
+  "block.stackedblocks.stacked_resin_bricks": "Mattoni di resina impilati",
+  "block.stackedblocks.stacked_pale_oak_logs": "Tronchi di rovere chiaro impilati",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "Tronchi di rovere chiaro scortecciati impilati",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }
