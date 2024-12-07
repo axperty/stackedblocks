@@ -38,6 +38,10 @@
   "block.stackedblocks.stacked_diamond_blocks": "堆叠的钻石方块",
   "block.stackedblocks.stacked_netherite_blocks": "堆叠的下界合金方块",
   "block.stackedblocks.stacked_quartz_blocks": "堆叠的石英方块",
+  "block.stackedblocks.stacked_resin_blocks": "堆叠的树脂块",
+  "block.stackedblocks.stacked_resin_bricks": "堆叠的树脂砖",
+  "block.stackedblocks.stacked_pale_oak_logs": "堆叠的浅橡木原木",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "堆叠的去皮浅橡木原木",
 
   "itemGroup.stackedblocks": "堆叠的方块"
 }
