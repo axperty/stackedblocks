@@ -38,6 +38,10 @@
   "item.stackedblocks.stacked_diamond_blocks": "Stapel Diamant-Blöcke",
   "item.stackedblocks.stacked_netherite_blocks": "Stapel Netherit-Blöcke",
   "item.stackedblocks.stacked_quartz_blocks": "Stapel Quarz-Blöcke",
+  "item.stackedblocks.stacked_resin_blocks": "Gestackte Harzblöcke",
+  "item.stackedblocks.stacked_resin_bricks": "Gestackte Harzsteine",
+  "item.stackedblocks.stacked_pale_oak_logs": "Gestackte Hell-Eichenholzstämme",
+  "item.stackedblocks.stacked_stripped_pale_oak_logs": "Gestackte entrindete Hell-Eichenholzstämme",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

@@ -38,6 +38,10 @@
   "item.stackedblocks.stacked_diamond_blocks": "Stablede Diamantblokker",
   "item.stackedblocks.stacked_netherite_blocks": "Stablede Netheritt-blokker",
   "item.stackedblocks.stacked_quartz_blocks": "Stablede Kvartsblokker",
+  "item.stackedblocks.stacked_resin_blocks": "Stablede Harpiksblokker",
+  "item.stackedblocks.stacked_resin_bricks": "Stablede Harpikstein",
+  "item.stackedblocks.stacked_pale_oak_logs": "Stablede Lyse Eikelag",
+  "item.stackedblocks.stacked_stripped_pale_oak_logs": "Stablede Avbarket Lyse Eikelag",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

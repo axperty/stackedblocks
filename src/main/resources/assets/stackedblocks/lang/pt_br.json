@@ -38,6 +38,10 @@
   "item.stackedblocks.stacked_diamond_blocks": "Blocos de Diamante Empilhados",
   "item.stackedblocks.stacked_netherite_blocks": "Blocos de Netherita Empilhados",
   "item.stackedblocks.stacked_quartz_blocks": "Blocos de Quartzo Empilhados",
+  "item.stackedblocks.stacked_resin_blocks": "Blocos de Resina Empilhados",
+  "item.stackedblocks.stacked_resin_bricks": "Tijolo de Resina Empilhados",
+  "item.stackedblocks.stacked_pale_oak_logs": "Toras de Carvalho Claro Empilhadas",
+  "item.stackedblocks.stacked_stripped_pale_oak_logs": "Toras de Carvalho Claro Descascadas Empilhadas",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

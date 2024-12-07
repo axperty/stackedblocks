@@ -38,6 +38,10 @@
   "item.stackedblocks.stacked_diamond_blocks": "Stacked Diamond Blocks",
   "item.stackedblocks.stacked_netherite_blocks": "Stacked Netherite Blocks",
   "item.stackedblocks.stacked_quartz_blocks": "Stacked Quartz Blocks",
+  "item.stackedblocks.stacked_resin_blocks": "Stacked Resin Blocks",
+  "item.stackedblocks.stacked_resin_bricks": "Stacked Resin Bricks",
+  "item.stackedblocks.stacked_pale_oak_logs": "Stacked Pale Oak Logs",
+  "item.stackedblocks.stacked_stripped_pale_oak_logs": "Stacked Stripped Pale Oak Logs",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }
