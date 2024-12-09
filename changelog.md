@@ -4,12 +4,7 @@
 
 ### ✨ What's New:
 
-- The textures for all blocks have been improved.
-- All blocks now have a custom bottom texture.
-
-### 🌐 Translations:
-
-- Improved translations for Russian, special thanks to [Korben](https://github.com/mpustovoi).
+- This version of Crate Delight now works with Minecraft 1.20.3-1.20.4.
 
 ***
 

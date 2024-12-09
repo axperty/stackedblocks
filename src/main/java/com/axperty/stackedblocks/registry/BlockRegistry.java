@@ -20,151 +20,151 @@ public class BlockRegistry {
 
     // Stacked Stone Blocks
     public static final RegistryObject<Block> STACKED_STONE_BLOCKS = registerBlock("stacked_stone_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.STONE)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.STONE)));
 
     // Stacked Cobblestone Blocks
     public static final RegistryObject<Block> STACKED_COBBLESTONE_BLOCKS = registerBlock("stacked_cobblestone_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.COBBLESTONE)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.COBBLESTONE)));
 
     // Stacked Netherrack Blocks
     public static final RegistryObject<Block> STACKED_NETHERRACK_BLOCKS = registerBlock("stacked_netherrack_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.NETHERRACK)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.NETHERRACK)));
 
     // Stacked Bricks
     public static final RegistryObject<Block> STACKED_BRICKS = registerBlock("stacked_bricks",
-            () -> new Block(Block.Properties.copy(Blocks.BRICKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.BRICKS)));
 
     // Stacked Melons
     public static final RegistryObject<Block> STACKED_MELONS = registerBlock("stacked_melons",
-            () -> new Block(Block.Properties.copy(Blocks.MELON)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.MELON)));
 
     // Stacked Pumpkins
     public static final RegistryObject<Block> STACKED_PUMPKINS = registerBlock("stacked_pumpkins",
-            () -> new Block(Block.Properties.copy(Blocks.PUMPKIN)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.PUMPKIN)));
 
     // Stacked Lapis Blocks
     public static final RegistryObject<Block> STACKED_LAPIS_BLOCKS = registerBlock("stacked_lapis_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.LAPIS_BLOCK)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.LAPIS_BLOCK)));
 
     // Stacked Redstone Blocks
     public static final RegistryObject<Block> STACKED_REDSTONE_BLOCKS = registerBlock("stacked_redstone_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.REDSTONE_BLOCK)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.REDSTONE_BLOCK)));
 
     // Stacked Coal Blocks
     public static final RegistryObject<Block> STACKED_COAL_BLOCKS = registerBlock("stacked_coal_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.COAL_BLOCK)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.COAL_BLOCK)));
 
     // Stacked Iron Blocks
     public static final RegistryObject<Block> STACKED_IRON_BLOCKS = registerBlock("stacked_iron_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.IRON_BLOCK)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.IRON_BLOCK)));
 
     // Stacked Gold Blocks
     public static final RegistryObject<Block> STACKED_GOLD_BLOCKS = registerBlock("stacked_gold_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.GOLD_BLOCK)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.GOLD_BLOCK)));
 
     // Stacked Emerald Blocks
     public static final RegistryObject<Block> STACKED_EMERALD_BLOCKS = registerBlock("stacked_emerald_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.EMERALD_BLOCK)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.EMERALD_BLOCK)));
 
     // Stacked Diamond Blocks
     public static final RegistryObject<Block> STACKED_DIAMOND_BLOCKS = registerBlock("stacked_diamond_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.DIAMOND_BLOCK)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.DIAMOND_BLOCK)));
 
     // Stacked Netherite Blocks
     public static final RegistryObject<Block> STACKED_NETHERITE_BLOCKS = registerBlock("stacked_netherite_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.NETHERITE_BLOCK)));
 
     // Stacked Quartz Blocks
     public static final RegistryObject<Block> STACKED_QUARTZ_BLOCKS = registerBlock("stacked_quartz_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.QUARTZ_BLOCK)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.QUARTZ_BLOCK)));
 
     // Stacked Oak Logs
     public static final RegistryObject<Block> STACKED_OAK_LOGS = registerBlock("stacked_oak_logs",
-            () -> new Block(Block.Properties.copy(Blocks.OAK_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
 
     // Stacked Stripped Oak Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_OAK_LOGS = registerBlock("stacked_stripped_oak_logs",
-            () -> new Block(Block.Properties.copy(Blocks.OAK_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
 
     // Stacked Spruce Logs
     public static final RegistryObject<Block> STACKED_SPRUCE_LOGS = registerBlock("stacked_spruce_logs",
-            () -> new Block(Block.Properties.copy(Blocks.SPRUCE_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.SPRUCE_PLANKS)));
 
     // Stacked Stripped Spruce Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_SPRUCE_LOGS = registerBlock("stacked_stripped_spruce_logs",
-            () -> new Block(Block.Properties.copy(Blocks.SPRUCE_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.SPRUCE_PLANKS)));
 
     // Stacked Birch Logs
     public static final RegistryObject<Block> STACKED_BIRCH_LOGS = registerBlock("stacked_birch_logs",
-            () -> new Block(Block.Properties.copy(Blocks.BIRCH_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.BIRCH_PLANKS)));
 
     // Stacked Stripped Birch Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_BIRCH_LOGS = registerBlock("stacked_stripped_birch_logs",
-            () -> new Block(Block.Properties.copy(Blocks.BIRCH_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.BIRCH_PLANKS)));
 
     // Stacked Jungle Logs
     public static final RegistryObject<Block> STACKED_JUNGLE_LOGS = registerBlock("stacked_jungle_logs",
-            () -> new Block(Block.Properties.copy(Blocks.JUNGLE_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.JUNGLE_PLANKS)));
 
     // Stacked Stripped Jungle Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_JUNGLE_LOGS = registerBlock("stacked_stripped_jungle_logs",
-            () -> new Block(Block.Properties.copy(Blocks.JUNGLE_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.JUNGLE_PLANKS)));
 
     // Stacked Acacia Logs
     public static final RegistryObject<Block> STACKED_ACACIA_LOGS = registerBlock("stacked_acacia_logs",
-            () -> new Block(Block.Properties.copy(Blocks.ACACIA_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.ACACIA_PLANKS)));
 
     // Stacked Stripped Acacia Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_ACACIA_LOGS = registerBlock("stacked_stripped_acacia_logs",
-            () -> new Block(Block.Properties.copy(Blocks.ACACIA_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.ACACIA_PLANKS)));
 
     // Stacked Dark Oak Logs
     public static final RegistryObject<Block> STACKED_DARK_OAK_LOGS = registerBlock("stacked_dark_oak_logs",
-            () -> new Block(Block.Properties.copy(Blocks.DARK_OAK_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.DARK_OAK_PLANKS)));
 
     // Stacked Stripped Dark Oak Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_DARK_OAK_LOGS = registerBlock("stacked_stripped_dark_oak_logs",
-            () -> new Block(Block.Properties.copy(Blocks.DARK_OAK_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.DARK_OAK_PLANKS)));
 
     // Stacked Mangrove Logs
     public static final RegistryObject<Block> STACKED_MANGROVE_LOGS = registerBlock("stacked_mangrove_logs",
-            () -> new Block(Block.Properties.copy(Blocks.MANGROVE_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.MANGROVE_PLANKS)));
 
     // Stacked Stripped Mangrove Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_MANGROVE_LOGS = registerBlock("stacked_stripped_mangrove_logs",
-            () -> new Block(Block.Properties.copy(Blocks.MANGROVE_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.MANGROVE_PLANKS)));
 
     // Stacked Cherry Logs
     public static final RegistryObject<Block> STACKED_CHERRY_LOGS = registerBlock("stacked_cherry_logs",
-            () -> new Block(Block.Properties.copy(Blocks.CHERRY_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.CHERRY_PLANKS)));
 
     // Stacked Stripped Cherry Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_CHERRY_LOGS = registerBlock("stacked_stripped_cherry_logs",
-            () -> new Block(Block.Properties.copy(Blocks.CHERRY_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.CHERRY_PLANKS)));
 
     // Stacked Bamboo Blocks
     public static final RegistryObject<Block> STACKED_BAMBOO_BLOCKS = registerBlock("stacked_bamboo_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.BAMBOO_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.BAMBOO_PLANKS)));
 
     // Stacked Stripped Bamboo Blocks
     public static final RegistryObject<Block> STACKED_STRIPPED_BAMBOO_BLOCKS = registerBlock("stacked_stripped_bamboo_blocks",
-            () -> new Block(Block.Properties.copy(Blocks.BAMBOO_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.BAMBOO_PLANKS)));
 
     // Stacked Crimson Logs
     public static final RegistryObject<Block> STACKED_CRIMSON_STEMS = registerBlock("stacked_crimson_stems",
-            () -> new Block(Block.Properties.copy(Blocks.CRIMSON_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.CRIMSON_PLANKS)));
 
     // Stacked Stripped Crimson Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_CRIMSON_STEMS = registerBlock("stacked_stripped_crimson_stems",
-            () -> new Block(Block.Properties.copy(Blocks.CRIMSON_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.CRIMSON_PLANKS)));
 
     // Stacked Warped Logs
     public static final RegistryObject<Block> STACKED_WARPED_STEMS = registerBlock("stacked_warped_stems",
-            () -> new Block(Block.Properties.copy(Blocks.WARPED_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.WARPED_PLANKS)));
 
     // Stacked Stripped Warped Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_WARPED_STEMS = registerBlock("stacked_stripped_warped_stems",
-            () -> new Block(Block.Properties.copy(Blocks.WARPED_PLANKS)));
+            () -> new Block(Block.Properties.ofFullCopy(Blocks.WARPED_PLANKS)));
 
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
