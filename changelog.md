@@ -4,13 +4,7 @@
 
 ### ✨ What's New:
 
-- The textures for all blocks have been improved.
-- All blocks now have a custom bottom texture.
-
-### 🌐 Translations:
-
-- Improved translations for Russian, special thanks to [Korben](https://github.com/mpustovoi).
-
+- This version of Crate Delight now works with Minecraft 1.20.5-1.20.6.
 ***
 
 Send your suggestions or report any issues on [GitHub](https://github.com/axperty/stackedblocks/issues/new). Support Stacked Blocks by [creating your own server](https://url-shortener.curseforge.com/p5i2k) or [donating on PayPal](https://paypal.me/kevgelhorn). 

@@ -2,10 +2,8 @@ package com.axperty.stackedblocks.registry;
 
 import com.axperty.stackedblocks.StackedBlocks;
 import com.axperty.stackedblocks.block.BlockList;
-import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
-import net.fabricmc.loader.api.FabricLoader;
 import net.minecraft.block.*;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
@@ -141,7 +139,7 @@ public class BlockRegistry {
 
     private static Item blockItem(String name, Block block) {
         Item item = Registry.register(Registries.ITEM, new Identifier(StackedBlocks.MODID, name),
-                new BlockItem(block, new FabricItemSettings()));
+                new BlockItem(block, new Item.Settings()));
         ItemGroupEvents.modifyEntriesEvent(StackedBlocks.GROUP).register(entries -> entries.add(item));
         return item;
     }
