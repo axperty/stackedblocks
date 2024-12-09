@@ -4,7 +4,7 @@
 
 ### ✨ What's New:
 
-- This version of Crate Delight now works with Minecraft 1.20.3-1.20.4.
+- This version of Crate Delight now works with Minecraft 1.20.6.
 
 ***
 
