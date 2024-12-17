@@ -4,12 +4,15 @@
 
 ### ✨ What's New:
 
-- The textures for all blocks have been improved.
-- All blocks now have a custom bottom texture.
-
-### 🌐 Translations:
-
-- Improved translations for Russian, special thanks to [Korben](https://github.com/mpustovoi).
+- Added Stacked Lapis Blocks.
+- Added Stacked Redstone Blocks.
+- Added Stacked Coal Blocks.
+- Added Stacked Iron Blocks.
+- Added Stacked Gold Blocks.
+- Added Stacked Emerald Blocks.
+- Added Stacked Diamond Blocks.
+- Added Stacked Netherite Blocks.
+- Added Stacked Quartz Blocks.
 
 ***
 
