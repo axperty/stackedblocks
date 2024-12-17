@@ -4,7 +4,7 @@ license="MIT"
 
 [[mods]]
     modId="stackedblocks"
-    version="24.11.27-1.19-forge"
+    version="24.12.09-1.19-forge"
     displayName="Stacked Blocks"
     authors="Axperty"
     description="A mod that adds stacked blocks to the game."

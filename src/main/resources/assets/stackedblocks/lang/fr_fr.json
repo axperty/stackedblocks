@@ -29,5 +29,19 @@
   "block.stackedblocks.stacked_warped_stems": "Tiges tordues empilées",
   "block.stackedblocks.stacked_stripped_warped_stems": "Tiges tordues écorcées empilées",
 
+  "block.stackedblocks.stacked_lapis_blocks": "Blocs de lapis-lazuli empilés",
+  "block.stackedblocks.stacked_redstone_blocks": "Blocs de redstone empilés",
+  "block.stackedblocks.stacked_coal_blocks": "Blocs de charbon empilés",
+  "block.stackedblocks.stacked_iron_blocks": "Blocs de fer empilés",
+  "block.stackedblocks.stacked_gold_blocks": "Blocs d'or empilés",
+  "block.stackedblocks.stacked_emerald_blocks": "Blocs d'émeraude empilés",
+  "block.stackedblocks.stacked_diamond_blocks": "Blocs de diamant empilés",
+  "block.stackedblocks.stacked_netherite_blocks": "Blocs de néthrite empilés",
+  "block.stackedblocks.stacked_quartz_blocks": "Blocs de quartz empilés",
+  "block.stackedblocks.stacked_resin_blocks": "Blocs de résine empilés",
+  "block.stackedblocks.stacked_resin_bricks": "Briques de résine empilées",
+  "block.stackedblocks.stacked_pale_oak_logs": "Grumes de chêne clair empilées",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "Grumes de chêne clair écorcées empilées",
+
   "itemGroup.stackedblocks": "Blocs empilés"
 }
