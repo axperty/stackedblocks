@@ -29,5 +29,19 @@
   "block.stackedblocks.stacked_warped_stems": "Gestapelte verworrene Stängel",
   "block.stackedblocks.stacked_stripped_warped_stems": "Gestapelte geschälte verworrene Stängel",
 
+  "block.stackedblocks.stacked_lapis_blocks": "Stapel Lapislazuli-Blöcke",
+  "block.stackedblocks.stacked_redstone_blocks": "Stapel Redstone-Blöcke",
+  "block.stackedblocks.stacked_coal_blocks": "Stapel Kohle-Blöcke",
+  "block.stackedblocks.stacked_iron_blocks": "Stapel Eisen-Blöcke",
+  "block.stackedblocks.stacked_gold_blocks": "Stapel Gold-Blöcke",
+  "block.stackedblocks.stacked_emerald_blocks": "Stapel Smaragd-Blöcke",
+  "block.stackedblocks.stacked_diamond_blocks": "Stapel Diamant-Blöcke",
+  "block.stackedblocks.stacked_netherite_blocks": "Stapel Netherit-Blöcke",
+  "block.stackedblocks.stacked_quartz_blocks": "Stapel Quarz-Blöcke",
+  "block.stackedblocks.stacked_resin_blocks": "Gestackte Harzblöcke",
+  "block.stackedblocks.stacked_resin_bricks": "Gestackte Harzsteine",
+  "block.stackedblocks.stacked_pale_oak_logs": "Gestackte Hell-Eichenholzstämme",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "Gestackte entrindete Hell-Eichenholzstämme",
+
   "itemGroup.stackedblocks.creative_tab": "Stacked Blocks"
 }

@@ -29,5 +29,19 @@
   "block.stackedblocks.stacked_warped_stems": "Складені спотворені стовбури",
   "block.stackedblocks.stacked_stripped_warped_stems": "Складені очищені спотворені стовбури",
 
+  "block.stackedblocks.stacked_lapis_blocks": "Складені блоки лазуриту",
+  "block.stackedblocks.stacked_redstone_blocks": "Складені блоки редстоуну",
+  "block.stackedblocks.stacked_coal_blocks": "Складені блоки вугілля",
+  "block.stackedblocks.stacked_iron_blocks": "Складені блоки заліза",
+  "block.stackedblocks.stacked_gold_blocks": "Складені блоки золота",
+  "block.stackedblocks.stacked_emerald_blocks": "Складені блоки смарагдів",
+  "block.stackedblocks.stacked_diamond_blocks": "Складені блоки алмазів",
+  "block.stackedblocks.stacked_netherite_blocks": "Складені блоки нетериту",
+  "block.stackedblocks.stacked_quartz_blocks": "Складені блоки кварцу",
+  "block.stackedblocks.stacked_resin_blocks": "Складені блоки смоли",
+  "block.stackedblocks.stacked_resin_bricks": "Складені цеглини смоли",
+  "block.stackedblocks.stacked_pale_oak_logs": "Складені колоди світлого дуба",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "Складені очищені колоди світлого дуба",
+
   "itemGroup.stackedblocks.creative_tab": "Stacked Blocks"
 }

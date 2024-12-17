@@ -29,5 +29,19 @@
   "block.stackedblocks.stacked_warped_stems": "쌓인 왜곡된 줄기",
   "block.stackedblocks.stacked_stripped_warped_stems": "쌓인 벗겨진 왜곡된 줄기",
 
+  "block.stackedblocks.stacked_lapis_blocks": "쌓인 청금석 블록",
+  "block.stackedblocks.stacked_redstone_blocks": "쌓인 레드스톤 블록",
+  "block.stackedblocks.stacked_coal_blocks": "쌓인 석탄 블록",
+  "block.stackedblocks.stacked_iron_blocks": "쌓인 철 블록",
+  "block.stackedblocks.stacked_gold_blocks": "쌓인 금 블록",
+  "block.stackedblocks.stacked_emerald_blocks": "쌓인 에메랄드 블록",
+  "block.stackedblocks.stacked_diamond_blocks": "쌓인 다이아몬드 블록",
+  "block.stackedblocks.stacked_netherite_blocks": "쌓인 네더라이트 블록",
+  "block.stackedblocks.stacked_quartz_blocks": "쌓인 수정 블록",
+  "block.stackedblocks.stacked_resin_blocks": "쌓인 수지 블록",
+  "block.stackedblocks.stacked_resin_bricks": "쌓인 수지 벽돌",
+  "block.stackedblocks.stacked_pale_oak_logs": "쌓인 밝은 오크 통나무",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "쌓인 껍질 벗긴 밝은 오크 통나무",
+
   "itemGroup.stackedblocks.creative_tab": "Stacked Blocks"
 }

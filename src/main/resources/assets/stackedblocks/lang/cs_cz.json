@@ -29,5 +29,19 @@
   "block.stackedblocks.stacked_warped_stems": "Stohované zkroucené stonky",
   "block.stackedblocks.stacked_stripped_warped_stems": "Stohované oškrábané zkroucené stonky",
 
+  "block.stackedblocks.stacked_lapis_blocks": "Složené bloky lapisu",
+  "block.stackedblocks.stacked_redstone_blocks": "Složené bloky redstonu",
+  "block.stackedblocks.stacked_coal_blocks": "Složené bloky uhlí",
+  "block.stackedblocks.stacked_iron_blocks": "Složené bloky železa",
+  "block.stackedblocks.stacked_gold_blocks": "Složené bloky zlata",
+  "block.stackedblocks.stacked_emerald_blocks": "Složené bloky smaragdů",
+  "block.stackedblocks.stacked_diamond_blocks": "Složené bloky diamantů",
+  "block.stackedblocks.stacked_netherite_blocks": "Složené bloky netheritu",
+  "block.stackedblocks.stacked_quartz_blocks": "Složené bloky křemene",
+  "block.stackedblocks.stacked_resin_blocks": "Skládané bloky pryskyřice",
+  "block.stackedblocks.stacked_resin_bricks": "Skládané cihly pryskyřice",
+  "block.stackedblocks.stacked_pale_oak_logs": "Skládané klády světleho dubu",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "Skládané oloupané klády světleho dubu",
+
   "itemGroup.stackedblocks.creative_tab": "Stacked Blocks"
 }

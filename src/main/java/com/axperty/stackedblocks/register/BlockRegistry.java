@@ -40,6 +40,42 @@ public class BlockRegistry {
     public static final Block STACKED_PUMPKINS = registerBlock("stacked_pumpkins",
             new Block(FabricBlockSettings.copyOf(Blocks.PUMPKIN)), CreativeModTab.CREATIVE_MODE_TAB);
 
+    // Stacked Lapis Block
+    public static final Block STACKED_LAPIS_BLOCK = registerBlock("stacked_lapis_blocks",
+            new Block(FabricBlockSettings.copyOf(Blocks.LAPIS_BLOCK)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Redstone Block
+    public static final Block STACKED_REDSTONE_BLOCK = registerBlock("stacked_redstone_blocks",
+            new Block(FabricBlockSettings.copyOf(Blocks.REDSTONE_BLOCK)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Coal Block
+    public static final Block STACKED_COAL_BLOCK = registerBlock("stacked_coal_blocks",
+            new Block(FabricBlockSettings.copyOf(Blocks.COAL_BLOCK)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Iron Block
+    public static final Block STACKED_IRON_BLOCK = registerBlock("stacked_iron_blocks",
+            new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Gold Block
+    public static final Block STACKED_GOLD_BLOCK = registerBlock("stacked_gold_blocks",
+            new Block(FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Emerald Block
+    public static final Block STACKED_EMERALD_BLOCK = registerBlock("stacked_emerald_blocks",
+            new Block(FabricBlockSettings.copyOf(Blocks.EMERALD_BLOCK)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Diamond Block
+    public static final Block STACKED_DIAMOND_BLOCK = registerBlock("stacked_diamond_blocks",
+            new Block(FabricBlockSettings.copyOf(Blocks.DIAMOND_BLOCK)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Netherite Block
+    public static final Block STACKED_NETHERITE_BLOCK = registerBlock("stacked_netherite_blocks",
+            new Block(FabricBlockSettings.copyOf(Blocks.NETHERITE_BLOCK)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Quartz Block
+    public static final Block STACKED_QUARTZ_BLOCK = registerBlock("stacked_quartz_blocks",
+            new Block(FabricBlockSettings.copyOf(Blocks.QUARTZ_BLOCK)), CreativeModTab.CREATIVE_MODE_TAB);
+
     // Stacked Oak Logs
     public static final Block STACKED_OAK_LOGS = registerBlock("stacked_oak_logs",
             new Block(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);

@@ -29,5 +29,19 @@
   "block.stackedblocks.stacked_warped_stems": "Stablede Warpede-stengler",
   "block.stackedblocks.stacked_stripped_warped_stems": "Stablede Stripede Warpede-stengler",
 
+  "block.stackedblocks.stacked_lapis_blocks": "Stablede Lapis Lazuli-blokker",
+  "block.stackedblocks.stacked_redstone_blocks": "Stablede Redstone-blokker",
+  "block.stackedblocks.stacked_coal_blocks": "Stablede Kullblokker",
+  "block.stackedblocks.stacked_iron_blocks": "Stablede Jernblokker",
+  "block.stackedblocks.stacked_gold_blocks": "Stablede Gullblokker",
+  "block.stackedblocks.stacked_emerald_blocks": "Stablede Smaragd-blokker",
+  "block.stackedblocks.stacked_diamond_blocks": "Stablede Diamantblokker",
+  "block.stackedblocks.stacked_netherite_blocks": "Stablede Netheritt-blokker",
+  "block.stackedblocks.stacked_quartz_blocks": "Stablede Kvartsblokker",
+  "block.stackedblocks.stacked_resin_blocks": "Stablede Harpiksblokker",
+  "block.stackedblocks.stacked_resin_bricks": "Stablede Harpikstein",
+  "block.stackedblocks.stacked_pale_oak_logs": "Stablede Lyse Eikelag",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "Stablede Avbarket Lyse Eikelag",
+
   "itemGroup.stackedblocks.creative_tab": "Stacked Blocks"
 }
