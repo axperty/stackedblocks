@@ -26,6 +26,15 @@ This mod adds blocks to the game that aim to decorate and save storage:
 - Stacked Bricks
 - Stacked Melons
 - Stacked Pumpkins
+- Stacked Lapis Blocks
+- Stacked Redstone Blocks
+- Stacked Coal Blocks
+- Stacked Iron Blocks
+- Stacked Gold Blocks
+- Stacked Emerald Blocks
+- Stacked Diamond Blocks
+- Stacked Netherite Blocks
+- Stacked Quartz Blocks
 - Stacked Oak Logs
 - Stacked Stripped Oak Logs
 - Stacked Spruce Logs
@@ -49,4 +58,4 @@ This mod adds blocks to the game that aim to decorate and save storage:
 - Stacked Warped Stems
 - Stacked Stripped Warped Stems
 
-If you would like Stacked Blocks to have support for other mods, send your suggestions on [GitHub,](https://github.com/axperty/stackedblocks/issues/new) or you can also join the [Discord server.](https://discord.gg/yweZ2agkDw)
+If you would like Stacked Blocks to have more blocks, send your suggestions on [GitHub,](https://github.com/axperty/stackedblocks/issues/new) or you can also join the [Discord server.](https://discord.gg/yweZ2agkDw)

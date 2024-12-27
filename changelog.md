@@ -2,14 +2,9 @@
 
 ***
 
-### ✨ What's New:
+### 🛠️ Bug Fixes:
 
-- The textures for all blocks have been improved.
-- All blocks now have a custom bottom texture.
-
-### 🌐 Translations:
-
-- Improved translations for Russian, special thanks to [Korben](https://github.com/mpustovoi).
+- Fixed a bug where certain blocks couldn't be crafted when using rope from Farmer's Delight.
 
 ***
 
