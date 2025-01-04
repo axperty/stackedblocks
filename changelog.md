@@ -4,14 +4,11 @@
 
 ### ✨ What's New:
 
-- Leads can now be crafted with leather or slime balls, making stacked blocks easier to craft.
-
-![Lead Crafting Recipe](https://i.imgur.com/oHYveVA.gif)
-
-### 🛠️ Other Changes:
-
-- Blocks can no longer be made with rope from Farmer's Delight.
+- Added support for [Stacked Blocks: Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/stacked-blocks-farmers-delight) add-on.
 
 ***
 
-Send your suggestions or report any issues on [GitHub](https://github.com/axperty/stackedblocks/issues/new). Support Stacked Blocks by [creating your own server](https://url-shortener.curseforge.com/RVyce) or [donating on PayPal](https://paypal.me/kevgelhorn). 
+### 📝 Feedback and Support:
+
+- Found a bug or have suggestions? [Submit an issue on GitHub](https://github.com/axperty/stackedblocks/issues/new).
+- Support this mod by [creating your own server](https://url-shortener.curseforge.com/VnNzX) or [donating via PayPal](https://paypal.me/kevgelhorn).
