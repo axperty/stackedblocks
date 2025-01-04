@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
+  "group": "stacked_emerald_blocks",
   "pattern": [
     "###",
     "#R#",

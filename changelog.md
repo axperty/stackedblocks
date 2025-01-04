@@ -4,16 +4,11 @@
 
 ### ✨ What's New:
 
-- Added Stacked Lapis Blocks.
-- Added Stacked Redstone Blocks.
-- Added Stacked Coal Blocks.
-- Added Stacked Iron Blocks.
-- Added Stacked Gold Blocks.
-- Added Stacked Emerald Blocks.
-- Added Stacked Diamond Blocks.
-- Added Stacked Netherite Blocks.
-- Added Stacked Quartz Blocks.
+- Added support for [Stacked Blocks: Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/stacked-blocks-farmers-delight) add-on.
 
 ***
 
-Send your suggestions or report any issues on [GitHub](https://github.com/axperty/stackedblocks/issues/new). Support Stacked Blocks by [creating your own server](https://url-shortener.curseforge.com/p5i2k) or [donating on PayPal](https://paypal.me/kevgelhorn). 
+### 📝 Feedback and Support:
+
+- Found a bug or have suggestions? [Submit an issue on GitHub](https://github.com/axperty/stackedblocks/issues/new).
+- Support this mod by [creating your own server](https://url-shortener.curseforge.com/VnNzX) or [donating via PayPal](https://paypal.me/kevgelhorn).
