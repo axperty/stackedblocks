@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:birch_logs_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_birch_logs"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_birch_logs"
+      }
+    ],
+    "result": {
+      "item": "minecraft:birch_log",
+      "count": 8
+    }
+  }
+}

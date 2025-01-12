@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:dark_oak_logs_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_dark_oak_logs"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_dark_oak_logs"
+      }
+    ],
+    "result": {
+      "item": "minecraft:dark_oak_log",
+      "count": 8
+    }
+  }
+}

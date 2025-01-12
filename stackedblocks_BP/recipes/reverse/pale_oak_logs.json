@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:pale_oak_logs_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_pale_oak_logs"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_pale_oak_logs"
+      }
+    ],
+    "result": {
+      "item": "minecraft:pale_oak_log",
+      "count": 8
+    }
+  }
+}

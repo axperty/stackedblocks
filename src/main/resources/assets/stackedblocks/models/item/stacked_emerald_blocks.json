@@ -1,6 +1,0 @@
-{
-  "parent": "stackedblocks:block/stacked_emerald_blocks",
-  "textures": {
-    "layer0": "stackedblocks:item/stacked_emerald_blocks"
-  }
-}

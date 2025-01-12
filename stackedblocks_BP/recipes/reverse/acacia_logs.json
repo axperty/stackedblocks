@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:acacia_logs_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_acacia_logs"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_acacia_logs"
+      }
+    ],
+    "result": {
+      "item": "minecraft:acacia_log",
+      "count": 8
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:stripped_crimson_stems_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_stripped_crimson_stems"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_stripped_crimson_stems"
+      }
+    ],
+    "result": {
+      "item": "minecraft:stripped_crimson_stem",
+      "count": 8
+    }
+  }
+}

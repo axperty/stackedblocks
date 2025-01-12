@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:resin_bricks_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_resin_bricks"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_resin_bricks"
+      }
+    ],
+    "result": {
+      "item": "minecraft:resin_bricks",
+      "count": 8
+    }
+  }
+}

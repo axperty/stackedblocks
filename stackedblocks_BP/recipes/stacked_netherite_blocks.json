@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "stackedblocks:stacked_netherite_blocks"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:netherite_block"
+      },
+      "B": {
+        "item": "minecraft:lead"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:netherite_block"
+      }
+    ],
+    "result": {
+      "item": "stackedblocks:stacked_netherite_blocks"
+    }
+  }
+}

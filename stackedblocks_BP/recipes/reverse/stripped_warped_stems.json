@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:stripped_warped_stems_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_stripped_warped_stems"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_stripped_warped_stems"
+      }
+    ],
+    "result": {
+      "item": "minecraft:stripped_warped_stem",
+      "count": 8
+    }
+  }
+}

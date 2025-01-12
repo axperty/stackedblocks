@@ -1,0 +1,378 @@
+{
+  "resource_pack_name": "crate_delight_resource_pack",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "stacked_stone_blocks_top": {
+      "textures": "textures/blocks/stacked_stone_blocks_top"
+    },
+    "stacked_stone_blocks_side": {
+      "textures": "textures/blocks/stacked_stone_blocks_side"
+    },
+    "stacked_stone_blocks_bottom": {
+      "textures": "textures/blocks/stacked_stone_blocks_bottom"
+    },
+    "stacked_cobblestone_blocks_top": {
+      "textures": "textures/blocks/stacked_cobblestone_blocks_top"
+    },
+    "stacked_cobblestone_blocks_side": {
+      "textures": "textures/blocks/stacked_cobblestone_blocks_side"
+    },
+    "stacked_cobblestone_blocks_bottom": {
+      "textures": "textures/blocks/stacked_cobblestone_blocks_bottom"
+    },
+    "stacked_netherrack_blocks_top": {
+      "textures": "textures/blocks/stacked_netherrack_blocks_top"
+    },
+    "stacked_netherrack_blocks_side": {
+      "textures": "textures/blocks/stacked_netherrack_blocks_side"
+    },
+    "stacked_netherrack_blocks_bottom": {
+      "textures": "textures/blocks/stacked_netherrack_blocks_bottom"
+    },
+    "stacked_bricks_top": {
+      "textures": "textures/blocks/stacked_bricks_top"
+    },
+    "stacked_bricks_side": {
+      "textures": "textures/blocks/stacked_bricks_side"
+    },
+    "stacked_bricks_bottom": {
+      "textures": "textures/blocks/stacked_bricks_bottom"
+    },
+    "stacked_resin_blocks_top": {
+      "textures": "textures/blocks/stacked_resin_blocks_top"
+    },
+    "stacked_resin_blocks_side": {
+      "textures": "textures/blocks/stacked_resin_blocks_side"
+    },
+     "stacked_resin_blocks_bottom": {
+      "textures": "textures/blocks/stacked_resin_blocks_bottom"
+    },
+    "stacked_resin_bricks_top": {
+      "textures": "textures/blocks/stacked_resin_bricks_top"
+    },
+    "stacked_resin_bricks_side": {
+      "textures": "textures/blocks/stacked_resin_bricks_side"
+    },
+     "stacked_resin_bricks_bottom": {
+      "textures": "textures/blocks/stacked_resin_bricks_bottom"
+    },
+    "stacked_melons_top": {
+      "textures": "textures/blocks/stacked_melons_top"
+    },
+    "stacked_melons_side": {
+      "textures": "textures/blocks/stacked_melons_side"
+    },
+    "stacked_melons_bottom": {
+      "textures": "textures/blocks/stacked_melons_bottom"
+    },
+    "stacked_pumpkins_top": {
+      "textures": "textures/blocks/stacked_pumpkins_top"
+    },
+    "stacked_pumpkins_side": {
+      "textures": "textures/blocks/stacked_pumpkins_side"
+    },
+     "stacked_pumpkins_bottom": {
+      "textures": "textures/blocks/stacked_pumpkins_bottom"
+    },
+    "stacked_lapis_blocks_top": {
+      "textures": "textures/blocks/stacked_lapis_blocks_top"
+    },
+    "stacked_lapis_blocks_side": {
+      "textures": "textures/blocks/stacked_lapis_blocks_side"
+    },
+    "stacked_lapis_blocks_bottom": {
+      "textures": "textures/blocks/stacked_lapis_blocks_bottom"
+    },
+    "stacked_redstone_blocks_top": {
+      "textures": "textures/blocks/stacked_redstone_blocks_top"
+    },
+    "stacked_redstone_blocks_side": {
+      "textures": "textures/blocks/stacked_redstone_blocks_side"
+    },
+    "stacked_redstone_blocks_bottom": {
+      "textures": "textures/blocks/stacked_redstone_blocks_bottom"
+    },
+    "stacked_coal_blocks_top": {
+      "textures": "textures/blocks/stacked_coal_blocks_top"
+    },
+    "stacked_coal_blocks_side": {
+      "textures": "textures/blocks/stacked_coal_blocks_side"
+    },
+    "stacked_coal_blocks_bottom": {
+      "textures": "textures/blocks/stacked_coal_blocks_bottom"
+    },
+    "stacked_iron_blocks_top": {
+      "textures": "textures/blocks/stacked_iron_blocks_top"
+    },
+    "stacked_iron_blocks_side": {
+      "textures": "textures/blocks/stacked_iron_blocks_side"
+    },
+    "stacked_iron_blocks_bottom": {
+      "textures": "textures/blocks/stacked_iron_blocks_bottom"
+    },
+    "stacked_gold_blocks_top": {
+      "textures": "textures/blocks/stacked_gold_blocks_top"
+    },
+    "stacked_gold_blocks_side": {
+      "textures": "textures/blocks/stacked_gold_blocks_side"
+    },
+    "stacked_gold_blocks_bottom": {
+      "textures": "textures/blocks/stacked_gold_blocks_bottom"
+    },
+    "stacked_emerald_blocks_top": {
+      "textures": "textures/blocks/stacked_emerald_blocks_top"
+    },
+    "stacked_emerald_blocks_side": {
+      "textures": "textures/blocks/stacked_emerald_blocks_side"
+    },
+    "stacked_emerald_blocks_bottom": {
+      "textures": "textures/blocks/stacked_emerald_blocks_bottom"
+    },
+    "stacked_diamond_blocks_top": {
+      "textures": "textures/blocks/stacked_diamond_blocks_top"
+    },
+    "stacked_diamond_blocks_side": {
+      "textures": "textures/blocks/stacked_diamond_blocks_side"
+    },
+    "stacked_diamond_blocks_bottom": {
+      "textures": "textures/blocks/stacked_diamond_blocks_bottom"
+    },
+    "stacked_netherite_blocks_top": {
+      "textures": "textures/blocks/stacked_netherite_blocks_top"
+    },
+    "stacked_netherite_blocks_side": {
+      "textures": "textures/blocks/stacked_netherite_blocks_side"
+    },
+    "stacked_netherite_blocks_bottom": {
+      "textures": "textures/blocks/stacked_netherite_blocks_bottom"
+    },
+    "stacked_quartz_blocks_top": {
+      "textures": "textures/blocks/stacked_quartz_blocks_top"
+    },
+    "stacked_quartz_blocks_side": {
+      "textures": "textures/blocks/stacked_quartz_blocks_side"
+    },
+    "stacked_quartz_blocks_bottom": {
+      "textures": "textures/blocks/stacked_quartz_blocks_bottom"
+    },
+    "stacked_oak_logs_top": {
+      "textures": "textures/blocks/stacked_oak_logs_top"
+    },
+    "stacked_oak_logs_side": {
+      "textures": "textures/blocks/stacked_oak_logs_side"
+    },
+    "stacked_oak_logs_bottom": {
+      "textures": "textures/blocks/stacked_oak_logs_bottom"
+    },
+    "stacked_stripped_oak_logs_top": {
+      "textures": "textures/blocks/stacked_stripped_oak_logs_top"
+    },
+    "stacked_stripped_oak_logs_side": {
+      "textures": "textures/blocks/stacked_stripped_oak_logs_side"
+    },
+    "stacked_stripped_oak_logs_bottom": {
+      "textures": "textures/blocks/stacked_stripped_oak_logs_bottom"
+    },
+    "stacked_spruce_logs_top": {
+      "textures": "textures/blocks/stacked_spruce_logs_top"
+    },
+    "stacked_spruce_logs_side": {
+      "textures": "textures/blocks/stacked_spruce_logs_side"
+    },
+    "stacked_spruce_logs_bottom": {
+      "textures": "textures/blocks/stacked_spruce_logs_bottom"
+    },
+    "stacked_stripped_spruce_logs_top": {
+      "textures": "textures/blocks/stacked_stripped_spruce_logs_top"
+    },
+    "stacked_stripped_spruce_logs_side": {
+      "textures": "textures/blocks/stacked_stripped_spruce_logs_side"
+    },
+    "stacked_stripped_spruce_logs_bottom": {
+      "textures": "textures/blocks/stacked_stripped_spruce_logs_bottom"
+    },
+    "stacked_birch_logs_top": {
+      "textures": "textures/blocks/stacked_birch_logs_top"
+    },
+    "stacked_birch_logs_side": {
+      "textures": "textures/blocks/stacked_birch_logs_side"
+    },
+    "stacked_birch_logs_bottom": {
+      "textures": "textures/blocks/stacked_birch_logs_bottom"
+    },
+    "stacked_stripped_birch_logs_top": {
+      "textures": "textures/blocks/stacked_stripped_birch_logs_top"
+    },
+    "stacked_stripped_birch_logs_side": {
+      "textures": "textures/blocks/stacked_stripped_birch_logs_side"
+    },
+    "stacked_stripped_birch_logs_bottom": {
+      "textures": "textures/blocks/stacked_stripped_birch_logs_bottom"
+    },
+    "stacked_jungle_logs_top": {
+      "textures": "textures/blocks/stacked_jungle_logs_top"
+    },
+    "stacked_jungle_logs_side": {
+      "textures": "textures/blocks/stacked_jungle_logs_side"
+    },
+    "stacked_jungle_logs_bottom": {
+      "textures": "textures/blocks/stacked_jungle_logs_bottom"
+    },
+    "stacked_stripped_jungle_logs_top": {
+      "textures": "textures/blocks/stacked_stripped_jungle_logs_top"
+    },
+    "stacked_stripped_jungle_logs_side": {
+      "textures": "textures/blocks/stacked_stripped_jungle_logs_side"
+    },
+    "stacked_stripped_jungle_logs_bottom": {
+      "textures": "textures/blocks/stacked_stripped_jungle_logs_bottom"
+    },
+    "stacked_acacia_logs_top": {
+      "textures": "textures/blocks/stacked_acacia_logs_top"
+    },
+    "stacked_acacia_logs_side": {
+      "textures": "textures/blocks/stacked_acacia_logs_side"
+    },
+    "stacked_acacia_logs_bottom": {
+      "textures": "textures/blocks/stacked_acacia_logs_bottom"
+    },
+    "stacked_stripped_acacia_logs_top": {
+      "textures": "textures/blocks/stacked_stripped_acacia_logs_top"
+    },
+    "stacked_stripped_acacia_logs_side": {
+      "textures": "textures/blocks/stacked_stripped_acacia_logs_side"
+    },
+    "stacked_stripped_acacia_logs_bottom": {
+      "textures": "textures/blocks/stacked_stripped_acacia_logs_bottom"
+    },
+    "stacked_dark_oak_logs_top": {
+      "textures": "textures/blocks/stacked_dark_oak_logs_top"
+    },
+    "stacked_dark_oak_logs_side": {
+      "textures": "textures/blocks/stacked_dark_oak_logs_side"
+    },
+    "stacked_dark_oak_logs_bottom": {
+      "textures": "textures/blocks/stacked_dark_oak_logs_bottom"
+    },
+    "stacked_stripped_dark_oak_logs_top": {
+      "textures": "textures/blocks/stacked_stripped_dark_oak_logs_top"
+    },
+    "stacked_stripped_dark_oak_logs_side": {
+      "textures": "textures/blocks/stacked_stripped_dark_oak_logs_side"
+    },
+    "stacked_stripped_dark_oak_logs_bottom": {
+      "textures": "textures/blocks/stacked_stripped_dark_oak_logs_bottom"
+    },
+    "stacked_mangrove_logs_top": {
+      "textures": "textures/blocks/stacked_mangrove_logs_top"
+    },
+    "stacked_mangrove_logs_side": {
+      "textures": "textures/blocks/stacked_mangrove_logs_side"
+    },
+    "stacked_mangrove_logs_bottom": {
+      "textures": "textures/blocks/stacked_mangrove_logs_bottom"
+    },
+    "stacked_stripped_mangrove_logs_top": {
+      "textures": "textures/blocks/stacked_stripped_mangrove_logs_top"
+    },
+    "stacked_stripped_mangrove_logs_side": {
+      "textures": "textures/blocks/stacked_stripped_mangrove_logs_side"
+    },
+    "stacked_stripped_mangrove_logs_bottom": {
+      "textures": "textures/blocks/stacked_stripped_mangrove_logs_bottom"
+    },
+    "stacked_cherry_logs_top": {
+      "textures": "textures/blocks/stacked_cherry_logs_top"
+    },
+    "stacked_cherry_logs_side": {
+      "textures": "textures/blocks/stacked_cherry_logs_side"
+    },
+    "stacked_cherry_logs_bottom": {
+      "textures": "textures/blocks/stacked_cherry_logs_bottom"
+    },
+    "stacked_stripped_cherry_logs_top": {
+      "textures": "textures/blocks/stacked_stripped_cherry_logs_top"
+    },
+    "stacked_stripped_cherry_logs_side": {
+      "textures": "textures/blocks/stacked_stripped_cherry_logs_side"
+    },
+    "stacked_stripped_cherry_logs_bottom": {
+      "textures": "textures/blocks/stacked_stripped_cherry_logs_bottom"
+    },
+    "stacked_pale_oak_logs_top": {
+      "textures": "textures/blocks/stacked_pale_oak_logs_top"
+    },
+    "stacked_pale_oak_logs_side": {
+      "textures": "textures/blocks/stacked_pale_oak_logs_side"
+    },
+    "stacked_pale_oak_logs_bottom": {
+      "textures": "textures/blocks/stacked_pale_oak_logs_bottom"
+    },
+    "stacked_stripped_pale_oak_logs_top": {
+      "textures": "textures/blocks/stacked_stripped_pale_oak_logs_top"
+    },
+    "stacked_stripped_pale_oak_logs_side": {
+      "textures": "textures/blocks/stacked_stripped_pale_oak_logs_side"
+    },
+     "stacked_stripped_pale_oak_logs_bottom": {
+      "textures": "textures/blocks/stacked_stripped_pale_oak_logs_bottom"
+    },
+    "stacked_bamboo_blocks_top": {
+      "textures": "textures/blocks/stacked_bamboo_blocks_top"
+    },
+    "stacked_bamboo_blocks_side": {
+      "textures": "textures/blocks/stacked_bamboo_blocks_side"
+    },
+     "stacked_bamboo_blocks_bottom": {
+      "textures": "textures/blocks/stacked_bamboo_blocks_bottom"
+    },
+   "stacked_stripped_bamboo_blocks_top": {
+      "textures": "textures/blocks/stacked_stripped_bamboo_blocks_top"
+    },
+    "stacked_stripped_bamboo_blocks_side": {
+      "textures": "textures/blocks/stacked_stripped_bamboo_blocks_side"
+    },
+    "stacked_stripped_bamboo_blocks_bottom": {
+      "textures": "textures/blocks/stacked_stripped_bamboo_blocks_bottom"
+    },
+    "stacked_crimson_stems_top": {
+      "textures": "textures/blocks/stacked_crimson_stems_top"
+    },
+    "stacked_crimson_stems_side": {
+      "textures": "textures/blocks/stacked_crimson_stems_side"
+    },
+    "stacked_crimson_stems_bottom": {
+      "textures": "textures/blocks/stacked_crimson_stems_bottom"
+    },
+    "stacked_stripped_crimson_stems_top": {
+      "textures": "textures/blocks/stacked_stripped_crimson_stems_top"
+    },
+    "stacked_stripped_crimson_stems_side": {
+      "textures": "textures/blocks/stacked_stripped_crimson_stems_side"
+    },
+    "stacked_stripped_crimson_stems_bottom": {
+      "textures": "textures/blocks/stacked_stripped_crimson_stems_bottom"
+    },
+    "stacked_warped_stems_top": {
+      "textures": "textures/blocks/stacked_warped_stems_top"
+    },
+    "stacked_warped_stems_side": {
+      "textures": "textures/blocks/stacked_warped_stems_side"
+    },
+    "stacked_warped_stems_bottom": {
+      "textures": "textures/blocks/stacked_warped_stems_bottom"
+    },
+   "stacked_stripped_warped_stems_top": {
+      "textures": "textures/blocks/stacked_stripped_warped_stems_top"
+    },
+    "stacked_stripped_warped_stems_side": {
+      "textures": "textures/blocks/stacked_stripped_warped_stems_side"
+    },
+    "stacked_stripped_warped_stems_bottom": {
+      "textures": "textures/blocks/stacked_stripped_warped_stems_bottom"
+    }
+    
+  }
+}

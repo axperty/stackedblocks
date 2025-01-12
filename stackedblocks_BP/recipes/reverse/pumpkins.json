@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:pumpkins_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_pumpkins"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_pumpkins"
+      }
+    ],
+    "result": {
+      "item": "minecraft:pumpkin",
+      "count": 8
+    }
+  }
+}

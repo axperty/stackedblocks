@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "stackedblocks:stacked_quartz_blocks"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:quartz_block"
+      },
+      "B": {
+        "item": "minecraft:lead"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:quartz_block"
+      }
+    ],
+    "result": {
+      "item": "stackedblocks:stacked_quartz_blocks"
+    }
+  }
+}

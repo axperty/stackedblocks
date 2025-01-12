@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:netherrack_blocks_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_netherrack_blocks"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_netherrack_blocks"
+      }
+    ],
+    "result": {
+      "item": "minecraft:netherrack",
+      "count": 8
+    }
+  }
+}

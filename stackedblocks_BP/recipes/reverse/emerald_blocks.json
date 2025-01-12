@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:emerald_blocks_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_emerald_blocks"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_emerald_blocks"
+      }
+    ],
+    "result": {
+      "item": "minecraft:emerald_block",
+      "count": 8
+    }
+  }
+}

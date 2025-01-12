@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:quartz_blocks_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_quartz_blocks"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_quartz_blocks"
+      }
+    ],
+    "result": {
+      "item": "minecraft:quartz_block",
+      "count": 8
+    }
+  }
+}

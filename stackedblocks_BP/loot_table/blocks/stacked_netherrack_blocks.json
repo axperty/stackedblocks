@@ -1,0 +1,66 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "stackedblocks:stacked_netherrack_blocks",
+          "weight": 1,
+          "functions": [],
+          "conditions": [
+            {
+              "condition": "match_tool",
+              "count": 1,
+              "enchantments": [
+                {
+                  "enchantment": "silk_touch",
+                  "level": {
+                    "min": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "pools": []
+        },
+        {
+          "type": "item",
+          "name": "minecraft:netherrack",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8
+            }
+          ],
+          "conditions": [],
+          "pools": [
+            {
+              "rolls": 1,
+              "bonus_rolls": 1,
+              "entries": [
+                {
+                  "type": "item",
+                  "name": "minecraft:lead",
+                  "weight": 1,
+                  "functions": [
+                    {
+                      "function": "minecraft:set_count",
+                      "count": 1
+                    }
+                  ],
+                  "conditions": [],
+                  "pools": []
+                }
+              ],
+              "conditions": []
+            }
+          ]
+        }
+      ],
+      "conditions": []
+    }
+  ]
+}

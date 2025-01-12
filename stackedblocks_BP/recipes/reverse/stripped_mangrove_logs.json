@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:stripped_mangrove_logs_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_stripped_mangrove_logs"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_stripped_mangrove_logs"
+      }
+    ],
+    "result": {
+      "item": "minecraft:stripped_mangrove_log",
+      "count": 8
+    }
+  }
+}

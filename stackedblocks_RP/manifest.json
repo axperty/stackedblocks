@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Stacked Blocks",
+    "description": "An add-on that adds stacked blocks to the game.",
+    "uuid": "84af8af7-79ad-413d-b0b4-5b8b3cc288fb",
+    "version": [
+      25,
+      1,
+      11
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "description": "Add-on Pack Resources",
+      "type": "resources",
+      "uuid": "e5b89475-8151-45a4-b274-484c24218d72",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "e66afe15-c90b-4997-be5d-1087148ef802",
+      "version": [
+        25,
+        1,
+        11
+      ]
+    }
+  ]
+}

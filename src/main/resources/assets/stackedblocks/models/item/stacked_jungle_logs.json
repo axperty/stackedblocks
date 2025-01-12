@@ -1,6 +1,0 @@
-{
-  "parent": "stackedblocks:block/stacked_jungle_logs",
-  "textures": {
-    "layer0": "stackedblocks:item/stacked_jungle_logs"
-  }
-}

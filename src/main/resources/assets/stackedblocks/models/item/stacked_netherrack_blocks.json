@@ -1,6 +1,0 @@
-{
-  "parent": "stackedblocks:block/stacked_netherrack_blocks",
-  "textures": {
-    "layer0": "stackedblocks:item/stacked_netherrack_blocks"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "side": "stackedblocks:block/stacked_stripped_cherry_logs_side",
-    "bottom": "stackedblocks:block/stacked_stripped_cherry_logs_bottom",
-    "top": "stackedblocks:block/stacked_stripped_cherry_logs_top"
-  }
-}

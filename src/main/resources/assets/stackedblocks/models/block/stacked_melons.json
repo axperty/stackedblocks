@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "side": "stackedblocks:block/stacked_melons_side",
-    "bottom": "stackedblocks:block/stacked_melons_bottom",
-    "top": "stackedblocks:block/stacked_melons_top"
-  }
-}

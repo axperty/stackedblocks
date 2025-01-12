@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:jungle_logs_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_jungle_logs"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_jungle_logs"
+      }
+    ],
+    "result": {
+      "item": "minecraft:jungle_log",
+      "count": 8
+    }
+  }
+}

@@ -1,6 +1,0 @@
-{
-  "parent": "stackedblocks:block/stacked_stone_blocks",
-  "textures": {
-    "layer0": "stackedblocks:item/stacked_stone_blocks"
-  }
-}

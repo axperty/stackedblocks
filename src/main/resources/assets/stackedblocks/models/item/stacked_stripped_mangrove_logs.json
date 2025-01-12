@@ -1,6 +1,0 @@
-{
-  "parent": "stackedblocks:block/stacked_stripped_mangrove_logs",
-  "textures": {
-    "layer0": "stackedblocks:item/stacked_stripped_mangrove_logs"
-  }
-}

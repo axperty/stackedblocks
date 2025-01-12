@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "stackedblocks:bricks_from_stacked_block"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "stackedblocks:stacked_bricks"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "stackedblocks:stacked_bricks"
+      }
+    ],
+    "result": {
+      "item": "minecraft:brick_block",
+      "count": 8
+    }
+  }
+}
