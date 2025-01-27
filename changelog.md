@@ -4,23 +4,23 @@
 
 ### ✨ What's New:
 
-- Added Stacked Lapis Blocks.
-- Added Stacked Redstone Blocks.
-- Added Stacked Coal Blocks.
-- Added Stacked Iron Blocks.
-- Added Stacked Gold Blocks.
-- Added Stacked Emerald Blocks.
-- Added Stacked Diamond Blocks.
-- Added Stacked Netherite Blocks.
-- Added Stacked Quartz Blocks.
-- Added Stacked Resin Blocks.
-- Added Stacked Resin Bricks.
-- Added Stacked Pale Oak Logs.
-- Added Stacked Stripped Pale Oak Logs.
-
-### 🛠️ Bug Fixes:
-
-- Fixed a bug where the player wasn't able to unlock the stacked oak logs recipe when obtaining an oak log.
+- Added Stacked Raw Blocks for:
+  - Raw Copper Block
+  - Raw Gold Block
+  - Raw Iron Block
+- Added Stacked Planks for:
+  - Acacia Planks
+  - Bamboo Planks
+  - Birch Planks
+  - Cherry Planks
+  - Crimson Planks
+  - Dark Oak Planks
+  - Jungle Planks
+  - Mangrove Planks
+  - Oak Planks
+  - Pale Oak Planks
+  - Spruce Planks
+  - Warped Planks
 
 ***
 

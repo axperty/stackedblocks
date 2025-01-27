@@ -43,6 +43,18 @@ public class BlockRegistry {
     public static final DeferredBlock<Block> STACKED_PUMPKINS = BLOCKS.registerSimpleBlock("stacked_pumpkins",
             BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).mapColor(MapColor.WOOD));
 
+    // Stacked Raw Iron Blocks
+    public static final DeferredBlock<Block> STACKED_RAW_IRON_BLOCKS = BLOCKS.registerSimpleBlock("stacked_raw_iron_blocks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.RAW_IRON_BLOCK).mapColor(MapColor.WOOD));
+
+    // Stacked Raw Gold Blocks
+    public static final DeferredBlock<Block> STACKED_RAW_GOLD_BLOCKS = BLOCKS.registerSimpleBlock("stacked_raw_gold_blocks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.RAW_GOLD_BLOCK).mapColor(MapColor.WOOD));
+
+    // Stacked Raw Copper Blocks
+    public static final DeferredBlock<Block> STACKED_RAW_COPPER_BLOCKS = BLOCKS.registerSimpleBlock("stacked_raw_copper_blocks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.RAW_COPPER_BLOCK).mapColor(MapColor.WOOD));
+
     // Stacked Lapis Blocks
     public static final DeferredBlock<Block> STACKED_LAPIS_BLOCKS = BLOCKS.registerSimpleBlock("stacked_lapis_blocks",
             BlockBehaviour.Properties.ofFullCopy(Blocks.LAPIS_BLOCK).mapColor(MapColor.WOOD));
@@ -87,12 +99,20 @@ public class BlockRegistry {
     public static final DeferredBlock<Block> STACKED_STRIPPED_OAK_LOGS = BLOCKS.registerSimpleBlock("stacked_stripped_oak_logs",
             BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).mapColor(MapColor.WOOD));
 
+    // Stacked Oak Planks
+    public static final DeferredBlock<Block> STACKED_OAK_PLANKS = BLOCKS.registerSimpleBlock("stacked_oak_planks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS).mapColor(MapColor.WOOD));
+
     // Stacked Spruce Logs
     public static final DeferredBlock<Block> STACKED_SPRUCE_LOGS = BLOCKS.registerSimpleBlock("stacked_spruce_logs",
             BlockBehaviour.Properties.ofFullCopy(Blocks.SPRUCE_PLANKS).mapColor(MapColor.WOOD));
 
     // Stacked Stripped Spruce Logs
     public static final DeferredBlock<Block> STACKED_STRIPPED_SPRUCE_LOGS = BLOCKS.registerSimpleBlock("stacked_stripped_spruce_logs",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.SPRUCE_PLANKS).mapColor(MapColor.WOOD));
+
+    // Stacked Spruce Planks
+    public static final DeferredBlock<Block> STACKED_SPRUCE_PLANKS = BLOCKS.registerSimpleBlock("stacked_spruce_planks",
             BlockBehaviour.Properties.ofFullCopy(Blocks.SPRUCE_PLANKS).mapColor(MapColor.WOOD));
 
     // Stacked Birch Logs
@@ -103,12 +123,20 @@ public class BlockRegistry {
     public static final DeferredBlock<Block> STACKED_STRIPPED_BIRCH_LOGS = BLOCKS.registerSimpleBlock("stacked_stripped_birch_logs",
             BlockBehaviour.Properties.ofFullCopy(Blocks.BIRCH_PLANKS).mapColor(MapColor.WOOD));
 
+    // Stacked Birch Planks
+    public static final DeferredBlock<Block> STACKED_BIRCH_PLANKS = BLOCKS.registerSimpleBlock("stacked_birch_planks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.BIRCH_PLANKS).mapColor(MapColor.WOOD));
+
     // Stacked Jungle Logs
     public static final DeferredBlock<Block> STACKED_JUNGLE_LOGS = BLOCKS.registerSimpleBlock("stacked_jungle_logs",
             BlockBehaviour.Properties.ofFullCopy(Blocks.JUNGLE_PLANKS).mapColor(MapColor.WOOD));
 
     // Stacked Stripped Jungle Logs
     public static final DeferredBlock<Block> STACKED_STRIPPED_JUNGLE_LOGS = BLOCKS.registerSimpleBlock("stacked_stripped_jungle_logs",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.JUNGLE_PLANKS).mapColor(MapColor.WOOD));
+
+    // Stacked Jungle Planks
+    public static final DeferredBlock<Block> STACKED_JUNGLE_PLANKS = BLOCKS.registerSimpleBlock("stacked_jungle_planks",
             BlockBehaviour.Properties.ofFullCopy(Blocks.JUNGLE_PLANKS).mapColor(MapColor.WOOD));
 
     // Stacked Acacia Logs
@@ -119,12 +147,20 @@ public class BlockRegistry {
     public static final DeferredBlock<Block> STACKED_STRIPPED_ACACIA_LOGS = BLOCKS.registerSimpleBlock("stacked_stripped_acacia_logs",
             BlockBehaviour.Properties.ofFullCopy(Blocks.ACACIA_PLANKS).mapColor(MapColor.WOOD));
 
+    // Stacked Acacia Planks
+    public static final DeferredBlock<Block> STACKED_ACACIA_PLANKS = BLOCKS.registerSimpleBlock("stacked_acacia_planks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.ACACIA_PLANKS).mapColor(MapColor.WOOD));
+
     // Stacked Dark Oak Logs
     public static final DeferredBlock<Block> STACKED_DARK_OAK_LOGS = BLOCKS.registerSimpleBlock("stacked_dark_oak_logs",
             BlockBehaviour.Properties.ofFullCopy(Blocks.DARK_OAK_PLANKS).mapColor(MapColor.WOOD));
 
     // Stacked Stripped Dark Oak Logs
     public static final DeferredBlock<Block> STACKED_STRIPPED_DARK_OAK_LOGS = BLOCKS.registerSimpleBlock("stacked_stripped_dark_oak_logs",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.DARK_OAK_PLANKS).mapColor(MapColor.WOOD));
+
+    // Stacked Dark Oak Planks
+    public static final DeferredBlock<Block> STACKED_DARK_OAK_PLANKS = BLOCKS.registerSimpleBlock("stacked_dark_oak_planks",
             BlockBehaviour.Properties.ofFullCopy(Blocks.DARK_OAK_PLANKS).mapColor(MapColor.WOOD));
 
     // Stacked Mangrove Logs
@@ -135,12 +171,20 @@ public class BlockRegistry {
     public static final DeferredBlock<Block> STACKED_STRIPPED_MANGROVE_LOGS = BLOCKS.registerSimpleBlock("stacked_stripped_mangrove_logs",
             BlockBehaviour.Properties.ofFullCopy(Blocks.MANGROVE_PLANKS).mapColor(MapColor.WOOD));
 
+    // Stacked Mangrove Planks
+    public static final DeferredBlock<Block> STACKED_MANGROVE_PLANKS = BLOCKS.registerSimpleBlock("stacked_mangrove_planks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.MANGROVE_PLANKS).mapColor(MapColor.WOOD));
+
     // Stacked Cherry Logs
     public static final DeferredBlock<Block> STACKED_CHERRY_LOGS = BLOCKS.registerSimpleBlock("stacked_cherry_logs",
             BlockBehaviour.Properties.ofFullCopy(Blocks.CHERRY_PLANKS).mapColor(MapColor.WOOD));
 
     // Stacked Stripped Cherry Logs
     public static final DeferredBlock<Block> STACKED_STRIPPED_CHERRY_LOGS = BLOCKS.registerSimpleBlock("stacked_stripped_cherry_logs",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.CHERRY_PLANKS).mapColor(MapColor.WOOD));
+
+    // Stacked Cherry Planks
+    public static final DeferredBlock<Block> STACKED_CHERRY_PLANKS = BLOCKS.registerSimpleBlock("stacked_cherry_planks",
             BlockBehaviour.Properties.ofFullCopy(Blocks.CHERRY_PLANKS).mapColor(MapColor.WOOD));
 
     // Stacked Pale Oak Logs
@@ -151,12 +195,20 @@ public class BlockRegistry {
     public static final DeferredBlock<Block> STACKED_STRIPPED_PALE_OAK_LOGS = BLOCKS.registerSimpleBlock("stacked_stripped_pale_oak_logs",
             BlockBehaviour.Properties.ofFullCopy(Blocks.PALE_OAK_PLANKS).mapColor(MapColor.WOOD));
 
+    // Stacked Pale Oak Planks
+    public static final DeferredBlock<Block> STACKED_PALE_OAK_PLANKS = BLOCKS.registerSimpleBlock("stacked_pale_oak_planks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.PALE_OAK_PLANKS).mapColor(MapColor.WOOD));
+
     // Stacked Bamboo Blocks
     public static final DeferredBlock<Block> STACKED_BAMBOO_BLOCKS = BLOCKS.registerSimpleBlock("stacked_bamboo_blocks",
             BlockBehaviour.Properties.ofFullCopy(Blocks.BAMBOO_BLOCK).mapColor(MapColor.WOOD));
 
     // Stacked Stripped Bamboo Blocks
     public static final DeferredBlock<Block> STACKED_STRIPPED_BAMBOO_BLOCKS = BLOCKS.registerSimpleBlock("stacked_stripped_bamboo_blocks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.BAMBOO_BLOCK).mapColor(MapColor.WOOD));
+
+    // Stacked Bamboo Planks
+    public static final DeferredBlock<Block> STACKED_BAMBOO_PLANKS = BLOCKS.registerSimpleBlock("stacked_bamboo_planks",
             BlockBehaviour.Properties.ofFullCopy(Blocks.BAMBOO_BLOCK).mapColor(MapColor.WOOD));
 
     // Stacked Crimson Logs
@@ -167,6 +219,10 @@ public class BlockRegistry {
     public static final DeferredBlock<Block> STACKED_STRIPPED_CRIMSON_STEMS = BLOCKS.registerSimpleBlock("stacked_stripped_crimson_stems",
             BlockBehaviour.Properties.ofFullCopy(Blocks.CRIMSON_PLANKS).mapColor(MapColor.WOOD));
 
+    // Stacked Crimson Planks
+    public static final DeferredBlock<Block> STACKED_CRIMSON_PLANKS = BLOCKS.registerSimpleBlock("stacked_crimson_planks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.CRIMSON_PLANKS).mapColor(MapColor.WOOD));
+
     // Stacked Warped Logs
     public static final DeferredBlock<Block> STACKED_WARPED_STEMS = BLOCKS.registerSimpleBlock("stacked_warped_stems",
             BlockBehaviour.Properties.ofFullCopy(Blocks.WARPED_PLANKS).mapColor(MapColor.WOOD));
@@ -175,4 +231,7 @@ public class BlockRegistry {
     public static final DeferredBlock<Block> STACKED_STRIPPED_WARPED_STEMS = BLOCKS.registerSimpleBlock("stacked_stripped_warped_stems",
             BlockBehaviour.Properties.ofFullCopy(Blocks.WARPED_PLANKS).mapColor(MapColor.WOOD));
 
+    // Stacked Warped Planks
+    public static final DeferredBlock<Block> STACKED_WARPED_PLANKS = BLOCKS.registerSimpleBlock("stacked_warped_planks",
+            BlockBehaviour.Properties.ofFullCopy(Blocks.WARPED_PLANKS).mapColor(MapColor.WOOD));
 }

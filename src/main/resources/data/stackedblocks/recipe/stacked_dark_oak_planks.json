@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:dark_oak_planks",
+    "R": "minecraft:lead"
+  },
+  "result": {
+    "count": 1,
+    "id": "stackedblocks:stacked_dark_oak_planks"
+  }
+}
