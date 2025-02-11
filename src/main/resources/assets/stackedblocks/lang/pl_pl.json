@@ -38,6 +38,10 @@
   "block.stackedblocks.stacked_diamond_blocks": "Stos bloków diamentów",
   "block.stackedblocks.stacked_netherite_blocks": "Stos bloków netherytu",
   "block.stackedblocks.stacked_quartz_blocks": "Stos bloków kwarcu",
+  "block.stackedblocks.stacked_resin_blocks": "Stosowane bloki żywiczne",
+  "block.stackedblocks.stacked_resin_bricks": "Stosowane cegły żywiczne",
+  "block.stackedblocks.stacked_pale_oak_logs": "Stosowane kłody jasnego dębu",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "Stosowane obrane kłody jasnego dębu",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

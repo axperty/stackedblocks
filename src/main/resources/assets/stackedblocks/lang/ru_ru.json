@@ -38,6 +38,10 @@
   "block.stackedblocks.stacked_diamond_blocks": "Сложенные блоки алмазов",
   "block.stackedblocks.stacked_netherite_blocks": "Сложенные блоки незерита",
   "block.stackedblocks.stacked_quartz_blocks": "Сложенные блоки кварца",
+  "block.stackedblocks.stacked_resin_blocks": "Сложенные блоки смолы",
+  "block.stackedblocks.stacked_resin_bricks": "Сложенные кирпичи смолы",
+  "block.stackedblocks.stacked_pale_oak_logs": "Сложенные бревна светлого дуба",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "Сложенные очищенные бревна светлого дуба",
 
   "itemGroup.stackedblocks": "Сложенные Блоки"
 }

@@ -38,6 +38,10 @@
   "block.stackedblocks.stacked_diamond_blocks": "Складені блоки алмазів",
   "block.stackedblocks.stacked_netherite_blocks": "Складені блоки нетериту",
   "block.stackedblocks.stacked_quartz_blocks": "Складені блоки кварцу",
+  "block.stackedblocks.stacked_resin_blocks": "Складені блоки смоли",
+  "block.stackedblocks.stacked_resin_bricks": "Складені цеглини смоли",
+  "block.stackedblocks.stacked_pale_oak_logs": "Складені колоди світлого дуба",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "Складені очищені колоди світлого дуба",
 
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

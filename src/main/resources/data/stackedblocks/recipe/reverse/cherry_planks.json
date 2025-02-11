@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "stackedblocks:stacked_cherry_planks"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:cherry_planks"
+  }
+}

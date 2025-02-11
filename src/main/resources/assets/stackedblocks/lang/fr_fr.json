@@ -38,6 +38,10 @@
   "block.stackedblocks.stacked_diamond_blocks": "Blocs de diamant empilés",
   "block.stackedblocks.stacked_netherite_blocks": "Blocs de néthrite empilés",
   "block.stackedblocks.stacked_quartz_blocks": "Blocs de quartz empilés",
+  "block.stackedblocks.stacked_resin_blocks": "Blocs de résine empilés",
+  "block.stackedblocks.stacked_resin_bricks": "Briques de résine empilées",
+  "block.stackedblocks.stacked_pale_oak_logs": "Grumes de chêne clair empilées",
+  "block.stackedblocks.stacked_stripped_pale_oak_logs": "Grumes de chêne clair écorcées empilées",
 
   "itemGroup.stackedblocks": "Blocs empilés"
 }
