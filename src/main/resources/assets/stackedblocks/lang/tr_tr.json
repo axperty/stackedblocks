@@ -43,5 +43,21 @@
   "item.stackedblocks.stacked_pale_oak_logs": "Yığılmış Açık Meşe Kütükleri",
   "item.stackedblocks.stacked_stripped_pale_oak_logs": "Yığılmış Soyulmuş Açık Meşe Kütükleri",
 
+  "item.stackedblocks.stacked_raw_iron_blocks": "Yığılmış Ham Demir Blokları",
+  "item.stackedblocks.stacked_raw_gold_blocks": "Yığılmış Ham Altın Blokları",
+  "item.stackedblocks.stacked_raw_copper_blocks": "Yığılmış Ham Bakır Blokları",
+  "item.stackedblocks.stacked_acacia_planks": "Yığılmış Akasya Kalasları",
+  "item.stackedblocks.stacked_bamboo_planks": "Yığılmış Bambu Kalasları",
+  "item.stackedblocks.stacked_birch_planks": "Yığılmış Huş Kalasları",
+  "item.stackedblocks.stacked_cherry_planks": "Yığılmış Kiraz Kalasları",
+  "item.stackedblocks.stacked_crimson_planks": "Yığılmış Koyu Kırmızı Kalaslar",
+  "item.stackedblocks.stacked_dark_oak_planks": "Yığılmış Koyu Meşe Kalasları",
+  "item.stackedblocks.stacked_jungle_planks": "Yığılmış Orman Kalasları",
+  "item.stackedblocks.stacked_mangrove_planks": "Yığılmış Mangrov Kalasları",
+  "item.stackedblocks.stacked_oak_planks": "Yığılmış Meşe Kalasları",
+  "item.stackedblocks.stacked_pale_oak_planks": "Yığılmış Soluk Meşe Kalasları",
+  "item.stackedblocks.stacked_spruce_planks": "Yığılmış Ladin Kalasları",
+  "item.stackedblocks.stacked_warped_planks": "Yığılmış Eğri Kalaslar",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

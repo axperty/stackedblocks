@@ -43,5 +43,21 @@
   "item.stackedblocks.stacked_pale_oak_logs": "Gestackte Hell-Eichenholzstämme",
   "item.stackedblocks.stacked_stripped_pale_oak_logs": "Gestackte entrindete Hell-Eichenholzstämme",
 
+  "item.stackedblocks.stacked_raw_iron_blocks": "Gestapelte Roheisenblöcke",
+  "item.stackedblocks.stacked_raw_gold_blocks": "Gestapelte Rohgoldblöcke",
+  "item.stackedblocks.stacked_raw_copper_blocks": "Gestapelte Rohkupferblöcke",
+  "item.stackedblocks.stacked_acacia_planks": "Gestapelte Akazienholzbretter",
+  "item.stackedblocks.stacked_bamboo_planks": "Gestapelte Bambusbretter",
+  "item.stackedblocks.stacked_birch_planks": "Gestapelte Birkenholzbretter",
+  "item.stackedblocks.stacked_cherry_planks": "Gestapelte Kirschholzbretter",
+  "item.stackedblocks.stacked_crimson_planks": "Gestapelte Purpurholzbretter",
+  "item.stackedblocks.stacked_dark_oak_planks": "Gestapelte Dunkelholzbretter",
+  "item.stackedblocks.stacked_jungle_planks": "Gestapelte Dschungelholzbretter",
+  "item.stackedblocks.stacked_mangrove_planks": "Gestapelte Mangrovenholzbretter",
+  "item.stackedblocks.stacked_oak_planks": "Gestapelte Eichenholzbretter",
+  "item.stackedblocks.stacked_pale_oak_planks": "Gestapelte Blasse Eichenholzbretter",
+  "item.stackedblocks.stacked_spruce_planks": "Gestapelte Fichtenholzbretter",
+  "item.stackedblocks.stacked_warped_planks": "Gestapelte Krummholzbretter",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

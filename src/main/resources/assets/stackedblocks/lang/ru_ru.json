@@ -43,5 +43,21 @@
   "item.stackedblocks.stacked_pale_oak_logs": "Сложенные бревна светлого дуба",
   "item.stackedblocks.stacked_stripped_pale_oak_logs": "Сложенные очищенные бревна светлого дуба",
 
+  "item.stackedblocks.stacked_raw_iron_blocks": "Сложенные блоки сырого железа",
+  "item.stackedblocks.stacked_raw_gold_blocks": "Сложенные блоки сырого золота",
+  "item.stackedblocks.stacked_raw_copper_blocks": "Сложенные блоки сырой меди",
+  "item.stackedblocks.stacked_acacia_planks": "Сложенные доски из акации",
+  "item.stackedblocks.stacked_bamboo_planks": "Сложенные бамбуковые доски",
+  "item.stackedblocks.stacked_birch_planks": "Сложенные березовые доски",
+  "item.stackedblocks.stacked_cherry_planks": "Сложенные вишневые доски",
+  "item.stackedblocks.stacked_crimson_planks": "Сложенные багровые доски",
+  "item.stackedblocks.stacked_dark_oak_planks": "Сложенные доски из темного дуба",
+  "item.stackedblocks.stacked_jungle_planks": "Сложенные доски из джунглей",
+  "item.stackedblocks.stacked_mangrove_planks": "Сложенные мангровые доски",
+  "item.stackedblocks.stacked_oak_planks": "Сложенные дубовые доски",
+  "item.stackedblocks.stacked_pale_oak_planks": "Сложенные бледные дубовые доски",
+  "item.stackedblocks.stacked_spruce_planks": "Сложенные еловые доски",
+  "item.stackedblocks.stacked_warped_planks": "Сложенные искривленные доски",
+
   "itemGroup.stackedblocks": "Сложенные Блоки"
 }

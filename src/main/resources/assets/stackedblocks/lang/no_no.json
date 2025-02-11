@@ -43,5 +43,21 @@
   "item.stackedblocks.stacked_pale_oak_logs": "Stablede Lyse Eikelag",
   "item.stackedblocks.stacked_stripped_pale_oak_logs": "Stablede Avbarket Lyse Eikelag",
 
+  "item.stackedblocks.stacked_raw_iron_blocks": "Stablede blokker av råjern",
+  "item.stackedblocks.stacked_raw_gold_blocks": "Stablede blokker av rått gull",
+  "item.stackedblocks.stacked_raw_copper_blocks": "Stablede blokker av råkobber",
+  "item.stackedblocks.stacked_acacia_planks": "Stablede akasieplanker",
+  "item.stackedblocks.stacked_bamboo_planks": "Stablede bambusplanker",
+  "item.stackedblocks.stacked_birch_planks": "Stablede bjørkeplanker",
+  "item.stackedblocks.stacked_cherry_planks": "Stablede kirsebærplanker",
+  "item.stackedblocks.stacked_crimson_planks": "Stablede purpurplanker",
+  "item.stackedblocks.stacked_dark_oak_planks": "Stablede mørke eikeplanker",
+  "item.stackedblocks.stacked_jungle_planks": "Stablede jungelplanker",
+  "item.stackedblocks.stacked_mangrove_planks": "Stablede mangroveplanker",
+  "item.stackedblocks.stacked_oak_planks": "Stablede eikeplanker",
+  "item.stackedblocks.stacked_pale_oak_planks": "Stablede bleke eikeplanker",
+  "item.stackedblocks.stacked_spruce_planks": "Stablede granplanker",
+  "item.stackedblocks.stacked_warped_planks": "Stablede fordreide planker",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

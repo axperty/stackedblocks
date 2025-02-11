@@ -52,6 +52,21 @@ public class ItemRegistry {
             () -> new BlockItem(BlockRegistry.STACKED_PUMPKINS.get(), new Item.Properties().setId(ITEMS.key("stacked_pumpkins")))
     );
 
+    // Stacked Raw Iron Blocks Item
+    public static final RegistryObject<Item> STACKED_RAW_IRON_BLOCKS_ITEM = ITEMS.register("stacked_raw_iron_blocks",
+            () -> new BlockItem(BlockRegistry.STACKED_RAW_IRON_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_raw_iron_blocks")))
+    );
+
+    // Stacked Raw Gold Blocks Item
+    public static final RegistryObject<Item> STACKED_RAW_GOLD_BLOCKS_ITEM = ITEMS.register("stacked_raw_gold_blocks",
+            () -> new BlockItem(BlockRegistry.STACKED_RAW_GOLD_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_raw_gold_blocks")))
+    );
+
+    // Stacked Raw Copper Blocks Item
+    public static final RegistryObject<Item> STACKED_RAW_COPPER_BLOCKS_ITEM = ITEMS.register("stacked_raw_copper_blocks",
+            () -> new BlockItem(BlockRegistry.STACKED_RAW_COPPER_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_raw_copper_blocks")))
+    );
+
     // Stacked Lapis Blocks Item
     public static final RegistryObject<Item> STACKED_LAPIS_BLOCKS_ITEM = ITEMS.register("stacked_lapis_blocks",
             () -> new BlockItem(BlockRegistry.STACKED_LAPIS_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_lapis_blocks")))
@@ -107,6 +122,11 @@ public class ItemRegistry {
             () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_OAK_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_oak_logs")))
     );
 
+    // Stacked Oak Planks Item
+    public static final RegistryObject<Item> STACKED_OAK_PLANKS_ITEM = ITEMS.register("stacked_oak_planks",
+            () -> new BlockItem(BlockRegistry.STACKED_OAK_PLANKS.get(), new Item.Properties().setId(ITEMS.key("stacked_oak_planks")))
+    );
+
     // Stacked Spruce Logs Item
     public static final RegistryObject<Item> STACKED_SPRUCE_LOGS_ITEM = ITEMS.register("stacked_spruce_logs",
             () -> new BlockItem(BlockRegistry.STACKED_SPRUCE_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_spruce_logs")))
@@ -115,6 +135,11 @@ public class ItemRegistry {
     // Stacked Stripped Spruce Logs Item
     public static final RegistryObject<Item> STACKED_STRIPPED_SPRUCE_LOGS_ITEM = ITEMS.register("stacked_stripped_spruce_logs",
             () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_SPRUCE_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_spruce_logs")))
+    );
+
+    // Stacked Spruce Planks Item
+    public static final RegistryObject<Item> STACKED_SPRUCE_PLANKS_ITEM = ITEMS.register("stacked_spruce_planks",
+            () -> new BlockItem(BlockRegistry.STACKED_SPRUCE_PLANKS.get(), new Item.Properties().setId(ITEMS.key("stacked_spruce_planks")))
     );
 
     // Stacked Birch Logs Item
@@ -127,6 +152,11 @@ public class ItemRegistry {
             () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_BIRCH_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_birch_logs")))
     );
 
+    // Stacked Birch Planks Item
+    public static final RegistryObject<Item> STACKED_BIRCH_PLANKS_ITEM = ITEMS.register("stacked_birch_planks",
+            () -> new BlockItem(BlockRegistry.STACKED_BIRCH_PLANKS.get(), new Item.Properties().setId(ITEMS.key("stacked_birch_planks")))
+    );
+
     // Stacked Jungle Logs Item
     public static final RegistryObject<Item> STACKED_JUNGLE_LOGS_ITEM = ITEMS.register("stacked_jungle_logs",
             () -> new BlockItem(BlockRegistry.STACKED_JUNGLE_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_jungle_logs")))
@@ -135,6 +165,11 @@ public class ItemRegistry {
     // Stacked Stripped Jungle Logs Item
     public static final RegistryObject<Item> STACKED_STRIPPED_JUNGLE_LOGS_ITEM = ITEMS.register("stacked_stripped_jungle_logs",
             () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_JUNGLE_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_jungle_logs")))
+    );
+
+    // Stacked Jungle Planks Item
+    public static final RegistryObject<Item> STACKED_JUNGLE_PLANKS_ITEM = ITEMS.register("stacked_jungle_planks",
+            () -> new BlockItem(BlockRegistry.STACKED_JUNGLE_PLANKS.get(), new Item.Properties().setId(ITEMS.key("stacked_jungle_planks")))
     );
 
     // Stacked Acacia Logs Item
@@ -147,6 +182,11 @@ public class ItemRegistry {
             () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_ACACIA_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_acacia_logs")))
     );
 
+    // Stacked Acacia Planks Item
+    public static final RegistryObject<Item> STACKED_ACACIA_PLANKS_ITEM = ITEMS.register("stacked_acacia_planks",
+            () -> new BlockItem(BlockRegistry.STACKED_ACACIA_PLANKS.get(), new Item.Properties().setId(ITEMS.key("stacked_acacia_planks")))
+    );
+
     // Stacked Dark Oak Logs Item
     public static final RegistryObject<Item> STACKED_DARK_OAK_LOGS_ITEM = ITEMS.register("stacked_dark_oak_logs",
             () -> new BlockItem(BlockRegistry.STACKED_DARK_OAK_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_dark_oak_logs")))
@@ -155,6 +195,11 @@ public class ItemRegistry {
     // Stacked Stripped Dark Oak Logs Item
     public static final RegistryObject<Item> STACKED_STRIPPED_DARK_OAK_LOGS_ITEM = ITEMS.register("stacked_stripped_dark_oak_logs",
             () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_DARK_OAK_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_dark_oak_logs")))
+    );
+
+    // Stacked Dark Oak Planks Item
+    public static final RegistryObject<Item> STACKED_DARK_OAK_PLANKS_ITEM = ITEMS.register("stacked_dark_oak_planks",
+            () -> new BlockItem(BlockRegistry.STACKED_DARK_OAK_PLANKS.get(), new Item.Properties().setId(ITEMS.key("stacked_dark_oak_planks")))
     );
 
     // Stacked Mangrove Logs Item
@@ -167,6 +212,11 @@ public class ItemRegistry {
             () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_MANGROVE_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_mangrove_logs")))
     );
 
+    // Stacked Mangrove Planks Item
+    public static final RegistryObject<Item> STACKED_MANGROVE_PLANKS_ITEM = ITEMS.register("stacked_mangrove_planks",
+            () -> new BlockItem(BlockRegistry.STACKED_MANGROVE_PLANKS.get(), new Item.Properties().setId(ITEMS.key("stacked_mangrove_planks")))
+    );
+
     // Stacked Cherry Logs Item
     public static final RegistryObject<Item> STACKED_CHERRY_LOGS_ITEM = ITEMS.register("stacked_cherry_logs",
             () -> new BlockItem(BlockRegistry.STACKED_CHERRY_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_cherry_logs")))
@@ -175,6 +225,11 @@ public class ItemRegistry {
     // Stacked Stripped Cherry Logs Item
     public static final RegistryObject<Item> STACKED_STRIPPED_CHERRY_LOGS_ITEM = ITEMS.register("stacked_stripped_cherry_logs",
             () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_CHERRY_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_cherry_logs")))
+    );
+
+    // Stacked Cherry Planks Item
+    public static final RegistryObject<Item> STACKED_CHERRY_PLANKS_ITEM = ITEMS.register("stacked_cherry_planks",
+            () -> new BlockItem(BlockRegistry.STACKED_CHERRY_PLANKS.get(), new Item.Properties().setId(ITEMS.key("stacked_cherry_planks")))
     );
 
     // Stacked Pale Oak Logs Item
@@ -187,14 +242,24 @@ public class ItemRegistry {
             () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_PALE_OAK_LOGS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_pale_oak_logs")))
     );
 
-    // Stacked Bamboo Logs Item
+    // Stacked Pale Oak Planks Item
+    public static final RegistryObject<Item> STACKED_PALE_OAK_PLANKS_ITEM = ITEMS.register("stacked_pale_oak_planks",
+            () -> new BlockItem(BlockRegistry.STACKED_PALE_OAK_PLANKS.get(), new Item.Properties().setId(ITEMS.key("stacked_pale_oak_planks")))
+    );
+
+    // Stacked Bamboo Blocks Item
     public static final RegistryObject<Item> STACKED_BAMBOO_BLOCKS_ITEM = ITEMS.register("stacked_bamboo_blocks",
             () -> new BlockItem(BlockRegistry.STACKED_BAMBOO_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_bamboo_blocks")))
     );
 
-    // Stacked Stripped Bamboo Logs Item
+    // Stacked Stripped Bamboo Blocks Item
     public static final RegistryObject<Item> STACKED_STRIPPED_BAMBOO_BLOCKS_ITEM = ITEMS.register("stacked_stripped_bamboo_blocks",
             () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_BAMBOO_BLOCKS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_bamboo_blocks")))
+    );
+
+    // Stacked Bamboo Planks Item
+    public static final RegistryObject<Item> STACKED_BAMBOO_PLANKS_ITEM = ITEMS.register("stacked_bamboo_planks",
+            () -> new BlockItem(BlockRegistry.STACKED_BAMBOO_PLANKS.get(), new Item.Properties().setId(ITEMS.key("stacked_bamboo_planks")))
     );
 
     // Stacked Crimson Logs Item
@@ -207,6 +272,11 @@ public class ItemRegistry {
             () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_CRIMSON_STEMS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_crimson_stems")))
     );
 
+    // Stacked Crimson Planks Item
+    public static final RegistryObject<Item> STACKED_CRIMSON_PLANKS_ITEM = ITEMS.register("stacked_crimson_planks",
+            () -> new BlockItem(BlockRegistry.STACKED_CRIMSON_PLANKS.get(), new Item.Properties().setId(ITEMS.key("stacked_crimson_planks")))
+    );
+
     // Stacked Warped Logs Item
     public static final RegistryObject<Item> STACKED_WARPED_STEMS_ITEM = ITEMS.register("stacked_warped_stems",
             () -> new BlockItem(BlockRegistry.STACKED_WARPED_STEMS.get(), new Item.Properties().setId(ITEMS.key("stacked_warped_stems")))
@@ -215,6 +285,11 @@ public class ItemRegistry {
     // Stacked Stripped Warped Logs Item
     public static final RegistryObject<Item> STACKED_STRIPPED_WARPED_STEMS_ITEM = ITEMS.register("stacked_stripped_warped_stems",
             () -> new BlockItem(BlockRegistry.STACKED_STRIPPED_WARPED_STEMS.get(), new Item.Properties().setId(ITEMS.key("stacked_stripped_warped_stems")))
+    );
+
+    // Stacked Warped Planks Item
+    public static final RegistryObject<Item> STACKED_WARPED_PLANKS_ITEM = ITEMS.register("stacked_warped_planks",
+            () -> new BlockItem(BlockRegistry.STACKED_WARPED_PLANKS.get(), new Item.Properties().setId(ITEMS.key("stacked_warped_planks")))
     );
 
     public static void register(IEventBus eventBus) {
