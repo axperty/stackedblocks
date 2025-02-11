@@ -13,6 +13,9 @@
     "stackedblocks:stacked_emerald_blocks",
     "stackedblocks:stacked_diamond_blocks",
     "stackedblocks:stacked_netherite_blocks",
-    "stackedblocks:stacked_quartz_blocks"
+    "stackedblocks:stacked_quartz_blocks",
+    "stackedblocks:stacked_raw_iron_blocks",
+    "stackedblocks:stacked_raw_gold_blocks",
+    "stackedblocks:stacked_raw_copper_blocks"
   ]
 }

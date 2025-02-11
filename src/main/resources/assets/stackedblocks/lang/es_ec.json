@@ -43,5 +43,21 @@
   "item.stackedblocks.stacked_pale_oak_logs": "Troncos de Roble Claro Apilados",
   "item.stackedblocks.stacked_stripped_pale_oak_logs": "Troncos de Roble Claro Descortezados Apilados",
 
+  "item.stackedblocks.stacked_raw_iron_blocks": "Bloques de hierro crudo apilados",
+  "item.stackedblocks.stacked_raw_gold_blocks": "Bloques de oro crudo apilados",
+  "item.stackedblocks.stacked_raw_copper_blocks": "Bloques de cobre crudo apilados",
+  "item.stackedblocks.stacked_acacia_planks": "Tablones de acacia apilados",
+  "item.stackedblocks.stacked_bamboo_planks": "Tablones de bambú apilados",
+  "item.stackedblocks.stacked_birch_planks": "Tablones de abedul apilados",
+  "item.stackedblocks.stacked_cherry_planks": "Tablones de cerezo apilados",
+  "item.stackedblocks.stacked_crimson_planks": "Tablones carmesí apilados",
+  "item.stackedblocks.stacked_dark_oak_planks": "Tablones de roble oscuro apilados",
+  "item.stackedblocks.stacked_jungle_planks": "Tablones de jungla apilados",
+  "item.stackedblocks.stacked_mangrove_planks": "Tablones de mangle apilados",
+  "item.stackedblocks.stacked_oak_planks": "Tablones de roble apilados",
+  "item.stackedblocks.stacked_pale_oak_planks": "Tablones de roble pálido apilados",
+  "item.stackedblocks.stacked_spruce_planks": "Tablones de abeto apilados",
+  "item.stackedblocks.stacked_warped_planks": "Tablones deformados apilados",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

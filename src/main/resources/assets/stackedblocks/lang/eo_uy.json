@@ -43,5 +43,21 @@
   "item.stackedblocks.stacked_pale_oak_logs": "Stakitaj Helklaraj Kverkaj Traboj",
   "item.stackedblocks.stacked_stripped_pale_oak_logs": "Stakitaj Senŝelaj Helklaraj Kverkaj Traboj",
 
+  "item.stackedblocks.stacked_raw_iron_blocks": "Stakitaj Krudferaj Blokoj",
+  "item.stackedblocks.stacked_raw_gold_blocks": "Stakitaj Krudoraj Blokoj",
+  "item.stackedblocks.stacked_raw_copper_blocks": "Stakitaj Krudkuproblokoj",
+  "item.stackedblocks.stacked_acacia_planks": "Stakitaj Akaciaj Lignotabuloj",
+  "item.stackedblocks.stacked_bamboo_planks": "Stakitaj Bambuaj Lignotabuloj",
+  "item.stackedblocks.stacked_birch_planks": "Stakitaj Betulaj Lignotabuloj",
+  "item.stackedblocks.stacked_cherry_planks": "Stakitaj Ĉerizaj Lignotabuloj",
+  "item.stackedblocks.stacked_crimson_planks": "Stakitaj Purpuraj Lignotabuloj",
+  "item.stackedblocks.stacked_dark_oak_planks": "Stakitaj Malhelaj Kverkaj Lignotabuloj",
+  "item.stackedblocks.stacked_jungle_planks": "Stakitaj Ĝangalaj Lignotabuloj",
+  "item.stackedblocks.stacked_mangrove_planks": "Stakitaj Mangrovaj Lignotabuloj",
+  "item.stackedblocks.stacked_oak_planks": "Stakitaj Kverkaj Lignotabuloj",
+  "item.stackedblocks.stacked_pale_oak_planks": "Stakitaj Palaj Kverkaj Lignotabuloj",
+  "item.stackedblocks.stacked_spruce_planks": "Stakitaj Piceaj Lignotabuloj",
+  "item.stackedblocks.stacked_warped_planks": "Stakitaj Misformaj Lignotabuloj",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

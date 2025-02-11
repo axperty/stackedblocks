@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "stackedblocks:block/stacked_raw_gold_blocks_side",
+    "bottom": "stackedblocks:block/stacked_raw_gold_blocks_bottom",
+    "top": "stackedblocks:block/stacked_raw_gold_blocks_top"
+  }
+}

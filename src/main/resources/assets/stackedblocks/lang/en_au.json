@@ -43,5 +43,21 @@
   "item.stackedblocks.stacked_pale_oak_logs": "Stacked Pale Oak Logs",
   "item.stackedblocks.stacked_stripped_pale_oak_logs": "Stacked Stripped Pale Oak Logs",
 
+  "item.stackedblocks.stacked_raw_iron_blocks": "Stacked Raw Iron Blocks",
+  "item.stackedblocks.stacked_raw_gold_blocks": "Stacked Raw Gold Blocks",
+  "item.stackedblocks.stacked_raw_copper_blocks": "Stacked Raw Copper Blocks",
+  "item.stackedblocks.stacked_acacia_planks": "Stacked Acacia Planks",
+  "item.stackedblocks.stacked_bamboo_planks": "Stacked Bamboo Planks",
+  "item.stackedblocks.stacked_birch_planks": "Stacked Birch Planks",
+  "item.stackedblocks.stacked_cherry_planks": "Stacked Cherry Planks",
+  "item.stackedblocks.stacked_crimson_planks": "Stacked Crimson Planks",
+  "item.stackedblocks.stacked_dark_oak_planks": "Stacked Dark Oak Planks",
+  "item.stackedblocks.stacked_jungle_planks": "Stacked Jungle Planks",
+  "item.stackedblocks.stacked_mangrove_planks": "Stacked Mangrove Planks",
+  "item.stackedblocks.stacked_oak_planks": "Stacked Oak Planks",
+  "item.stackedblocks.stacked_pale_oak_planks": "Stacked Pale Oak Planks",
+  "item.stackedblocks.stacked_spruce_planks": "Stacked Spruce Planks",
+  "item.stackedblocks.stacked_warped_planks": "Stacked Warped Planks",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }
