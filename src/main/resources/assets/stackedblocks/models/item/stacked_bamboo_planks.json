@@ -1,0 +1,6 @@
+{
+  "parent": "stackedblocks:block/stacked_bamboo_planks",
+  "textures": {
+    "layer0": "stackedblocks:item/stacked_bamboo_planks"
+  }
+}

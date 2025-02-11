@@ -43,5 +43,21 @@
   "item.stackedblocks.stacked_pale_oak_logs": "Grumes de chêne clair empilées",
   "item.stackedblocks.stacked_stripped_pale_oak_logs": "Grumes de chêne clair écorcées empilées",
 
+  "item.stackedblocks.stacked_raw_iron_blocks": "Blocs de fer brut empilés",
+  "item.stackedblocks.stacked_raw_gold_blocks": "Blocs d'or brut empilés",
+  "item.stackedblocks.stacked_raw_copper_blocks": "Blocs de cuivre brut empilés",
+  "item.stackedblocks.stacked_acacia_planks": "Planches d'acacia empilées",
+  "item.stackedblocks.stacked_bamboo_planks": "Planches de bambou empilées",
+  "item.stackedblocks.stacked_birch_planks": "Planches de bouleau empilées",
+  "item.stackedblocks.stacked_cherry_planks": "Planches de cerisier empilées",
+  "item.stackedblocks.stacked_crimson_planks": "Planches carmin empilées",
+  "item.stackedblocks.stacked_dark_oak_planks": "Planches de chêne noir empilées",
+  "item.stackedblocks.stacked_jungle_planks": "Planches de jungle empilées",
+  "item.stackedblocks.stacked_mangrove_planks": "Planches de palétuvier empilées",
+  "item.stackedblocks.stacked_oak_planks": "Planches de chêne empilées",
+  "item.stackedblocks.stacked_pale_oak_planks": "Planches de chêne clair empilées",
+  "item.stackedblocks.stacked_spruce_planks": "Planches d'épicéa empilées",
+  "item.stackedblocks.stacked_warped_planks": "Planches gauchies empilées",
+
   "itemGroup.stackedblocks": "Blocs empilés"
 }

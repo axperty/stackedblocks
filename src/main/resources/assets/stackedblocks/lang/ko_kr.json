@@ -43,5 +43,21 @@
   "item.stackedblocks.stacked_pale_oak_logs": "쌓인 밝은 오크 통나무",
   "item.stackedblocks.stacked_stripped_pale_oak_logs": "쌓인 껍질 벗긴 밝은 오크 통나무",
 
+  "item.stackedblocks.stacked_raw_iron_blocks": "쌓인 생철 블록",
+  "item.stackedblocks.stacked_raw_gold_blocks": "쌓인 생 금 블록",
+  "item.stackedblocks.stacked_raw_copper_blocks": "쌓인 생 구리 블록",
+  "item.stackedblocks.stacked_acacia_planks": "쌓인 아카시아 판자",
+  "item.stackedblocks.stacked_bamboo_planks": "쌓인 대나무 판자",
+  "item.stackedblocks.stacked_birch_planks": "쌓인 자작나무 판자",
+  "item.stackedblocks.stacked_cherry_planks": "쌓인 벚나무 판자",
+  "item.stackedblocks.stacked_crimson_planks": "쌓인 진홍빛 판자",
+  "item.stackedblocks.stacked_dark_oak_planks": "쌓인 짙은 참나무 판자",
+  "item.stackedblocks.stacked_jungle_planks": "쌓인 정글 판자",
+  "item.stackedblocks.stacked_mangrove_planks": "쌓인 맹그로브 판자",
+  "item.stackedblocks.stacked_oak_planks": "쌓인 참나무 판자",
+  "item.stackedblocks.stacked_pale_oak_planks": "쌓인 옅은 참나무 판자",
+  "item.stackedblocks.stacked_spruce_planks": "쌓인 가문비나무 판자",
+  "item.stackedblocks.stacked_warped_planks": "쌓인 뒤틀린 판자",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

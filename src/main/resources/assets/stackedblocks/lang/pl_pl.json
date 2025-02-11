@@ -43,5 +43,21 @@
   "item.stackedblocks.stacked_pale_oak_logs": "Stosowane kłody jasnego dębu",
   "item.stackedblocks.stacked_stripped_pale_oak_logs": "Stosowane obrane kłody jasnego dębu",
 
+  "item.stackedblocks.stacked_raw_iron_blocks": "Ułożone bloki surowego żelaza",
+  "item.stackedblocks.stacked_raw_gold_blocks": "Ułożone bloki surowego złota",
+  "item.stackedblocks.stacked_raw_copper_blocks": "Ułożone bloki surowej miedzi",
+  "item.stackedblocks.stacked_acacia_planks": "Ułożone deski akacjowe",
+  "item.stackedblocks.stacked_bamboo_planks": "Ułożone deski bambusowe",
+  "item.stackedblocks.stacked_birch_planks": "Ułożone deski brzozowe",
+  "item.stackedblocks.stacked_cherry_planks": "Ułożone deski wiśniowe",
+  "item.stackedblocks.stacked_crimson_planks": "Ułożone szkarłatne deski",
+  "item.stackedblocks.stacked_dark_oak_planks": "Ułożone deski z ciemnego dębu",
+  "item.stackedblocks.stacked_jungle_planks": "Ułożone deski z dżungli",
+  "item.stackedblocks.stacked_mangrove_planks": "Ułożone deski namorzynowe",
+  "item.stackedblocks.stacked_oak_planks": "Ułożone deski dębowe",
+  "item.stackedblocks.stacked_pale_oak_planks": "Ułożone blade dębowe deski",
+  "item.stackedblocks.stacked_spruce_planks": "Ułożone deski świerkowe",
+  "item.stackedblocks.stacked_warped_planks": "Ułożone wypaczone deski",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }
