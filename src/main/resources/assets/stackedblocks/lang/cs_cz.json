@@ -43,5 +43,21 @@
   "block.stackedblocks.stacked_pale_oak_logs": "Skládané klády světleho dubu",
   "block.stackedblocks.stacked_stripped_pale_oak_logs": "Skládané oloupané klády světleho dubu",
 
+  "block.stackedblocks.stacked_raw_iron_blocks": "Naskládané bloky surového železa",
+  "block.stackedblocks.stacked_raw_gold_blocks": "Naskládané bloky surového zlata",
+  "block.stackedblocks.stacked_raw_copper_blocks": "Naskládané bloky surové mědi",
+  "block.stackedblocks.stacked_acacia_planks": "Naskládaná akáciová prkna",
+  "block.stackedblocks.stacked_bamboo_planks": "Naskládaná bambusová prkna",
+  "block.stackedblocks.stacked_birch_planks": "Naskládaná březová prkna",
+  "block.stackedblocks.stacked_cherry_planks": "Naskládaná třešňová prkna",
+  "block.stackedblocks.stacked_crimson_planks": "Naskládaná nachová prkna",
+  "block.stackedblocks.stacked_dark_oak_planks": "Naskládaná prkna z tmavého dubu",
+  "block.stackedblocks.stacked_jungle_planks": "Naskládaná džunglová prkna",
+  "block.stackedblocks.stacked_mangrove_planks": "Naskládaná mangrovníková prkna",
+  "block.stackedblocks.stacked_oak_planks": "Naskládaná dubová prkna",
+  "block.stackedblocks.stacked_pale_oak_planks": "Naskládaná bledá dubová prkna",
+  "block.stackedblocks.stacked_spruce_planks": "Naskládaná smrková prkna",
+  "block.stackedblocks.stacked_warped_planks": "Naskládaná pokřivená prkna",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }

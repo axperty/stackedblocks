@@ -1,3 +1,6 @@
 {
-  "parent": "stackedblocks:block/stacked_stripped_spruce_logs"
+  "parent": "stackedblocks:block/stacked_stripped_spruce_logs",
+  "textures": {
+    "layer0": "stackedblocks:item/stacked_stripped_spruce_logs"
+  }
 }

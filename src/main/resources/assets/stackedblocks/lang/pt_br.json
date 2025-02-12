@@ -43,5 +43,21 @@
   "block.stackedblocks.stacked_pale_oak_logs": "Toras de Carvalho Claro Empilhadas",
   "block.stackedblocks.stacked_stripped_pale_oak_logs": "Toras de Carvalho Claro Descascadas Empilhadas",
 
+  "block.stackedblocks.stacked_raw_iron_blocks": "Blocos de ferro bruto empilhados",
+  "block.stackedblocks.stacked_raw_gold_blocks": "Blocos de ouro bruto empilhados",
+  "block.stackedblocks.stacked_raw_copper_blocks": "Blocos de cobre bruto empilhados",
+  "block.stackedblocks.stacked_acacia_planks": "Tábuas de acácia empilhadas",
+  "block.stackedblocks.stacked_bamboo_planks": "Tábuas de bambu empilhadas",
+  "block.stackedblocks.stacked_birch_planks": "Tábuas de bétula empilhadas",
+  "block.stackedblocks.stacked_cherry_planks": "Tábuas de cerejeira empilhadas",
+  "block.stackedblocks.stacked_crimson_planks": "Tábuas carmesim empilhadas",
+  "block.stackedblocks.stacked_dark_oak_planks": "Tábuas de carvalho-escuro empilhadas",
+  "block.stackedblocks.stacked_jungle_planks": "Tábuas de selva empilhadas",
+  "block.stackedblocks.stacked_mangrove_planks": "Tábuas de mangue empilhadas",
+  "block.stackedblocks.stacked_oak_planks": "Tábuas de carvalho empilhadas",
+  "block.stackedblocks.stacked_pale_oak_planks": "Tábuas de carvalho pálido empilhadas",
+  "block.stackedblocks.stacked_spruce_planks": "Tábuas de pinheiro empilhadas",
+  "block.stackedblocks.stacked_warped_planks": "Tábuas retorcidas empilhadas",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }
