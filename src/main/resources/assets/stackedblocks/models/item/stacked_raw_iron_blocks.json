@@ -1,0 +1,6 @@
+{
+  "parent": "stackedblocks:block/stacked_raw_iron_blocks",
+  "textures": {
+    "layer0": "stackedblocks:item/stacked_raw_iron_blocks"
+  }
+}

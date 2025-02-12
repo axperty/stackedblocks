@@ -29,10 +29,19 @@ public class BlockRegistry {
                 new Block(AbstractBlock.Settings.copy(Blocks.BRICKS)));
 
         BlockList.STACKED_MELONS = block("stacked_melons",
-                new Block(AbstractBlock.Settings.copy(Blocks.OAK_PLANKS)));
+                new Block(AbstractBlock.Settings.copy(Blocks.MELON)));
 
         BlockList.STACKED_PUMPKINS = block("stacked_pumpkins",
-                new Block(AbstractBlock.Settings.copy(Blocks.OAK_PLANKS)));
+                new Block(AbstractBlock.Settings.copy(Blocks.PUMPKIN)));
+
+        BlockList.STACKED_RAW_IRON_BLOCKS = block("stacked_raw_iron_blocks",
+                new Block(AbstractBlock.Settings.copy(Blocks.RAW_IRON_BLOCK)));
+
+        BlockList.STACKED_RAW_GOLD_BLOCKS = block("stacked_raw_gold_blocks",
+                new Block(AbstractBlock.Settings.copy(Blocks.RAW_GOLD_BLOCK)));
+
+        BlockList.STACKED_RAW_COPPER_BLOCKS = block("stacked_raw_copper_blocks",
+                new Block(AbstractBlock.Settings.copy(Blocks.RAW_COPPER_BLOCK)));
 
         BlockList.STACKED_LAPIS_BLOCKS = block("stacked_lapis_blocks",
                 new Block(AbstractBlock.Settings.copy(Blocks.LAPIS_BLOCK)));
@@ -67,10 +76,16 @@ public class BlockRegistry {
         BlockList.STACKED_STRIPPED_OAK_LOGS = block("stacked_stripped_oak_logs",
                 new Block(AbstractBlock.Settings.copy(Blocks.OAK_PLANKS)));
 
+        BlockList.STACKED_OAK_PLANKS = block("stacked_oak_planks",
+                new Block(AbstractBlock.Settings.copy(Blocks.OAK_PLANKS)));
+
         BlockList.STACKED_SPRUCE_LOGS = block("stacked_spruce_logs",
                 new Block(AbstractBlock.Settings.copy(Blocks.SPRUCE_PLANKS)));
 
         BlockList.STACKED_STRIPPED_SPRUCE_LOGS = block("stacked_stripped_spruce_logs",
+                new Block(AbstractBlock.Settings.copy(Blocks.SPRUCE_PLANKS)));
+
+        BlockList.STACKED_SPRUCE_PLANKS = block("stacked_spruce_planks",
                 new Block(AbstractBlock.Settings.copy(Blocks.SPRUCE_PLANKS)));
 
         BlockList.STACKED_BIRCH_LOGS = block("stacked_birch_logs",
@@ -79,10 +94,16 @@ public class BlockRegistry {
         BlockList.STACKED_STRIPPED_BIRCH_LOGS = block("stacked_stripped_birch_logs",
                 new Block(AbstractBlock.Settings.copy(Blocks.BIRCH_PLANKS)));
 
+        BlockList.STACKED_BIRCH_PLANKS = block("stacked_birch_planks",
+                new Block(AbstractBlock.Settings.copy(Blocks.BIRCH_PLANKS)));
+
         BlockList.STACKED_JUNGLE_LOGS = block("stacked_jungle_logs",
                 new Block(AbstractBlock.Settings.copy(Blocks.JUNGLE_PLANKS)));
 
         BlockList.STACKED_STRIPPED_JUNGLE_LOGS = block("stacked_stripped_jungle_logs",
+                new Block(AbstractBlock.Settings.copy(Blocks.JUNGLE_PLANKS)));
+
+        BlockList.STACKED_JUNGLE_PLANKS = block("stacked_jungle_planks",
                 new Block(AbstractBlock.Settings.copy(Blocks.JUNGLE_PLANKS)));
 
         BlockList.STACKED_ACACIA_LOGS = block("stacked_acacia_logs",
@@ -91,10 +112,16 @@ public class BlockRegistry {
         BlockList.STACKED_STRIPPED_ACACIA_LOGS = block("stacked_stripped_acacia_logs",
                 new Block(AbstractBlock.Settings.copy(Blocks.ACACIA_PLANKS)));
 
+        BlockList.STACKED_ACACIA_PLANKS = block("stacked_acacia_planks",
+                new Block(AbstractBlock.Settings.copy(Blocks.ACACIA_PLANKS)));
+
         BlockList.STACKED_DARK_OAK_LOGS = block("stacked_dark_oak_logs",
                 new Block(AbstractBlock.Settings.copy(Blocks.DARK_OAK_PLANKS)));
 
         BlockList.STACKED_STRIPPED_DARK_OAK_LOGS = block("stacked_stripped_dark_oak_logs",
+                new Block(AbstractBlock.Settings.copy(Blocks.DARK_OAK_PLANKS)));
+
+        BlockList.STACKED_DARK_OAK_PLANKS = block("stacked_dark_oak_planks",
                 new Block(AbstractBlock.Settings.copy(Blocks.DARK_OAK_PLANKS)));
 
         BlockList.STACKED_MANGROVE_LOGS = block("stacked_mangrove_logs",
@@ -103,10 +130,16 @@ public class BlockRegistry {
         BlockList.STACKED_STRIPPED_MANGROVE_LOGS = block("stacked_stripped_mangrove_logs",
                 new Block(AbstractBlock.Settings.copy(Blocks.MANGROVE_PLANKS)));
 
+        BlockList.STACKED_MANGROVE_PLANKS = block("stacked_mangrove_planks",
+                new Block(AbstractBlock.Settings.copy(Blocks.MANGROVE_PLANKS)));
+
         BlockList.STACKED_CHERRY_LOGS = block("stacked_cherry_logs",
                 new Block(AbstractBlock.Settings.copy(Blocks.CHERRY_PLANKS)));
 
         BlockList.STACKED_STRIPPED_CHERRY_LOGS = block("stacked_stripped_cherry_logs",
+                new Block(AbstractBlock.Settings.copy(Blocks.CHERRY_PLANKS)));
+
+        BlockList.STACKED_CHERRY_PLANKS = block("stacked_cherry_planks",
                 new Block(AbstractBlock.Settings.copy(Blocks.CHERRY_PLANKS)));
 
         BlockList.STACKED_BAMBOO_BLOCKS = block("stacked_bamboo_blocks",
@@ -115,16 +148,25 @@ public class BlockRegistry {
         BlockList.STACKED_STRIPPED_BAMBOO_BLOCKS = block("stacked_stripped_bamboo_blocks",
                 new Block(AbstractBlock.Settings.copy(Blocks.BAMBOO_PLANKS)));
 
+        BlockList.STACKED_BAMBOO_PLANKS = block("stacked_bamboo_planks",
+                new Block(AbstractBlock.Settings.copy(Blocks.BAMBOO_PLANKS)));
+
         BlockList.STACKED_CRIMSON_STEMS = block("stacked_crimson_stems",
                 new Block(AbstractBlock.Settings.copy(Blocks.CRIMSON_PLANKS)));
 
         BlockList.STACKED_STRIPPED_CRIMSON_STEMS = block("stacked_stripped_crimson_stems",
                 new Block(AbstractBlock.Settings.copy(Blocks.CRIMSON_PLANKS)));
 
+        BlockList.STACKED_CRIMSON_PLANKS = block("stacked_crimson_planks",
+                new Block(AbstractBlock.Settings.copy(Blocks.CRIMSON_PLANKS)));
+
         BlockList.STACKED_WARPED_STEMS = block("stacked_warped_stems",
                 new Block(AbstractBlock.Settings.copy(Blocks.WARPED_PLANKS)));
 
         BlockList.STACKED_STRIPPED_WARPED_STEMS = block("stacked_stripped_warped_stems",
+                new Block(AbstractBlock.Settings.copy(Blocks.WARPED_PLANKS)));
+
+        BlockList.STACKED_WARPED_PLANKS = block("stacked_warped_planks",
                 new Block(AbstractBlock.Settings.copy(Blocks.WARPED_PLANKS)));
 
     }
