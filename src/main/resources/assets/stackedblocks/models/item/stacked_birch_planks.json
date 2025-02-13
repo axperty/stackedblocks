@@ -1,0 +1,6 @@
+{
+  "parent": "stackedblocks:block/stacked_birch_planks",
+  "textures": {
+    "layer0": "stackedblocks:item/stacked_birch_planks"
+  }
+}
