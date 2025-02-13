@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "stacked_cherry_planks",
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cherry_planks"
+    },
+    "R": {
+      "item": "minecraft:lead"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "stackedblocks:stacked_cherry_planks"
+  }
+}

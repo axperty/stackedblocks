@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "stacked_raw_gold_blocks",
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:raw_gold_block"
+    },
+    "R": {
+      "item": "minecraft:lead"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "stackedblocks:stacked_raw_gold_blocks"
+  }
+}
