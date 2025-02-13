@@ -19,8 +19,8 @@ public class StackedBlocks {
 
     public StackedBlocks() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
-        ItemRegistry.ITEMS.register(modEventBus);
         BlockRegistry.BLOCKS.register(modEventBus);
+        ItemRegistry.ITEMS.register(modEventBus);
         MinecraftForge.EVENT_BUS.register(this);
     }
 

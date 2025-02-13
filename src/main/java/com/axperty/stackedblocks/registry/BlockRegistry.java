@@ -24,6 +24,22 @@ public class BlockRegistry {
     public static final RegistryObject<Block> STACKED_NETHERRACK_BLOCKS = BLOCKS.register("stacked_netherrack_blocks",
             () -> new Block(Block.Properties.copy(Blocks.NETHERRACK)));
 
+    // Stacked Bricks
+    public static final RegistryObject<Block> STACKED_BRICKS = BLOCKS.register("stacked_bricks",
+            () -> new Block(Block.Properties.copy(Blocks.BRICKS)));
+
+    // Stacked Raw Iron Blocks
+    public static final RegistryObject<Block> STACKED_RAW_IRON_BLOCKS = BLOCKS.register("stacked_raw_iron_blocks",
+            () -> new Block(Block.Properties.copy(Blocks.RAW_IRON_BLOCK)));
+
+    // Stacked Raw Gold Blocks
+    public static final RegistryObject<Block> STACKED_RAW_GOLD_BLOCKS = BLOCKS.register("stacked_raw_gold_blocks",
+            () -> new Block(Block.Properties.copy(Blocks.RAW_GOLD_BLOCK)));
+
+    // Stacked Raw Copper Blocks
+    public static final RegistryObject<Block> STACKED_RAW_COPPER_BLOCKS = BLOCKS.register("stacked_raw_copper_blocks",
+            () -> new Block(Block.Properties.copy(Blocks.RAW_COPPER_BLOCK)));
+
     // Stacked Lapis Blocks
     public static final RegistryObject<Block> STACKED_LAPIS_BLOCKS = BLOCKS.register("stacked_lapis_blocks",
             () -> new Block(Block.Properties.copy(Blocks.LAPIS_BLOCK)));
@@ -60,10 +76,6 @@ public class BlockRegistry {
     public static final RegistryObject<Block> STACKED_QUARTZ_BLOCKS = BLOCKS.register("stacked_quartz_blocks",
             () -> new Block(Block.Properties.copy(Blocks.QUARTZ_BLOCK)));
 
-    // Stacked Bricks
-    public static final RegistryObject<Block> STACKED_BRICKS = BLOCKS.register("stacked_bricks",
-            () -> new Block(Block.Properties.copy(Blocks.BRICKS)));
-
     // Stacked Melons
     public static final RegistryObject<Block> STACKED_MELONS = BLOCKS.register("stacked_melons",
             () -> new Block(Block.Properties.copy(Blocks.MELON)));
@@ -80,12 +92,20 @@ public class BlockRegistry {
     public static final RegistryObject<Block> STACKED_STRIPPED_OAK_LOGS = BLOCKS.register("stacked_stripped_oak_logs",
             () -> new Block(Block.Properties.copy(Blocks.OAK_PLANKS)));
 
+    // Stacked Oak Planks
+    public static final RegistryObject<Block> STACKED_OAK_PLANKS = BLOCKS.register("stacked_oak_planks",
+            () -> new Block(Block.Properties.copy(Blocks.OAK_PLANKS)));
+
     // Stacked Spruce Logs
     public static final RegistryObject<Block> STACKED_SPRUCE_LOGS = BLOCKS.register("stacked_spruce_logs",
             () -> new Block(Block.Properties.copy(Blocks.SPRUCE_PLANKS)));
 
     // Stacked Stripped Spruce Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_SPRUCE_LOGS = BLOCKS.register("stacked_stripped_spruce_logs",
+            () -> new Block(Block.Properties.copy(Blocks.SPRUCE_PLANKS)));
+
+    // Stacked Spruce Planks
+    public static final RegistryObject<Block> STACKED_SPRUCE_PLANKS = BLOCKS.register("stacked_spruce_planks",
             () -> new Block(Block.Properties.copy(Blocks.SPRUCE_PLANKS)));
 
     // Stacked Birch Logs
@@ -96,12 +116,20 @@ public class BlockRegistry {
     public static final RegistryObject<Block> STACKED_STRIPPED_BIRCH_LOGS = BLOCKS.register("stacked_stripped_birch_logs",
             () -> new Block(Block.Properties.copy(Blocks.BIRCH_PLANKS)));
 
+    // Stacked Birch Planks
+    public static final RegistryObject<Block> STACKED_BIRCH_PLANKS = BLOCKS.register("stacked_birch_planks",
+            () -> new Block(Block.Properties.copy(Blocks.BIRCH_PLANKS)));
+
     // Stacked Jungle Logs
     public static final RegistryObject<Block> STACKED_JUNGLE_LOGS = BLOCKS.register("stacked_jungle_logs",
             () -> new Block(Block.Properties.copy(Blocks.JUNGLE_PLANKS)));
 
     // Stacked Stripped Jungle Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_JUNGLE_LOGS = BLOCKS.register("stacked_stripped_jungle_logs",
+            () -> new Block(Block.Properties.copy(Blocks.JUNGLE_PLANKS)));
+
+    // Stacked Jungle Planks
+    public static final RegistryObject<Block> STACKED_JUNGLE_PLANKS = BLOCKS.register("stacked_jungle_planks",
             () -> new Block(Block.Properties.copy(Blocks.JUNGLE_PLANKS)));
 
     // Stacked Acacia Logs
@@ -112,12 +140,20 @@ public class BlockRegistry {
     public static final RegistryObject<Block> STACKED_STRIPPED_ACACIA_LOGS = BLOCKS.register("stacked_stripped_acacia_logs",
             () -> new Block(Block.Properties.copy(Blocks.ACACIA_PLANKS)));
 
+    // Stacked Acacia Planks
+    public static final RegistryObject<Block> STACKED_ACACIA_PLANKS = BLOCKS.register("stacked_acacia_planks",
+            () -> new Block(Block.Properties.copy(Blocks.ACACIA_PLANKS)));
+
     // Stacked Dark Oak Logs
     public static final RegistryObject<Block> STACKED_DARK_OAK_LOGS = BLOCKS.register("stacked_dark_oak_logs",
             () -> new Block(Block.Properties.copy(Blocks.DARK_OAK_PLANKS)));
 
     // Stacked Stripped Dark Oak Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_DARK_OAK_LOGS = BLOCKS.register("stacked_stripped_dark_oak_logs",
+            () -> new Block(Block.Properties.copy(Blocks.DARK_OAK_PLANKS)));
+
+    // Stacked Dark Oak Planks
+    public static final RegistryObject<Block> STACKED_DARK_OAK_PLANKS = BLOCKS.register("stacked_dark_oak_planks",
             () -> new Block(Block.Properties.copy(Blocks.DARK_OAK_PLANKS)));
 
     // Stacked Mangrove Logs
@@ -128,6 +164,10 @@ public class BlockRegistry {
     public static final RegistryObject<Block> STACKED_STRIPPED_MANGROVE_LOGS = BLOCKS.register("stacked_stripped_mangrove_logs",
             () -> new Block(Block.Properties.copy(Blocks.MANGROVE_PLANKS)));
 
+    // Stacked Mangrove Planks
+    public static final RegistryObject<Block> STACKED_MANGROVE_PLANKS = BLOCKS.register("stacked_mangrove_planks",
+            () -> new Block(Block.Properties.copy(Blocks.MANGROVE_PLANKS)));
+
     // Stacked Crimson Logs
     public static final RegistryObject<Block> STACKED_CRIMSON_STEMS = BLOCKS.register("stacked_crimson_stems",
             () -> new Block(Block.Properties.copy(Blocks.CRIMSON_PLANKS)));
@@ -136,12 +176,20 @@ public class BlockRegistry {
     public static final RegistryObject<Block> STACKED_STRIPPED_CRIMSON_STEMS = BLOCKS.register("stacked_stripped_crimson_stems",
             () -> new Block(Block.Properties.copy(Blocks.CRIMSON_PLANKS)));
 
+    // Stacked Crimson Planks
+    public static final RegistryObject<Block> STACKED_CRIMSON_PLANKS = BLOCKS.register("stacked_crimson_planks",
+            () -> new Block(Block.Properties.copy(Blocks.CRIMSON_PLANKS)));
+
     // Stacked Warped Logs
     public static final RegistryObject<Block> STACKED_WARPED_STEMS = BLOCKS.register("stacked_warped_stems",
             () -> new Block(Block.Properties.copy(Blocks.WARPED_PLANKS)));
 
     // Stacked Stripped Warped Logs
     public static final RegistryObject<Block> STACKED_STRIPPED_WARPED_STEMS = BLOCKS.register("stacked_stripped_warped_stems",
+            () -> new Block(Block.Properties.copy(Blocks.WARPED_PLANKS)));
+
+    // Stacked Warped Planks
+    public static final RegistryObject<Block> STACKED_WARPED_PLANKS = BLOCKS.register("stacked_warped_planks",
             () -> new Block(Block.Properties.copy(Blocks.WARPED_PLANKS)));
 
 }

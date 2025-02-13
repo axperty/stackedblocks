@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "stackedblocks:stacked_mangrove_planks"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:mangrove_planks"
+  }
+}

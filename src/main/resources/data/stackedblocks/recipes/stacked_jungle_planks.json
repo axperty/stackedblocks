@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "stacked_jungle_planks",
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:jungle_planks"
+    },
+    "R": {
+      "item": "minecraft:lead"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "stackedblocks:stacked_jungle_planks"
+  }
+}
