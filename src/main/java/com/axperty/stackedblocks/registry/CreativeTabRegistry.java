@@ -22,9 +22,6 @@ public class CreativeTabRegistry {
                         entries.add(BlockRegistry.STACKED_COBBLESTONE_BLOCKS);
                         entries.add(BlockRegistry.STACKED_NETHERRACK_BLOCKS);
                         entries.add(BlockRegistry.STACKED_BRICKS);
-                        entries.add(BlockRegistry.STACKED_MELONS);
-                        entries.add(BlockRegistry.STACKED_PUMPKINS);
-
                         entries.add(BlockRegistry.STACKED_RAW_IRON_BLOCKS);
                         entries.add(BlockRegistry.STACKED_RAW_GOLD_BLOCKS);
                         entries.add(BlockRegistry.STACKED_RAW_COPPER_BLOCKS);
@@ -38,6 +35,9 @@ public class CreativeTabRegistry {
                         entries.add(BlockRegistry.STACKED_DIAMOND_BLOCKS);
                         entries.add(BlockRegistry.STACKED_NETHERITE_BLOCKS);
                         entries.add(BlockRegistry.STACKED_QUARTZ_BLOCKS);
+                        entries.add(BlockRegistry.STACKED_MELONS);
+                        entries.add(BlockRegistry.STACKED_PUMPKINS);
+
 
                         entries.add(BlockRegistry.STACKED_OAK_LOGS);
                         entries.add(BlockRegistry.STACKED_STRIPPED_OAK_LOGS);

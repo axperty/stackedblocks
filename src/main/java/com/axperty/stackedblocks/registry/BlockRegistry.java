@@ -26,14 +26,6 @@ public class BlockRegistry {
     public static final Block STACKED_BRICKS = registerBlock("stacked_bricks",
             new Block(AbstractBlock.Settings.copy(Blocks.BRICKS)));
 
-    // Stacked Melons
-    public static final Block STACKED_MELONS = registerBlock("stacked_melons",
-            new Block(AbstractBlock.Settings.copy(Blocks.MELON))); // Corrected to MELON
-
-    // Stacked Pumpkins
-    public static final Block STACKED_PUMPKINS = registerBlock("stacked_pumpkins",
-            new Block(AbstractBlock.Settings.copy(Blocks.PUMPKIN))); // Corrected to PUMPKIN
-
     // Stacked Raw Iron Blocks
     public static final Block STACKED_RAW_IRON_BLOCKS = registerBlock("stacked_raw_iron_blocks",
             new Block(AbstractBlock.Settings.copy(Blocks.RAW_IRON_BLOCK)));
@@ -81,6 +73,14 @@ public class BlockRegistry {
     // Stacked Quartz Blocks
     public static final Block STACKED_QUARTZ_BLOCKS = registerBlock("stacked_quartz_blocks",
             new Block(AbstractBlock.Settings.copy(Blocks.QUARTZ_BLOCK)));
+
+    // Stacked Melons
+    public static final Block STACKED_MELONS = registerBlock("stacked_melons",
+            new Block(AbstractBlock.Settings.copy(Blocks.MELON)));
+
+    // Stacked Pumpkins
+    public static final Block STACKED_PUMPKINS = registerBlock("stacked_pumpkins",
+            new Block(AbstractBlock.Settings.copy(Blocks.PUMPKIN)));
 
     // Stacked Oak Logs
     public static final Block STACKED_OAK_LOGS = registerBlock("stacked_oak_logs",
