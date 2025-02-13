@@ -4,11 +4,10 @@
 
 ### ✨ What's New:
 
-- Added Stacked Raw Blocks for:
+- Added new types of stacked blocks for:
   - Raw Copper Block
   - Raw Gold Block
   - Raw Iron Block
-- Added Stacked Planks for:
   - Acacia Planks
   - Bamboo Planks
   - Birch Planks
