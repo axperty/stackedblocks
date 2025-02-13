@@ -43,5 +43,21 @@
   "block.stackedblocks.stacked_pale_oak_logs": "Складені колоди світлого дуба",
   "block.stackedblocks.stacked_stripped_pale_oak_logs": "Складені очищені колоди світлого дуба",
 
+  "block.stackedblocks.stacked_raw_iron_blocks": "Складені блоки сирого заліза",
+  "block.stackedblocks.stacked_raw_gold_blocks": "Складені блоки сирого золота",
+  "block.stackedblocks.stacked_raw_copper_blocks": "Складені блоки сирої міді",
+  "block.stackedblocks.stacked_acacia_planks": "Складені дошки з акації",
+  "block.stackedblocks.stacked_bamboo_planks": "Складені бамбукові дошки",
+  "block.stackedblocks.stacked_birch_planks": "Складені березові дошки",
+  "block.stackedblocks.stacked_cherry_planks": "Складені вишневі дошки",
+  "block.stackedblocks.stacked_crimson_planks": "Складені малинові дошки",
+  "block.stackedblocks.stacked_dark_oak_planks": "Складені дошки з темного дуба",
+  "block.stackedblocks.stacked_jungle_planks": "Складені дошки з джунглів",
+  "block.stackedblocks.stacked_mangrove_planks": "Складені мангрові дошки",
+  "block.stackedblocks.stacked_oak_planks": "Складені дубові дошки",
+  "block.stackedblocks.stacked_pale_oak_planks": "Складені бліді дубові дошки",
+  "block.stackedblocks.stacked_spruce_planks": "Складені ялинові дошки",
+  "block.stackedblocks.stacked_warped_planks": "Складені викривлені дошки",
+
   "itemGroup.stackedblocks.creative_tab": "Stacked Blocks"
 }

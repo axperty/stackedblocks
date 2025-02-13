@@ -43,5 +43,21 @@
   "block.stackedblocks.stacked_pale_oak_logs": "Staplade Ljusa ekstockar",
   "block.stackedblocks.stacked_stripped_pale_oak_logs": "Staplade Barkfria Ljusa Ekstockar",
 
+  "block.stackedblocks.stacked_raw_iron_blocks": "Staplade råjärnsblock",
+  "block.stackedblocks.stacked_raw_gold_blocks": "Staplade råguldblock",
+  "block.stackedblocks.stacked_raw_copper_blocks": "Staplade råkopparblock",
+  "block.stackedblocks.stacked_acacia_planks": "Staplade akaciabrädor",
+  "block.stackedblocks.stacked_bamboo_planks": "Staplade bambubrädor",
+  "block.stackedblocks.stacked_birch_planks": "Staplade björkbrädor",
+  "block.stackedblocks.stacked_cherry_planks": "Staplade körsbärsbrädor",
+  "block.stackedblocks.stacked_crimson_planks": "Staplade karmosinbrädor",
+  "block.stackedblocks.stacked_dark_oak_planks": "Staplade mörk-eksbrädor",
+  "block.stackedblocks.stacked_jungle_planks": "Staplade djungelbrädor",
+  "block.stackedblocks.stacked_mangrove_planks": "Staplade mangroveträbrädor",
+  "block.stackedblocks.stacked_oak_planks": "Staplade ekbrädor",
+  "block.stackedblocks.stacked_pale_oak_planks": "Staplade bleka ekbrädor",
+  "block.stackedblocks.stacked_spruce_planks": "Staplade granbrädor",
+  "block.stackedblocks.stacked_warped_planks": "Staplade skeva brädor",
+
   "itemGroup.stackedblocks.creative_tab": "Stacked Blocks"
 }

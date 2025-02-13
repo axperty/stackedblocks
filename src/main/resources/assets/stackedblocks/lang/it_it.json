@@ -43,5 +43,21 @@
   "block.stackedblocks.stacked_pale_oak_logs": "Tronchi di rovere chiaro impilati",
   "block.stackedblocks.stacked_stripped_pale_oak_logs": "Tronchi di rovere chiaro scortecciati impilati",
 
+  "block.stackedblocks.stacked_raw_iron_blocks": "Blocchi di ferro grezzo impilati",
+  "block.stackedblocks.stacked_raw_gold_blocks": "Blocchi di oro grezzo impilati",
+  "block.stackedblocks.stacked_raw_copper_blocks": "Blocchi di rame grezzo impilati",
+  "block.stackedblocks.stacked_acacia_planks": "Assi di acacia impilate",
+  "block.stackedblocks.stacked_bamboo_planks": "Assi di bambù impilate",
+  "block.stackedblocks.stacked_birch_planks": "Assi di betulla impilate",
+  "block.stackedblocks.stacked_cherry_planks": "Assi di ciliegio impilate",
+  "block.stackedblocks.stacked_crimson_planks": "Assi cremisi impilate",
+  "block.stackedblocks.stacked_dark_oak_planks": "Assi di quercia scura impilate",
+  "block.stackedblocks.stacked_jungle_planks": "Assi della giungla impilate",
+  "block.stackedblocks.stacked_mangrove_planks": "Assi di mangrovia impilate",
+  "block.stackedblocks.stacked_oak_planks": "Assi di quercia impilate",
+  "block.stackedblocks.stacked_pale_oak_planks": "Assi di quercia chiara impilate",
+  "block.stackedblocks.stacked_spruce_planks": "Assi di abete impilate",
+  "block.stackedblocks.stacked_warped_planks": "Assi deformate impilate",
+
   "itemGroup.stackedblocks.creative_tab": "Stacked Blocks"
 }

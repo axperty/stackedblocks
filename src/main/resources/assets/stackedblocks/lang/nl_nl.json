@@ -43,5 +43,21 @@
   "block.stackedblocks.stacked_pale_oak_logs": "Gestackte Licht Eikenhouten Balken",
   "block.stackedblocks.stacked_stripped_pale_oak_logs": "Gestackte Geschilde Licht Eikenhouten Balken",
 
+  "block.stackedblocks.stacked_raw_iron_blocks": "Gestapelde blokken ruw ijzer",
+  "block.stackedblocks.stacked_raw_gold_blocks": "Gestapelde blokken ruw goud",
+  "block.stackedblocks.stacked_raw_copper_blocks": "Gestapelde blokken ruw koper",
+  "block.stackedblocks.stacked_acacia_planks": "Gestapelde acaciahouten planken",
+  "block.stackedblocks.stacked_bamboo_planks": "Gestapelde bamboe planken",
+  "block.stackedblocks.stacked_birch_planks": "Gestapelde berkenhouten planken",
+  "block.stackedblocks.stacked_cherry_planks": "Gestapelde kersenhouten planken",
+  "block.stackedblocks.stacked_crimson_planks": "Gestapelde karmozijnhouten planken",
+  "block.stackedblocks.stacked_dark_oak_planks": "Gestapelde donkere eikenhouten planken",
+  "block.stackedblocks.stacked_jungle_planks": "Gestapelde jungle planken",
+  "block.stackedblocks.stacked_mangrove_planks": "Gestapelde mangrovehouten planken",
+  "block.stackedblocks.stacked_oak_planks": "Gestapelde eikenhouten planken",
+  "block.stackedblocks.stacked_pale_oak_planks": "Gestapelde vale eikenhouten planken",
+  "block.stackedblocks.stacked_spruce_planks": "Gestapelde vurenhouten planken",
+  "block.stackedblocks.stacked_warped_planks": "Gestapelde kromgetrokken planken",
+
   "itemGroup.stackedblocks.creative_tab": "Stacked Blocks"
 }

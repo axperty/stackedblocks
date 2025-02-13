@@ -20,6 +20,15 @@
     "stackedblocks:stacked_crimson_stems",
     "stackedblocks:stacked_stripped_crimson_stems",
     "stackedblocks:stacked_warped_stems",
-    "stackedblocks:stacked_stripped_warped_stems"
+    "stackedblocks:stacked_stripped_warped_stems",
+    "stackedblocks:stacked_acacia_planks",
+    "stackedblocks:stacked_birch_planks",
+    "stackedblocks:stacked_crimson_planks",
+    "stackedblocks:stacked_dark_oak_planks",
+    "stackedblocks:stacked_jungle_planks",
+    "stackedblocks:stacked_mangrove_planks",
+    "stackedblocks:stacked_oak_planks",
+    "stackedblocks:stacked_spruce_planks",
+    "stackedblocks:stacked_warped_planks"
   ]
 }

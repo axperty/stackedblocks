@@ -43,5 +43,21 @@
   "block.stackedblocks.stacked_pale_oak_logs": "堆疊的淺橡木原木",
   "block.stackedblocks.stacked_stripped_pale_oak_logs": "堆疊的去皮淺橡木原木",
 
+  "block.stackedblocks.stacked_raw_iron_blocks": "堆疊的粗鐵磚",
+  "block.stackedblocks.stacked_raw_gold_blocks": "堆疊的粗金磚",
+  "block.stackedblocks.stacked_raw_copper_blocks": "堆疊的粗銅磚",
+  "block.stackedblocks.stacked_acacia_planks": "堆疊的金合歡木板",
+  "block.stackedblocks.stacked_bamboo_planks": "堆疊的竹木板",
+  "block.stackedblocks.stacked_birch_planks": "堆疊的樺木木板",
+  "block.stackedblocks.stacked_cherry_planks": "堆疊的櫻桃木板",
+  "block.stackedblocks.stacked_crimson_planks": "堆疊的緋紅木板",
+  "block.stackedblocks.stacked_dark_oak_planks": "堆疊的深色橡木木板",
+  "block.stackedblocks.stacked_jungle_planks": "堆疊的叢林木板",
+  "block.stackedblocks.stacked_mangrove_planks": "堆疊的紅樹木板",
+  "block.stackedblocks.stacked_oak_planks": "堆疊的橡木木板",
+  "block.stackedblocks.stacked_pale_oak_planks": "堆疊的淡色橡木木板",
+  "block.stackedblocks.stacked_spruce_planks": "堆疊的雲杉木板",
+  "block.stackedblocks.stacked_warped_planks": "堆疊的詭異木板",
+
   "itemGroup.stackedblocks.creative_tab": "堆疊的方塊"
 }

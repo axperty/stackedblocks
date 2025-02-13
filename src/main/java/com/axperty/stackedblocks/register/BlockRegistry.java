@@ -32,13 +32,17 @@ public class BlockRegistry {
     public static final Block STACKED_BRICKS = registerBlock("stacked_bricks",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
-    // Stacked Melons
-    public static final Block STACKED_MELONS = registerBlock("stacked_melons",
-            new Block(FabricBlockSettings.copyOf(Blocks.MELON)), CreativeModTab.CREATIVE_MODE_TAB);
+    // Stacked Raw Iron Blocks
+    public static final Block STACKED_RAW_IRON_BLOCKS = registerBlock("stacked_raw_iron_blocks",
+            new Block(FabricBlockSettings.copyOf(Blocks.RAW_IRON_BLOCK)), CreativeModTab.CREATIVE_MODE_TAB);
 
-    // Stacked Pumpkins
-    public static final Block STACKED_PUMPKINS = registerBlock("stacked_pumpkins",
-            new Block(FabricBlockSettings.copyOf(Blocks.PUMPKIN)), CreativeModTab.CREATIVE_MODE_TAB);
+    // Stacked Raw Gold Blocks
+    public static final Block STACKED_RAW_GOLD_BLOCKS = registerBlock("stacked_raw_gold_blocks",
+            new Block(FabricBlockSettings.copyOf(Blocks.RAW_GOLD_BLOCK)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Raw Copper Blocks
+    public static final Block STACKED_RAW_COPPER_BLOCKS = registerBlock("stacked_raw_copper_blocks",
+            new Block(FabricBlockSettings.copyOf(Blocks.RAW_COPPER_BLOCK)), CreativeModTab.CREATIVE_MODE_TAB);
 
     // Stacked Lapis Block
     public static final Block STACKED_LAPIS_BLOCK = registerBlock("stacked_lapis_blocks",
@@ -76,12 +80,24 @@ public class BlockRegistry {
     public static final Block STACKED_QUARTZ_BLOCK = registerBlock("stacked_quartz_blocks",
             new Block(FabricBlockSettings.copyOf(Blocks.QUARTZ_BLOCK)), CreativeModTab.CREATIVE_MODE_TAB);
 
+    // Stacked Melons
+    public static final Block STACKED_MELONS = registerBlock("stacked_melons",
+            new Block(FabricBlockSettings.copyOf(Blocks.MELON)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Pumpkins
+    public static final Block STACKED_PUMPKINS = registerBlock("stacked_pumpkins",
+            new Block(FabricBlockSettings.copyOf(Blocks.PUMPKIN)), CreativeModTab.CREATIVE_MODE_TAB);
+
     // Stacked Oak Logs
     public static final Block STACKED_OAK_LOGS = registerBlock("stacked_oak_logs",
             new Block(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
     // Stacked Stripped Oak Logs
     public static final Block STACKED_STRIPPED_OAK_LOGS = registerBlock("stacked_stripped_oak_logs",
+            new Block(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Oak Planks
+    public static final Block STACKED_OAK_PLANKS = registerBlock("stacked_oak_planks",
             new Block(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
     // Stacked Spruce Logs
@@ -92,12 +108,20 @@ public class BlockRegistry {
     public static final Block STACKED_STRIPPED_SPRUCE_LOGS = registerBlock("stacked_stripped_spruce_logs",
             new Block(FabricBlockSettings.copyOf(Blocks.SPRUCE_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
+    // Stacked Spruce Planks
+    public static final Block STACKED_SPRUCE_PLANKS = registerBlock("stacked_spruce_planks",
+            new Block(FabricBlockSettings.copyOf(Blocks.SPRUCE_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
+
     // Stacked Birch Logs
     public static final Block STACKED_BIRCH_LOGS = registerBlock("stacked_birch_logs",
             new Block(FabricBlockSettings.copyOf(Blocks.BIRCH_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
     // Stacked Stripped Birch Logs
     public static final Block STACKED_STRIPPED_BIRCH_LOGS = registerBlock("stacked_stripped_birch_logs",
+            new Block(FabricBlockSettings.copyOf(Blocks.BIRCH_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Birch Planks
+    public static final Block STACKED_BIRCH_PLANKS = registerBlock("stacked_birch_planks",
             new Block(FabricBlockSettings.copyOf(Blocks.BIRCH_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
     // Stacked Jungle Logs
@@ -108,12 +132,20 @@ public class BlockRegistry {
     public static final Block STACKED_STRIPPED_JUNGLE_LOGS = registerBlock("stacked_stripped_jungle_logs",
             new Block(FabricBlockSettings.copyOf(Blocks.JUNGLE_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
+    // Stacked Jungle Planks
+    public static final Block STACKED_JUNGLE_PLANKS = registerBlock("stacked_jungle_planks",
+            new Block(FabricBlockSettings.copyOf(Blocks.JUNGLE_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
+
     // Stacked Acacia Logs
     public static final Block STACKED_ACACIA_LOGS = registerBlock("stacked_acacia_logs",
             new Block(FabricBlockSettings.copyOf(Blocks.ACACIA_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
     // Stacked Stripped Acacia Logs
     public static final Block STACKED_STRIPPED_ACACIA_LOGS = registerBlock("stacked_stripped_acacia_logs",
+            new Block(FabricBlockSettings.copyOf(Blocks.ACACIA_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Acacia Planks
+    public static final Block STACKED_ACACIA_PLANKS = registerBlock("stacked_acacia_planks",
             new Block(FabricBlockSettings.copyOf(Blocks.ACACIA_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
     // Stacked Dark Oak Logs
@@ -124,12 +156,20 @@ public class BlockRegistry {
     public static final Block STACKED_STRIPPED_DARK_OAK_LOGS = registerBlock("stacked_stripped_dark_oak_logs",
             new Block(FabricBlockSettings.copyOf(Blocks.DARK_OAK_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
+    // Stacked Dark Oak Planks
+    public static final Block STACKED_DARK_OAK_PLANKS = registerBlock("stacked_dark_oak_planks",
+            new Block(FabricBlockSettings.copyOf(Blocks.DARK_OAK_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
+
     // Stacked Mangrove Logs
     public static final Block STACKED_MANGROVE_LOGS = registerBlock("stacked_mangrove_logs",
             new Block(FabricBlockSettings.copyOf(Blocks.MANGROVE_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
     // Stacked Stripped Mangrove Logs
     public static final Block STACKED_STRIPPED_MANGROVE_LOGS = registerBlock("stacked_stripped_mangrove_logs",
+            new Block(FabricBlockSettings.copyOf(Blocks.MANGROVE_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Mangrove Planks
+    public static final Block STACKED_MANGROVE_PLANKS = registerBlock("stacked_mangrove_planks",
             new Block(FabricBlockSettings.copyOf(Blocks.MANGROVE_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
     // Stacked Crimson Logs
@@ -140,12 +180,20 @@ public class BlockRegistry {
     public static final Block STACKED_STRIPPED_CRIMSON_STEMS = registerBlock("stacked_stripped_crimson_stems",
             new Block(FabricBlockSettings.copyOf(Blocks.CRIMSON_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
+    // Stacked Crimson Planks
+    public static final Block STACKED_CRIMSON_PLANKS = registerBlock("stacked_crimson_planks",
+            new Block(FabricBlockSettings.copyOf(Blocks.CRIMSON_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
+
     // Stacked Warped Logs
     public static final Block STACKED_WARPED_STEMS = registerBlock("stacked_warped_stems",
             new Block(FabricBlockSettings.copyOf(Blocks.WARPED_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
     // Stacked Stripped Warped Logs
     public static final Block STACKED_STRIPPED_WARPED_STEMS = registerBlock("stacked_stripped_warped_stems",
+            new Block(FabricBlockSettings.copyOf(Blocks.WARPED_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
+
+    // Stacked Warped Planks
+    public static final Block STACKED_WARPED_PLANKS = registerBlock("stacked_warped_planks",
             new Block(FabricBlockSettings.copyOf(Blocks.WARPED_PLANKS)), CreativeModTab.CREATIVE_MODE_TAB);
 
     private static Block registerBlock(String name, Block block, ItemGroup tab) {
