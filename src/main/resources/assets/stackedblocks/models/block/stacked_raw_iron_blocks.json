@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "stackedblocks:block/stacked_raw_iron_blocks_side",
+    "bottom": "stackedblocks:block/stacked_raw_iron_blocks_bottom",
+    "top": "stackedblocks:block/stacked_raw_iron_blocks_top"
+  }
+}

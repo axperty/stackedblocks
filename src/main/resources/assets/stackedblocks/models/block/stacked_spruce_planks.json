@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "stackedblocks:block/stacked_spruce_planks_side",
+    "bottom": "stackedblocks:block/stacked_spruce_planks_bottom",
+    "top": "stackedblocks:block/stacked_spruce_planks_top"
+  }
+}

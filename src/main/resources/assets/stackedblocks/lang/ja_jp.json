@@ -43,5 +43,21 @@
   "block.stackedblocks.stacked_pale_oak_logs": "積み重ねられた淡いオークの丸太",
   "block.stackedblocks.stacked_stripped_pale_oak_logs": "積み重ねられた剥いだ淡いオークの丸太",
 
+  "block.stackedblocks.stacked_raw_iron_blocks": "積み重ねられた生の鉄ブロック",
+  "block.stackedblocks.stacked_raw_gold_blocks": "積み重ねられた生の金ブロック",
+  "block.stackedblocks.stacked_raw_copper_blocks": "積み重ねられた生の銅ブロック",
+  "block.stackedblocks.stacked_acacia_planks": "積み重ねられたアカシアの板材",
+  "block.stackedblocks.stacked_bamboo_planks": "積み重ねられた竹の板材",
+  "block.stackedblocks.stacked_birch_planks": "積み重ねられたシラカバの板材",
+  "block.stackedblocks.stacked_cherry_planks": "積み重ねられたサクラの板材",
+  "block.stackedblocks.stacked_crimson_planks": "積み重ねられたクリムゾンの板材",
+  "block.stackedblocks.stacked_dark_oak_planks": "積み重ねられたダークオークの板材",
+  "block.stackedblocks.stacked_jungle_planks": "積み重ねられたジャングルの板材",
+  "block.stackedblocks.stacked_mangrove_planks": "積み重ねられたマングローブの板材",
+  "block.stackedblocks.stacked_oak_planks": "積み重ねられたオークの板材",
+  "block.stackedblocks.stacked_pale_oak_planks": "積み重ねられた薄いオークの板材",
+  "block.stackedblocks.stacked_spruce_planks": "積み重ねられたトウヒの板材",
+  "block.stackedblocks.stacked_warped_planks": "積み重ねられた歪んだ板材",
+
   "itemGroup.stackedblocks": "Stacked Blocks"
 }
