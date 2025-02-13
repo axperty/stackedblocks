@@ -28,12 +28,6 @@ public class BlockRegistry {
         BlockList.STACKED_BRICKS = block("stacked_bricks",
                 new Block(AbstractBlock.Settings.copy(Blocks.BRICKS)));
 
-        BlockList.STACKED_MELONS = block("stacked_melons",
-                new Block(AbstractBlock.Settings.copy(Blocks.MELON)));
-
-        BlockList.STACKED_PUMPKINS = block("stacked_pumpkins",
-                new Block(AbstractBlock.Settings.copy(Blocks.PUMPKIN)));
-
         BlockList.STACKED_RAW_IRON_BLOCKS = block("stacked_raw_iron_blocks",
                 new Block(AbstractBlock.Settings.copy(Blocks.RAW_IRON_BLOCK)));
 
@@ -69,6 +63,12 @@ public class BlockRegistry {
 
         BlockList.STACKED_QUARTZ_BLOCKS = block("stacked_quartz_blocks",
                 new Block(AbstractBlock.Settings.copy(Blocks.QUARTZ_BLOCK)));
+
+        BlockList.STACKED_MELONS = block("stacked_melons",
+                new Block(AbstractBlock.Settings.copy(Blocks.MELON)));
+
+        BlockList.STACKED_PUMPKINS = block("stacked_pumpkins",
+                new Block(AbstractBlock.Settings.copy(Blocks.PUMPKIN)));
 
         BlockList.STACKED_OAK_LOGS = block("stacked_oak_logs",
                 new Block(AbstractBlock.Settings.copy(Blocks.OAK_PLANKS)));
