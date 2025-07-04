@@ -3,14 +3,23 @@ package com.axperty.stackedblocks.registry;
 import com.axperty.stackedblocks.StackedBlocks;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
-import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+import com.google.common.collect.Sets;
+
+import java.util.LinkedHashSet;
+import java.util.function.Supplier;
 
 public class ItemRegistry {
-    public static final DeferredRegister<Item> ITEMS =
-            DeferredRegister.create(ForgeRegistries.ITEMS, StackedBlocks.MOD_ID);
+    public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, StackedBlocks.MOD_ID);
+    public static LinkedHashSet<RegistryObject<Item>> CREATIVE_TAB_ITEMS = Sets.newLinkedHashSet();
+
+    public static RegistryObject<Item> registerWithTab(final String name, final Supplier<Item> supplier) {
+        RegistryObject<Item> block = ITEMS.register(name, supplier);
+        CREATIVE_TAB_ITEMS.add(block);
+        return block;
+    }
 
     // Stacked Stone Blocks Item
     public static final RegistryObject<Item> STACKED_STONE_BLOCKS_ITEM = ITEMS.register("stacked_stone_blocks",
@@ -291,8 +300,4 @@ public class ItemRegistry {
     public static final RegistryObject<Item> STACKED_WARPED_PLANKS_ITEM = ITEMS.register("stacked_warped_planks",
             () -> new BlockItem(BlockRegistry.STACKED_WARPED_PLANKS.get(), new Item.Properties().setId(ITEMS.key("stacked_warped_planks")))
     );
-
-    public static void register(IEventBus eventBus) {
-        ITEMS.register(eventBus);
-    }
 }

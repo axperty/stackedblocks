@@ -4,8 +4,6 @@ import com.axperty.stackedblocks.registry.BlockRegistry;
 import com.axperty.stackedblocks.registry.CreativeTabRegistry;
 import com.axperty.stackedblocks.registry.ItemRegistry;
 import com.mojang.logging.LogUtils;
-import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
@@ -16,10 +14,9 @@ public class StackedBlocks {
     public static final Logger LOGGER = LogUtils.getLogger();
 
     public StackedBlocks(FMLJavaModLoadingContext context) {
-        IEventBus modEventBus = context.getModEventBus();
-        BlockRegistry.register(modEventBus);
-        ItemRegistry.register(modEventBus);
-        CreativeTabRegistry.register(modEventBus);
-        MinecraftForge.EVENT_BUS.register(this);
+        var modBusGroup = context.getModBusGroup();
+        BlockRegistry.BLOCKS.register(modBusGroup);
+        ItemRegistry.ITEMS.register(modBusGroup);
+        CreativeTabRegistry.CREATIVE_MODE_TABS.register(modBusGroup);
     }
 }

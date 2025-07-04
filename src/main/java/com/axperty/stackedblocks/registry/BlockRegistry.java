@@ -1,17 +1,11 @@
 package com.axperty.stackedblocks.registry;
 
 import com.axperty.stackedblocks.StackedBlocks;
-import net.minecraft.world.item.BlockItem;
-import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.block.SoundType;
-import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
-
-import java.util.function.Supplier;
 
 public class BlockRegistry {
     public static final DeferredRegister<Block> BLOCKS =
@@ -240,8 +234,4 @@ public class BlockRegistry {
     // Stacked Warped Planks
     public static final RegistryObject<Block> STACKED_WARPED_PLANKS = BLOCKS.register("stacked_warped_planks",
             () -> new Block(Block.Properties.ofFullCopy(Blocks.WARPED_PLANKS).setId(BLOCKS.key("stacked_warped_planks"))));
-
-    public static void register(IEventBus eventBus) {
-        BLOCKS.register(eventBus);
-    }
 }
