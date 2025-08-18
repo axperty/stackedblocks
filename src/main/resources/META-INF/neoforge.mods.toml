@@ -1,0 +1,27 @@
+license="${mod_license}"
+issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+showAsDataPack=true
+
+# A list of mods - how many allowed here is determined by the individual mod loader
+[[mods]] #mandatory
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile="examplemod.png"
+authors="${mod_authors}"
+description='''${mod_description}'''
+
+[[dependencies.${mod_id}]]
+modId="neoforge"
+type="required"
+versionRange="[${neo_version},)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="minecraft"
+type="required"
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"

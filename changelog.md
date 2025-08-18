@@ -4,22 +4,7 @@
 
 ### ✨ What's New:
 
-- Added new types of stacked blocks for:
-  - Raw Copper Block
-  - Raw Gold Block
-  - Raw Iron Block
-  - Acacia Planks
-  - Bamboo Planks
-  - Birch Planks
-  - Cherry Planks
-  - Crimson Planks
-  - Dark Oak Planks
-  - Jungle Planks
-  - Mangrove Planks
-  - Oak Planks
-  - Pale Oak Planks
-  - Spruce Planks
-  - Warped Planks
+- Lead can now be crafted by only using strings instead of also having to use a slime ball.
 
 ***
 
