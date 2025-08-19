@@ -4,19 +4,7 @@
 
 ### ✨ What's New:
 
-- Added Stacked Lapis Blocks.
-- Added Stacked Redstone Blocks.
-- Added Stacked Coal Blocks.
-- Added Stacked Iron Blocks.
-- Added Stacked Gold Blocks.
-- Added Stacked Emerald Blocks.
-- Added Stacked Diamond Blocks.
-- Added Stacked Netherite Blocks.
-- Added Stacked Quartz Blocks.
-
-### 🛠️ Bug Fixes:
-
-- Fixed a bug where the player wasn't able to unlock the stacked oak logs recipe when obtaining an oak log.
+- Lead can now be crafted by only using strings instead of also having to use a slime ball.
 
 ***
 
