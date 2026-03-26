@@ -1,13 +1,17 @@
 package com.axperty.stackedblocks.registry;
 
 import com.axperty.stackedblocks.StackedBlocks;
-import net.minecraft.block.*;
-import net.minecraft.item.BlockItem;
-import net.minecraft.item.Item;
-import net.minecraft.item.Items;
-import net.minecraft.registry.RegistryKey;
-import net.minecraft.registry.RegistryKeys;
-import net.minecraft.util.Identifier;
+import net.minecraft.world.item.BlockItem;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.Items;
+import net.minecraft.resources.ResourceKey;
+import net.minecraft.core.registries.Registries;
+import net.minecraft.resources.Identifier;
+import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.Blocks;
+import net.minecraft.world.level.block.state.BlockBehaviour;
+import net.minecraft.core.Registry;
+import net.minecraft.core.registries.BuiltInRegistries;
 
 import java.util.function.Function;
 
@@ -15,242 +19,247 @@ public class BlockRegistry {
 
     // Stacked Stone Blocks
     public static final Block STACKED_STONE_BLOCKS = registerBlock("stacked_stone_blocks",
-            Block::new, Block.Settings.copy(Blocks.STONE));
+            Block::new, Block.Properties.ofFullCopy(Blocks.STONE));
 
     // Stacked Cobblestone Blocks
     public static final Block STACKED_COBBLESTONE_BLOCKS = registerBlock("stacked_cobblestone_blocks",
-            Block::new, Block.Settings.copy(Blocks.COBBLESTONE));
+            Block::new, Block.Properties.ofFullCopy(Blocks.COBBLESTONE));
 
     // Stacked Netherrack Blocks
     public static final Block STACKED_NETHERRACK_BLOCKS = registerBlock("stacked_netherrack_blocks",
-            Block::new, Block.Settings.copy(Blocks.NETHERRACK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.NETHERRACK));
 
     // Stacked Bricks
     public static final Block STACKED_BRICKS = registerBlock("stacked_bricks",
-            Block::new, Block.Settings.copy(Blocks.BRICKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.BRICKS));
 
     // Stacked Resin Blocks
     public static final Block STACKED_RESIN_BLOCKS = registerBlock("stacked_resin_blocks",
-            Block::new, Block.Settings.copy(Blocks.RESIN_BLOCK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.RESIN_BLOCK));
 
     // Stacked Resin Bricks
     public static final Block STACKED_RESIN_BRICKS = registerBlock("stacked_resin_bricks",
-            Block::new, Block.Settings.copy(Blocks.RESIN_BRICKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.RESIN_BRICKS));
 
     // Stacked Melons
     public static final Block STACKED_MELONS = registerBlock("stacked_melons",
-            Block::new, Block.Settings.copy(Blocks.MELON));
+            Block::new, Block.Properties.ofFullCopy(Blocks.MELON));
 
     // Stacked Pumpkins
     public static final Block STACKED_PUMPKINS = registerBlock("stacked_pumpkins",
-            Block::new, Block.Settings.copy(Blocks.PUMPKIN));
+            Block::new, Block.Properties.ofFullCopy(Blocks.PUMPKIN));
 
     // Stacked Raw Iron Blocks
     public static final Block STACKED_RAW_IRON_BLOCKS = registerBlock("stacked_raw_iron_blocks",
-            Block::new, Block.Settings.copy(Blocks.RAW_IRON_BLOCK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.RAW_IRON_BLOCK));
 
     // Stacked Raw Gold Blocks
     public static final Block STACKED_RAW_GOLD_BLOCKS = registerBlock("stacked_raw_gold_blocks",
-            Block::new, Block.Settings.copy(Blocks.RAW_GOLD_BLOCK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.RAW_GOLD_BLOCK));
 
     // Stacked Raw Copper Blocks
     public static final Block STACKED_RAW_COPPER_BLOCKS = registerBlock("stacked_raw_copper_blocks",
-            Block::new, Block.Settings.copy(Blocks.RAW_COPPER_BLOCK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.RAW_COPPER_BLOCK));
 
     // Stacked Lapis Blocks
     public static final Block STACKED_LAPIS_BLOCKS = registerBlock("stacked_lapis_blocks",
-            Block::new, Block.Settings.copy(Blocks.LAPIS_BLOCK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.LAPIS_BLOCK));
 
     // Stacked Redstone Blocks
     public static final Block STACKED_REDSTONE_BLOCKS = registerBlock("stacked_redstone_blocks",
-            Block::new, Block.Settings.copy(Blocks.REDSTONE_BLOCK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.REDSTONE_BLOCK));
 
     // Stacked Coal Blocks
     public static final Block STACKED_COAL_BLOCKS = registerBlock("stacked_coal_blocks",
-            Block::new, Block.Settings.copy(Blocks.COAL_BLOCK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.COAL_BLOCK));
 
     // Stacked Iron Blocks
     public static final Block STACKED_IRON_BLOCKS = registerBlock("stacked_iron_blocks",
-            Block::new, Block.Settings.copy(Blocks.IRON_BLOCK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.IRON_BLOCK));
 
     // Stacked Gold Blocks
     public static final Block STACKED_GOLD_BLOCKS = registerBlock("stacked_gold_blocks",
-            Block::new, Block.Settings.copy(Blocks.GOLD_BLOCK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.GOLD_BLOCK));
 
     // Stacked Emerald Blocks
     public static final Block STACKED_EMERALD_BLOCKS = registerBlock("stacked_emerald_blocks",
-            Block::new, Block.Settings.copy(Blocks.EMERALD_BLOCK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.EMERALD_BLOCK));
 
     // Stacked Diamond Blocks
     public static final Block STACKED_DIAMOND_BLOCKS = registerBlock("stacked_diamond_blocks",
-            Block::new, Block.Settings.copy(Blocks.DIAMOND_BLOCK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.DIAMOND_BLOCK));
 
     // Stacked Netherite Blocks
     public static final Block STACKED_NETHERITE_BLOCKS = registerBlock("stacked_netherite_blocks",
-            Block::new, Block.Settings.copy(Blocks.NETHERITE_BLOCK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.NETHERITE_BLOCK));
 
     // Stacked Quartz Blocks
     public static final Block STACKED_QUARTZ_BLOCKS = registerBlock("stacked_quartz_blocks",
-            Block::new, Block.Settings.copy(Blocks.QUARTZ_BLOCK));
+            Block::new, Block.Properties.ofFullCopy(Blocks.QUARTZ_BLOCK));
 
     // Stacked Oak Logs
     public static final Block STACKED_OAK_LOGS = registerBlock("stacked_oak_logs",
-            Block::new, Block.Settings.copy(Blocks.OAK_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.OAK_PLANKS));
 
     // Stacked Stripped Oak Logs
     public static final Block STACKED_STRIPPED_OAK_LOGS = registerBlock("stacked_stripped_oak_logs",
-            Block::new, Block.Settings.copy(Blocks.OAK_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.OAK_PLANKS));
 
     // Stacked Oak Planks
     public static final Block STACKED_OAK_PLANKS = registerBlock("stacked_oak_planks",
-            Block::new, Block.Settings.copy(Blocks.OAK_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.OAK_PLANKS));
 
     // Stacked Spruce Logs
     public static final Block STACKED_SPRUCE_LOGS = registerBlock("stacked_spruce_logs",
-            Block::new, Block.Settings.copy(Blocks.SPRUCE_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.SPRUCE_PLANKS));
 
     // Stacked Stripped Spruce Logs
     public static final Block STACKED_STRIPPED_SPRUCE_LOGS = registerBlock("stacked_stripped_spruce_logs",
-            Block::new, Block.Settings.copy(Blocks.SPRUCE_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.SPRUCE_PLANKS));
 
     // Stacked Spruce Planks
     public static final Block STACKED_SPRUCE_PLANKS = registerBlock("stacked_spruce_planks",
-            Block::new, Block.Settings.copy(Blocks.SPRUCE_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.SPRUCE_PLANKS));
 
     // Stacked Birch Logs
     public static final Block STACKED_BIRCH_LOGS = registerBlock("stacked_birch_logs",
-            Block::new, Block.Settings.copy(Blocks.BIRCH_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.BIRCH_PLANKS));
 
     // Stacked Stripped Birch Logs
     public static final Block STACKED_STRIPPED_BIRCH_LOGS = registerBlock("stacked_stripped_birch_logs",
-            Block::new, Block.Settings.copy(Blocks.BIRCH_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.BIRCH_PLANKS));
 
     // Stacked Birch Planks
     public static final Block STACKED_BIRCH_PLANKS = registerBlock("stacked_birch_planks",
-            Block::new, Block.Settings.copy(Blocks.BIRCH_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.BIRCH_PLANKS));
 
     // Stacked Jungle Logs
     public static final Block STACKED_JUNGLE_LOGS = registerBlock("stacked_jungle_logs",
-            Block::new, Block.Settings.copy(Blocks.JUNGLE_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.JUNGLE_PLANKS));
 
     // Stacked Stripped Jungle Logs
     public static final Block STACKED_STRIPPED_JUNGLE_LOGS = registerBlock("stacked_stripped_jungle_logs",
-            Block::new, Block.Settings.copy(Blocks.JUNGLE_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.JUNGLE_PLANKS));
 
     // Stacked Jungle Planks
     public static final Block STACKED_JUNGLE_PLANKS = registerBlock("stacked_jungle_planks",
-            Block::new, Block.Settings.copy(Blocks.JUNGLE_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.JUNGLE_PLANKS));
 
     // Stacked Acacia Logs
     public static final Block STACKED_ACACIA_LOGS = registerBlock("stacked_acacia_logs",
-            Block::new, Block.Settings.copy(Blocks.ACACIA_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.ACACIA_PLANKS));
 
     // Stacked Stripped Acacia Logs
     public static final Block STACKED_STRIPPED_ACACIA_LOGS = registerBlock("stacked_stripped_acacia_logs",
-            Block::new, Block.Settings.copy(Blocks.ACACIA_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.ACACIA_PLANKS));
 
     // Stacked Acacia Planks
     public static final Block STACKED_ACACIA_PLANKS = registerBlock("stacked_acacia_planks",
-            Block::new, Block.Settings.copy(Blocks.ACACIA_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.ACACIA_PLANKS));
 
     // Stacked Dark Oak Logs
     public static final Block STACKED_DARK_OAK_LOGS = registerBlock("stacked_dark_oak_logs",
-            Block::new, Block.Settings.copy(Blocks.DARK_OAK_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.DARK_OAK_PLANKS));
 
     // Stacked Stripped Dark Oak Logs
     public static final Block STACKED_STRIPPED_DARK_OAK_LOGS = registerBlock("stacked_stripped_dark_oak_logs",
-            Block::new, Block.Settings.copy(Blocks.DARK_OAK_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.DARK_OAK_PLANKS));
 
     // Stacked Dark Oak Planks
     public static final Block STACKED_DARK_OAK_PLANKS = registerBlock("stacked_dark_oak_planks",
-            Block::new, Block.Settings.copy(Blocks.DARK_OAK_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.DARK_OAK_PLANKS));
 
     // Stacked Mangrove Logs
     public static final Block STACKED_MANGROVE_LOGS = registerBlock("stacked_mangrove_logs",
-            Block::new, Block.Settings.copy(Blocks.MANGROVE_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.MANGROVE_PLANKS));
 
     // Stacked Stripped Mangrove Logs
     public static final Block STACKED_STRIPPED_MANGROVE_LOGS = registerBlock("stacked_stripped_mangrove_logs",
-            Block::new, Block.Settings.copy(Blocks.MANGROVE_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.MANGROVE_PLANKS));
 
     // Stacked Mangrove Planks
     public static final Block STACKED_MANGROVE_PLANKS = registerBlock("stacked_mangrove_planks",
-            Block::new, Block.Settings.copy(Blocks.MANGROVE_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.MANGROVE_PLANKS));
 
     // Stacked Cherry Logs
     public static final Block STACKED_CHERRY_LOGS = registerBlock("stacked_cherry_logs",
-            Block::new, Block.Settings.copy(Blocks.CHERRY_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.CHERRY_PLANKS));
 
     // Stacked Stripped Cherry Logs
     public static final Block STACKED_STRIPPED_CHERRY_LOGS = registerBlock("stacked_stripped_cherry_logs",
-            Block::new, Block.Settings.copy(Blocks.CHERRY_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.CHERRY_PLANKS));
 
     // Stacked Cherry Planks
     public static final Block STACKED_CHERRY_PLANKS = registerBlock("stacked_cherry_planks",
-            Block::new, Block.Settings.copy(Blocks.CHERRY_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.CHERRY_PLANKS));
 
     // Stacked Pale Oak Logs
     public static final Block STACKED_PALE_OAK_LOGS = registerBlock("stacked_pale_oak_logs",
-            Block::new, Block.Settings.copy(Blocks.PALE_OAK_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.PALE_OAK_PLANKS));
 
     // Stacked Stripped Pale Oak Logs
     public static final Block STACKED_STRIPPED_PALE_OAK_LOGS = registerBlock("stacked_stripped_pale_oak_logs",
-            Block::new, Block.Settings.copy(Blocks.PALE_OAK_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.PALE_OAK_PLANKS));
 
     // Stacked Pale Oak Planks
     public static final Block STACKED_PALE_OAK_PLANKS = registerBlock("stacked_pale_oak_planks",
-            Block::new, Block.Settings.copy(Blocks.PALE_OAK_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.PALE_OAK_PLANKS));
 
     // Stacked Bamboo Blocks
     public static final Block STACKED_BAMBOO_BLOCKS = registerBlock("stacked_bamboo_blocks",
-            Block::new, Block.Settings.copy(Blocks.BAMBOO_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.BAMBOO_PLANKS));
 
     // Stacked Stripped Bamboo Blocks
     public static final Block STACKED_STRIPPED_BAMBOO_BLOCKS = registerBlock("stacked_stripped_bamboo_blocks",
-            Block::new, Block.Settings.copy(Blocks.BAMBOO_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.BAMBOO_PLANKS));
 
     // Stacked Bamboo Planks
     public static final Block STACKED_BAMBOO_PLANKS = registerBlock("stacked_bamboo_planks",
-            Block::new, Block.Settings.copy(Blocks.BAMBOO_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.BAMBOO_PLANKS));
 
     // Stacked Crimson Logs
     public static final Block STACKED_CRIMSON_STEMS = registerBlock("stacked_crimson_stems",
-            Block::new, Block.Settings.copy(Blocks.CRIMSON_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.CRIMSON_PLANKS));
 
     // Stacked Stripped Crimson Logs
     public static final Block STACKED_STRIPPED_CRIMSON_STEMS = registerBlock("stacked_stripped_crimson_stems",
-            Block::new, Block.Settings.copy(Blocks.CRIMSON_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.CRIMSON_PLANKS));
 
     // Stacked Crimson Planks
     public static final Block STACKED_CRIMSON_PLANKS = registerBlock("stacked_crimson_planks",
-            Block::new, Block.Settings.copy(Blocks.CRIMSON_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.CRIMSON_PLANKS));
 
     // Stacked Warped Logs
     public static final Block STACKED_WARPED_STEMS = registerBlock("stacked_warped_stems",
-            Block::new, Block.Settings.copy(Blocks.WARPED_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.WARPED_PLANKS));
 
     // Stacked Stripped Warped Logs
     public static final Block STACKED_STRIPPED_WARPED_STEMS = registerBlock("stacked_stripped_warped_stems",
-            Block::new, Block.Settings.copy(Blocks.WARPED_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.WARPED_PLANKS));
 
     // Stacked Warped Planks
     public static final Block STACKED_WARPED_PLANKS = registerBlock("stacked_warped_planks",
-            Block::new, Block.Settings.copy(Blocks.WARPED_PLANKS));
+            Block::new, Block.Properties.ofFullCopy(Blocks.WARPED_PLANKS));
 
-    private static Block registerBlock(String path, Function<AbstractBlock.Settings, Block> factory, AbstractBlock.Settings settings) {
-        final Identifier identifier = Identifier.of(StackedBlocks.MODID, path);
-        final RegistryKey<Block> registryKey = RegistryKey.of(RegistryKeys.BLOCK, identifier);
-        final Block block = Blocks.register(registryKey, factory, settings);
-        registerItem(path, itemSettings -> new BlockItem(block, itemSettings), new Item.Settings());
+    private static Block registerBlock(String path, Function<BlockBehaviour.Properties, Block> factory, BlockBehaviour.Properties settings) {
+        final Identifier identifier = Identifier.fromNamespaceAndPath(StackedBlocks.MODID, path);
+        final ResourceKey<Block> registryKey = ResourceKey.create(Registries.BLOCK, identifier);
+        final Block block = factory.apply(settings.setId(registryKey));
+        Registry.register(BuiltInRegistries.BLOCK, registryKey, block);
+        registerItem(path, itemSettings -> new BlockItem(block, itemSettings), new net.minecraft.world.item.Item.Properties());
         return block;
     }
 
-    public static Item registerItem(String path, Function<Item.Settings, Item> factory, Item.Settings settings) {
-        final RegistryKey<Item> registryKey = RegistryKey.of(RegistryKeys.ITEM, Identifier.of(StackedBlocks.MODID, path));
-        return Items.register(registryKey, factory, settings);
+    public static Item registerItem(String path, Function<net.minecraft.world.item.Item.Properties, Item> factory, net.minecraft.world.item.Item.Properties settings) {
+        final ResourceKey<Item> registryKey = ResourceKey.create(Registries.ITEM, Identifier.fromNamespaceAndPath(StackedBlocks.MODID, path));
+        Item item = factory.apply(settings.setId(registryKey));
+        if (item instanceof BlockItem blockItem) {
+            blockItem.registerBlocks(Item.BY_BLOCK, item);
+        }
+        return Registry.register(BuiltInRegistries.ITEM, registryKey, item);
     }
 
     public static void registerModBlocks() {
-        StackedBlocks.LOGGER.info("Registering mod blocks for " + StackedBlocks.MODID);
+        StackedBlocks.LOGGER.info("Registering blocks for " + StackedBlocks.MODID);
     }
 }
