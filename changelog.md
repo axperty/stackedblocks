@@ -4,7 +4,7 @@
 
 ### ✨ What's New:
 
-- Lead can now be crafted by only using strings instead of also having to use a slime ball.
+- Added support for Minecraft 26.1.
 
 ***
 

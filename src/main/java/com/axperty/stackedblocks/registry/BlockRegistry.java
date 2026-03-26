@@ -1,6 +1,5 @@
 package com.axperty.stackedblocks.registry;
 
-import com.axperty.stackedblocks.StackedBlocks;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.state.BlockBehaviour;
@@ -8,8 +7,10 @@ import net.minecraft.world.level.material.MapColor;
 import net.neoforged.neoforge.registries.DeferredBlock;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
+import static com.axperty.stackedblocks.StackedBlocks.MOD_ID;
+
 public class BlockRegistry {
-    public static final DeferredRegister.Blocks BLOCKS = DeferredRegister.createBlocks(StackedBlocks.MOD_ID);
+    public static final DeferredRegister.Blocks BLOCKS = DeferredRegister.createBlocks(MOD_ID);
 
     // Stacked Stone Blocks
     public static final DeferredBlock<Block> STACKED_STONE_BLOCKS = BLOCKS.registerSimpleBlock("stacked_stone_blocks",
