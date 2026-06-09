@@ -4,8 +4,12 @@
 
 ### 🛠️ Minor Changes:
 
-- Fixed creative tab name.
+- Fixed creative tab name. 
+- Crafting recipes are now grouped together when using Stacked Blocks: Farmer's Delight or Stacked Blocks: Supplementaries.
 
 ***
 
-Send your suggestions or report any issues on [GitHub](https://github.com/axperty/stackedblocks/issues/new). Support Stacked Blocks by [creating your own server](https://url-shortener.curseforge.com/p5i2k) or [donating on PayPal](https://paypal.me/kevgelhorn). 
+### 📝 Feedback and Support:
+
+- Found a bug or have suggestions? [Submit an issue on GitHub](https://github.com/axperty/stackedblocks/issues/new).
+- Support this mod by [creating your own server](https://url-shortener.curseforge.com/RVyce) or [donating via PayPal](https://paypal.me/kevgelhorn).
