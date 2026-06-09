@@ -2,9 +2,9 @@
 
 ***
 
-### ✨ What's New:
+### 🛠️ Minor Changes:
 
-- Added support for Minecraft 26.1.
+- Fixed creative tab name.
 
 ***
 

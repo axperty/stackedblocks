@@ -1,7 +1,6 @@
 package com.axperty.stackedblocks.registry;
 
 import net.fabricmc.fabric.api.creativetab.v1.FabricCreativeModeTab;
-import net.fabricmc.loader.api.FabricLoader;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.core.registries.BuiltInRegistries;
@@ -12,9 +11,9 @@ import com.axperty.stackedblocks.StackedBlocks;
 
 public class CreativeTabRegistry {
     public static final CreativeModeTab STACKEDBLOCKS_ITEMGROUP = Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB,
-            Identifier.tryParse(StackedBlocks.MODID + ":" + "stackedblocks_itemgroup"),
+            Identifier.tryParse(StackedBlocks.MOD_ID + ":" + "stackedblocks_itemgroup"),
             FabricCreativeModeTab.builder()
-                    .title(Component.translatable("itemGroup.cratedelight"))
+                    .title(Component.translatable("itemGroup.stackedblocks"))
                     .icon(() -> new ItemStack(BlockRegistry.STACKED_MELONS))
                     .displayItems((displayContext, entries) -> {
 
@@ -91,7 +90,5 @@ public class CreativeTabRegistry {
                     })
                     .build());
 
-    public static void registerItemGroups() {
-        StackedBlocks.LOGGER.info("Registering creative mode tab for " + StackedBlocks.MODID);
-    }
+    public static void registerItemGroups() {}
 }

@@ -3,7 +3,6 @@ package com.axperty.stackedblocks.registry;
 import com.axperty.stackedblocks.StackedBlocks;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.Items;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.resources.Identifier;
@@ -242,7 +241,7 @@ public class BlockRegistry {
             Block::new, Block.Properties.ofFullCopy(Blocks.WARPED_PLANKS));
 
     private static Block registerBlock(String path, Function<BlockBehaviour.Properties, Block> factory, BlockBehaviour.Properties settings) {
-        final Identifier identifier = Identifier.fromNamespaceAndPath(StackedBlocks.MODID, path);
+        final Identifier identifier = Identifier.fromNamespaceAndPath(StackedBlocks.MOD_ID, path);
         final ResourceKey<Block> registryKey = ResourceKey.create(Registries.BLOCK, identifier);
         final Block block = factory.apply(settings.setId(registryKey));
         Registry.register(BuiltInRegistries.BLOCK, registryKey, block);
@@ -251,7 +250,7 @@ public class BlockRegistry {
     }
 
     public static Item registerItem(String path, Function<net.minecraft.world.item.Item.Properties, Item> factory, net.minecraft.world.item.Item.Properties settings) {
-        final ResourceKey<Item> registryKey = ResourceKey.create(Registries.ITEM, Identifier.fromNamespaceAndPath(StackedBlocks.MODID, path));
+        final ResourceKey<Item> registryKey = ResourceKey.create(Registries.ITEM, Identifier.fromNamespaceAndPath(StackedBlocks.MOD_ID, path));
         Item item = factory.apply(settings.setId(registryKey));
         if (item instanceof BlockItem blockItem) {
             blockItem.registerBlocks(Item.BY_BLOCK, item);
@@ -260,6 +259,6 @@ public class BlockRegistry {
     }
 
     public static void registerModBlocks() {
-        StackedBlocks.LOGGER.info("Registering blocks for " + StackedBlocks.MODID);
+        StackedBlocks.LOGGER.info("Registering blocks for " + StackedBlocks.MOD_ID);
     }
 }
