@@ -2,10 +2,9 @@
 
 ***
 
-### 🛠️ Minor Changes:
+### ✨ What's New:
 
-- Fixed creative tab name. 
-- Crafting recipes are now grouped together when using Stacked Blocks: Farmer's Delight or Stacked Blocks: Supplementaries.
+- Added support for Minecraft 26.2.
 
 ***
 
