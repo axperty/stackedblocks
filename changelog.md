@@ -2,9 +2,9 @@
 
 ***
 
-### 🛠️ Minor Changes:
+### ✨ What's New:
 
-- Fixed issue where Stacked Blocks wouldn't let the Minecraft instance launch in version 26.1.2 (thanks, SDUBZGAMING!).
+- Added support for Minecraft 26.2.
 
 ***
 

@@ -21,5 +21,6 @@ public class StackedBlocks
         BlockRegistry.BLOCKS.register(modEventBus);
         ItemRegistry.ITEMS.register(modEventBus);
         CreativeTabRegistry.CREATIVE_MODE_TABS.register(modEventBus);
+        LOGGER.info("Stacked Blocks loaded");
     }
 }
