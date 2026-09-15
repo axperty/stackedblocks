@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocks:stacked_bamboo_blocks"
+        "recipes": [
+        "stackedblocks:stacked_bamboo_blocks"
+      ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

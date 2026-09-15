@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocks:stacked_birch_logs"
+        "recipes": [
+        "stackedblocks:stacked_birch_logs"
+      ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

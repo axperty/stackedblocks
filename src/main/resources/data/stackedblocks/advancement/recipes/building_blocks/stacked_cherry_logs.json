@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocks:stacked_cherry_logs"
+        "recipes": [
+        "stackedblocks:stacked_cherry_logs"
+      ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

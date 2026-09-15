@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocks:stacked_spruce_logs"
+        "recipes": [
+        "stackedblocks:stacked_spruce_logs"
+      ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

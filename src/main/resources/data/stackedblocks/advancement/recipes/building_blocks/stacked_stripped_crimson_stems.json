@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocks:stacked_stripped_crimson_stems"
+        "recipes": [
+        "stackedblocks:stacked_stripped_crimson_stems"
+      ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

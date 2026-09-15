@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocks:stacked_mangrove_logs"
+        "recipes": [
+        "stackedblocks:stacked_mangrove_logs"
+      ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }
