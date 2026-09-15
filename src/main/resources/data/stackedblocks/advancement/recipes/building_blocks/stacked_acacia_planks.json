@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocks:stacked_acacia_planks"
+        "recipes": [
+        "stackedblocks:stacked_acacia_planks"
+      ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

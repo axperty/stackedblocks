@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocks:stacked_stripped_jungle_logs"
+        "recipes": [
+        "stackedblocks:stacked_stripped_jungle_logs"
+      ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

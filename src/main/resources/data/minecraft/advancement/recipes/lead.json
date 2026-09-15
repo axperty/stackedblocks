@@ -13,7 +13,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:lead"
+        "recipes": [
+          "minecraft:lead"
+        ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

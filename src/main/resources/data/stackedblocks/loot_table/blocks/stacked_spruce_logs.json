@@ -2,74 +2,72 @@
   "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
-      "bonus_rolls": 0,
       "entries": [
         {
           "type": "minecraft:alternatives",
           "children": [
             {
               "type": "minecraft:item",
-              "name": "stackedblocks:stacked_spruce_logs",
-              "conditions": [
-                {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "predicates": {
-                      "minecraft:enchantments": [
-                        {
-                          "enchantments": "minecraft:silk_touch",
-                          "levels": {
-                            "min": 1
-                          }
+              "condition": {
+                "type": "minecraft:match_tool",
+                "predicate": {
+                  "predicates": {
+                    "minecraft:enchantments": [
+                      {
+                        "enchantments": "minecraft:silk_touch",
+                        "levels": {
+                          "min": 1
                         }
-                      ]
-                    }
+                      }
+                    ]
                   }
                 }
-              ]
+              },
+              "name": "stackedblocks:stacked_spruce_logs"
             },
             {
-              "type": "minecraft:loot_table",
-              "value": {
-                "type": "minecraft:block",
-                "pools": [
-                  {
-                    "rolls": 1,
-                    "entries": [
-                      {
-                        "type": "minecraft:item",
-                        "name": "minecraft:spruce_log",
-                        "functions": [
-                          {
-                            "function": "minecraft:set_count",
-                            "count": 8
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "rolls": 1,
-                    "entries": [
-                      {
-                        "type": "minecraft:item",
-                        "name": "minecraft:lead",
-                        "functions": [
-                          {
-                            "function": "minecraft:set_count",
-                            "count": 1
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
+              "type": "minecraft:item",
+              "condition": {
+                "type": "minecraft:survives_explosion"
+              },
+              "modifier": {
+                "type": "minecraft:set_count",
+                "count": 8
+              },
+              "name": "minecraft:spruce_log"
             }
           ]
         }
-      ]
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "condition": {
+            "type": "minecraft:inverted",
+            "term": {
+              "type": "minecraft:match_tool",
+              "predicate": {
+                "predicates": {
+                  "minecraft:enchantments": [
+                    {
+                      "enchantments": "minecraft:silk_touch",
+                      "levels": {
+                        "min": 1
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "name": "minecraft:lead"
+        }
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "random_sequence": "stackedblocks:blocks/stacked_spruce_logs"
 }

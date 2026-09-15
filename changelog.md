@@ -4,7 +4,7 @@
 
 ### ✨ What's New:
 
-- Added support for Minecraft 26.2.
+- Added support for Minecraft 26.3.
 
 ***
 

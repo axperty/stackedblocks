@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocks:stacked_iron_blocks"
+        "recipes": [
+        "stackedblocks:stacked_iron_blocks"
+      ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

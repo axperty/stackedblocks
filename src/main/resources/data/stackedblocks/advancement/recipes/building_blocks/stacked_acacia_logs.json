@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "stackedblocks:stacked_acacia_logs"
+        "recipes": [
+        "stackedblocks:stacked_acacia_logs"
+      ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }
